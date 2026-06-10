@@ -1,0 +1,2001 @@
+Employee ID,Employee Name,Department,Designation,Gender,Joining Date,Exit Date,Salary,Attendance %,Location,Employment Status
+EMP1000, Nikhil Singh ,HR,Analyst,Male,31-01-2022,,,90.3,Indore,Active
+EMP1001,Aditya Choudhary,IT,Analyst,Male,11-05-2019,,30280,85.2,Mumbai,Active
+EMP1002,Vikas Deshmukh,Marketing,Coordinator,Female,15-09-2023,,76878,94.3,Mumbai,Active
+EMP1003,Bhavna Ninawe,IT,Executive,Male,25-10-2022,,62118,81.4,Hyderabad,Exited
+EMP1004,Deepak Mishra,Admin,Coordinator,Male,19-12-2021,,78217,99.2,Chennai,Active
+EMP1005,Aditya Mehta,Sales,Executive,Male,21-01-2023,,27116,93.2,Pune,Active
+EMP1006,Deepak Joshi,hr,Analyst,Female,06-04-2023,06-09-2025,65819,80.7,Bengaluru,Exited
+EMP1007,Sakshi Patel,Admin,Associate,Female,01-12-2020,,39417,78.1,Indore,Active
+EMP1008,Diya Jain,HR,Associate,Female,27-07-2021,,59347,72.0,Hyderabad,Active
+EMP1009,Ananya Reddy,IT,Analyst,Male,23-02-2024,,52718,92.3,Indore,Active
+EMP1010,Aadhya Choudhary,IT,Coordinator,Female,24-06-2023,,36131,72.7,Mumbai,Exited
+EMP1011,Deepak Singh,Human Resource,Coordinator,Female,17-10-2020,15-12-2021,68019,85.9,Indore,Exited
+EMP1012,Deepak Sharma,hr,Senior Executive,Female,08-01-2025,21-01-2026,32621,74.7,Mumbai,Exited
+EMP1013,Shreya Kulkarni,Marketing,Manager,Male,01-01-2021,,57117,74.6,Nagpur,Active
+EMP1014,Vikas Nair,HR,Senior Executive,Male,20-08-2022,,65576,71.7,Pune,Exited
+EMP1015,Aditya Reddy,hr,Manager,Female,21-12-2024,,34828,98.4,Nagpur,Active
+EMP1016,Aadhya Nair,Admin,Manager,Female,30-09-2023,,44365,82.0,Hyderabad,Active
+EMP1017,Isha Nair,Operations,Executive,Female,10-05-2020,,47451,70.6,Indore,Active
+EMP1018,Diya Choudhary,Finance,Analyst,Male,30-01-2019,,25716,97.2,Hyderabad,Active
+EMP1019,Aditya Nair,Finance,Manager,Female,14-02-2022,,35342,77.3,Wardha,Exited
+EMP1020,Kiran Pawar,Finance,Senior Executive,Female,22-01-2020,,74498,82.3,Mumbai,Active
+EMP1021,Akash Singh,HR,Analyst,Male,08-07-2023,26-11-2023,50591,86.1,Nagpur,Exited
+EMP1022,Kavya Ninawe,Sales,Associate,Male,09-03-2024,,27880,71.5,Indore,Active
+EMP1023,Manoj Sharma,hr,Associate,Female,26-08-2021,,71269,76.4,Chennai,Active
+EMP1024,Ritika Verma,Human Resource,Senior Executive,Female,02-04-2023,,69173,78.6,Indore,Active
+EMP1025,Akash Reddy,Human Resource,Coordinator,Male,16-02-2021,,25665,92.4,Mumbai,Exited
+EMP1026,Vivaan Choudhary,Operations,Coordinator,Male,21-08-2024,,25455,95.5,Pune,Active
+EMP1027,Siddharth Patel,Finance,Coordinator,Male,12-07-2023,,50271,88.6,Chennai,Active
+EMP1028,Akash Choudhary,Admin,Analyst,Female,11-11-2024,08-07-2025,59180,81.9,Bengaluru,Exited
+EMP1029,Isha Jain,hr,Executive,Male,08-02-2019,06-10-2020,31104,85.2,Nagpur,Exited
+EMP1030,Swati Mishra,hr,Coordinator,Female,27-09-2021,,75433,88.4,Indore,Exited
+EMP1031,Aarav Mehta,Sales,Executive,Male,29-02-2020,,52664,92.3,Nagpur,Active
+EMP1032,Aadhya Yadav,Admin,Coordinator,Female,12-05-2021,,52600,77.5,Mumbai,Exited
+EMP1033,Aditya Pawar,Sales,Analyst,Female,30-06-2019,,61719,74.8,Wardha,Active
+EMP1034,Vikas Pawar,Marketing,Manager,Male,09-02-2019,,27862,86.4,Hyderabad,Active
+EMP1035,Rohan Mehta,Human Resource,Senior Executive,Female,27-10-2023,,23482,97.0,Mumbai,Active
+EMP1036,Ritika Mishra,Finance,Coordinator,Female,19-10-2021,,64357,99.2,Nagpur,Active
+EMP1037,Swati Joshi,Human Resource,Associate,Male,26-12-2020,,61540,78.0,Pune,Exited
+EMP1038,Neha Verma,Operations,Senior Executive,Female,30-06-2021,,78332,94.6,Delhi,Active
+EMP1039,Diya Sharma,Finance,Senior Executive,Female,21-06-2023,,27099,89.2,Chennai,Exited
+EMP1040,Akash Mehta,sales,Analyst,Female,24-04-2019,,52237,71.1,Chennai,Active
+EMP1041,Pooja Jain,IT,Coordinator,Male,25-09-2024,,68488,77.6,Chennai,Active
+EMP1042,Aarav Nair,Marketing,Coordinator,Female,18-03-2021,26-02-2023,61279,89.9,Pune,Exited
+EMP1043,Shreya Yadav,Marketing,Coordinator,Male,20-06-2022,02-07-2024,56752,75.8,Chennai,Exited
+EMP1044,Akash Ninawe,Admin,Senior Executive,Male,17-05-2022,16-06-2022,57829,82.9,Hyderabad,Exited
+EMP1044,Isha Shinde,Operations,Manager,Male,25-05-2021,17-09-2023,40241,78.5,Hyderabad,Exited
+EMP1046,Aditya Joshi,Sales,Executive,Male,09-07-2021,,37313,77.3,Wardha,Active
+EMP1047,Siddharth Patel,Operations,Associate,Female,25-08-2023,,68328,77.3,Mumbai,Active
+EMP1048,Ritika Singh,IT,Executive,Male,15-06-2021,,78889,97.5,Pune,Active
+EMP1049,Isha Gupta,Operations,Coordinator,Female,15-12-2024,15-07-2027,76008,94.9,Indore,Exited
+EMP1050,Isha Ninawe,Operations,Coordinator,Female,18-01-2024,26-06-2026,,88.8,Bengaluru,Exited
+EMP1051,Isha Patel,Sales,Analyst,Male,18-08-2021,19-03-2024,28561,76.9,Nagpur,Exited
+EMP1052,Sakshi Deshmukh,hr,Executive,Male,27-08-2023,15-01-2025,72496,95.0,Chennai,Exited
+EMP1053,Ritika Choudhary,HR,Senior Executive,Female,08-04-2023,,64105,95.6,Chennai,Exited
+EMP1054,Vikas Mehta,Admin,Associate,Male,22-06-2021,,75125,81.7,Chennai,Exited
+EMP1055,Shreya Ninawe,Operations,Coordinator,Male,06-06-2020,,69645,72.5,Chennai,Active
+EMP1056,Arjun Shinde,Human Resource,Senior Executive,Female,25-07-2019,27-03-2020,77598,92.8,Chennai,Exited
+EMP1057,Aadhya Pawar,Sales,Senior Executive,Male,02-12-2019,,24826,89.5,Mumbai,Exited
+EMP1058,Bhavna Sharma,Finance,Analyst,Male,27-03-2021,,37973,84.2,Pune,Active
+EMP1059,Rohan Deshmukh,Operations,Analyst,Female,15-11-2021,,33012,73.2,Mumbai,Exited
+EMP1060, Swati Yadav ,Admin,Coordinator,Male,18-03-2023,06-11-2023,27961,73.1,Bengaluru,Exited
+EMP1061,Deepak Bhosale,hr,Executive,Female,18-06-2019,25-05-2021,66571,70.4,Chennai,Exited
+EMP1062,Manoj Reddy,hr,Manager,Male,11-11-2023,07-04-2026,78258,83.1,Indore,Exited
+EMP1063,Nikhil Kulkarni,Admin,Senior Executive,Male,03-06-2024,21-07-2026,53179,94.9,Pune,Exited
+EMP1064,Aadhya Shinde,Finance,Analyst,Female,18-03-2024,05-09-2025,60600,76.4,Bengaluru,Exited
+EMP1065,Sneha Kulkarni,Admin,Executive,Male,05-02-2022,,43042,91.6,Wardha,Active
+EMP1066,Vikas Joshi,Operations,Analyst,Female,03-07-2024,05-11-2024,56566,90.8,Bengaluru,Exited
+EMP1067,Akash Choudhary,sales,Senior Executive,Female,22-04-2024,24-06-2026,61357,78.1,Bengaluru,Exited
+EMP1068,Diya Singh,Finance,Analyst,Male,16-07-2022,,42267,92.2,Bengaluru,Active
+EMP1069,Shreya Choudhary,Marketing,Senior Executive,Male,05-03-2022,,43443,80.8,Bengaluru,Active
+EMP1070,Aarav Mehta,Human Resource,Coordinator,Female,28-01-2022,,25146,90.9,Nagpur,Active
+EMP1071,Nikhil Reddy,hr,Analyst,Male,20-02-2019,15-06-2020,62657,77.6,Wardha,Exited
+EMP1072,Vihaan Patel,IT,Analyst,Male,07-07-2024,,25026,94.3,Bengaluru,Active
+EMP1073,Aditya Joshi,hr,Associate,Female,01-09-2023,,67856,78.9,Chennai,Active
+EMP1074,Priya Choudhary,Admin,Manager,Male,04-09-2019,,45235,77.9,Pune,Active
+EMP1075,Sai Joshi,Human Resource,Associate,Female,04-11-2019,,18350,90.7,Wardha,Active
+EMP1076,Priya Verma,Finance,Manager,Male,26-03-2022,02-08-2023,27329,97.7,Delhi,Exited
+EMP1077,Kavya Singh,Marketing,Analyst,Male,09-07-2021,,52816,71.8,Bengaluru,Active
+EMP1078,Siddharth Choudhary,Sales,Manager,Female,04-12-2023,,79433,91.0,Bengaluru,Active
+EMP1079,Amit Mehta,Operations,Associate,Female,29-11-2023,,23224,88.1,Mumbai,Active
+EMP1080,Aditya Joshi,Admin,Associate,Female,26-03-2019,14-06-2021,40962,97.5,Nagpur,Exited
+EMP1081,Rohan Pawar,Operations,Manager,Male,09-01-2020,14-01-2021,60081,95.7,Hyderabad,Exited
+EMP1082,Kavya Reddy,Sales,Executive,Female,29-06-2023,,77614,77.6,Pune,Active
+EMP1083,Bhavna Patil,Marketing,Coordinator,Female,05-01-2019,15-08-2019,65419,88.8,Mumbai,Exited
+EMP1084,Ananya Kulkarni,Marketing,Executive,Male,20-06-2020,05-07-2022,81532,99.2,Delhi,Exited
+EMP1085,Sakshi Ninawe,Sales,Associate,Male,26-02-2019,,32871,89.4,Nagpur,Exited
+EMP1086,Rahul Yadav,Marketing,Associate,Male,24-01-2022,21-06-2023,49946,81.5,Indore,Exited
+EMP1087,Shreya Gupta,hr,Senior Executive,Male,05-02-2022,21-05-2024,84550,78.5,Bengaluru,Exited
+EMP1088,Manoj Choudhary,Admin,Coordinator,Female,28-06-2024,,76529,80.4,Indore,Active
+EMP1089,Bhavna Mehta,IT,Coordinator,Female,09-02-2024,22-02-2026,49300,77.0,Chennai,Exited
+EMP1089,Vivaan Jain,Operations,Associate,Male,11-04-2023,30-07-2025,37936,73.8,Hyderabad,Exited
+EMP1091,Deepak Singh,Operations,Associate,Male,13-02-2020,,36894,72.2,Bengaluru,Exited
+EMP1092,Sneha Bhosale,IT,Senior Executive,Female,25-11-2019,22-05-2022,67808,96.2,Mumbai,Exited
+EMP1093,Siddharth Patel,Finance,Associate,Male,23-03-2022,,29846,92.8,Pune,Active
+EMP1094,Isha Ninawe,Sales,Executive,Female,29-04-2019,,60516,80.8,Chennai,Active
+EMP1095,Arjun Joshi,Marketing,Analyst,Male,15-08-2023,,40280,88.3,Chennai,Active
+EMP1096,Siddharth Joshi,Operations,Manager,Female,09-08-2020,,78443,83.8,Mumbai,Active
+EMP1097,Ritika Shinde,Sales,Senior Executive,Female,09-10-2020,,75898,89.2,Chennai,Active
+EMP1098,Sakshi Kulkarni,Operations,Associate,Male,22-05-2022,,68422,77.1,Hyderabad,Active
+EMP1099,Rohan Yadav,Sales,Coordinator,Female,31-03-2019,,24428,95.0,Bengaluru,Exited
+EMP1100,Bhavna Joshi,Admin,Coordinator,Female,14-12-2022,,,90.3,Nagpur,Active
+EMP1101,Nikhil Singh,HR,Manager,Male,19-06-2022,,65823,72.7,Bengaluru,Exited
+EMP1102,Sneha Pawar,Human Resource,Coordinator,Female,02-04-2021,,65953,94.9,Bengaluru,Active
+EMP1103,Swati Reddy,Sales,Executive,Male,19-10-2022,,79385,92.6,Delhi,Active
+EMP1104,Deepak Patil,Marketing,Executive,Female,07-02-2023,,69717,86.1,Wardha,Active
+EMP1105,Pooja Kulkarni,Admin,Associate,Male,10-04-2023,,48647,88.6,Indore,Exited
+EMP1106,Sneha Bhosale,Finance,Executive,Male,16-09-2019,20-08-2020,71516,71.4,Mumbai,Exited
+EMP1107,Priya Reddy,hr,Associate,Female,03-02-2020,,35781,81.1,Indore,Active
+EMP1108,Kavya Choudhary,Human Resource,Coordinator,Female,27-08-2023,,82139,98.2,Bengaluru,Active
+EMP1109,Vivaan Mishra,Finance,Executive,Female,22-12-2023,14-06-2026,65537,86.3,Hyderabad,Exited
+EMP1110,Vivaan Patil,Sales,Executive,Male,16-02-2021,,77600,89.3,Mumbai,Active
+EMP1111,Vivaan Jain,Finance,Coordinator,Male,30-05-2020,,26992,87.6,Delhi,Active
+EMP1112,Sneha Gupta,Admin,Coordinator,Female,12-01-2019,09-07-2019,35038,94.0,Pune,Exited
+EMP1113,Akash Sharma,Human Resource,Executive,Male,02-03-2019,30-11-2019,60437,78.0,Nagpur,Exited
+EMP1114,Shreya Pawar,Marketing,Associate,Female,10-04-2020,,80422,85.4,Pune,Active
+EMP1115,Isha Nair,Finance,Associate,Female,27-06-2019,27-08-2019,25972,82.8,Pune,Exited
+EMP1116,Rahul Shinde,hr,Senior Executive,Female,27-11-2019,03-03-2020,34540,81.4,Indore,Exited
+EMP1117,Priya Shinde,Marketing,Manager,Male,29-10-2023,,32996,82.9,Delhi,Active
+EMP1118,Kavya Jain,Operations,Senior Executive,Female,22-06-2023,06-06-2024,73936,81.2,Nagpur,Exited
+EMP1119,Akash Reddy,hr,Associate,Male,09-01-2020,,30219,92.3,Hyderabad,Active
+EMP1120, Kiran Gupta ,Marketing,Manager,Female,03-09-2019,26-11-2020,64346,96.0,Mumbai,Exited
+EMP1121,Priya Bhosale,Sales,Analyst,Male,11-12-2022,,84507,89.7,Delhi,Active
+EMP1122,Deepak Singh,sales,Coordinator,Male,14-02-2023,,54512,94.2,Indore,Active
+EMP1123,Bhavna Bhosale,Admin,Manager,Female,18-04-2019,,53818,97.6,Hyderabad,Exited
+EMP1124,Aarav Ninawe,Human Resource,Manager,Male,30-06-2023,,36595,72.8,Indore,Active
+EMP1125,Ananya Patil,IT,Manager,Female,02-02-2024,,58846,93.3,Pune,Exited
+EMP1126,Ritika Verma,Human Resource,Senior Executive,Female,06-10-2020,,28693,89.9,Wardha,Active
+EMP1127,Siddharth Shinde,IT,Senior Executive,Female,23-01-2022,,32918,73.3,Wardha,Active
+EMP1128,Amit Yadav,HR,Analyst,Female,22-06-2021,16-09-2021,19007,98.4,Nagpur,Exited
+EMP1129,Bhavna Kulkarni,Sales,Associate,Female,05-09-2022,,19013,75.3,Chennai,Active
+EMP1130,Vikas Joshi,Marketing,Manager,Male,21-12-2022,,70044,83.1,Wardha,Active
+EMP1131,Swati Patel,sales,Executive,Female,25-10-2023,24-01-2025,55947,70.6,Hyderabad,Exited
+EMP1132,Sai Bhosale,Operations,Executive,Male,22-01-2023,,75240,83.1,Chennai,Active
+EMP1133,Amit Patel,IT,Executive,Male,24-06-2022,,40037,85.9,Delhi,Exited
+EMP1134,Ritika Mishra,sales,Analyst,Female,27-08-2020,,31474,75.9,Nagpur,Active
+EMP1134,Bhavna Patel,Human Resource,Manager,Female,16-07-2024,02-10-2026,76838,95.9,Hyderabad,Exited
+EMP1136,Arjun Shinde,hr,Coordinator,Male,04-04-2024,28-07-2026,54002,80.6,Pune,Exited
+EMP1137,Priya Shinde,Operations,Senior Executive,Male,04-06-2019,,66331,89.3,Pune,Active
+EMP1138,Siddharth Bhosale,Marketing,Associate,Male,24-04-2023,11-08-2025,23376,79.6,Wardha,Exited
+EMP1139,Amit Gupta,HR,Manager,Male,20-01-2024,,63015,85.1,Nagpur,Active
+EMP1140,Vivaan Joshi,Operations,Senior Executive,Female,05-12-2023,,65696,81.6,Hyderabad,Active
+EMP1141,Akash Bhosale,HR,Executive,Female,02-10-2022,,61213,78.5,Nagpur,Active
+EMP1142,Sneha Patel,Admin,Analyst,Male,02-08-2020,04-07-2022,69374,79.3,Chennai,Exited
+EMP1143,Nikhil Jain,Human Resource,Coordinator,Female,26-11-2024,,73496,70.5,Bengaluru,Active
+EMP1144,Sai Deshmukh,sales,Analyst,Male,14-06-2024,,47693,72.3,Pune,Active
+EMP1145,Amit Mehta,Marketing,Coordinator,Female,04-06-2019,27-03-2021,35176,74.6,Nagpur,Exited
+EMP1146,Manoj Bhosale,Human Resource,Senior Executive,Male,28-11-2023,,71852,99.1,Bengaluru,Active
+EMP1147,Bhavna Shinde,Finance,Associate,Male,27-12-2024,,58562,81.0,Wardha,Active
+EMP1148,Isha Yadav,IT,Coordinator,Male,21-08-2024,04-01-2027,44174,96.2,Mumbai,Exited
+EMP1149,Nikhil Reddy,sales,Executive,Male,25-02-2020,,55363,78.2,Indore,Active
+EMP1150,Arjun Pawar,hr,Associate,Male,28-06-2021,06-03-2024,,81.9,Hyderabad,Exited
+EMP1151,Diya Patil,hr,Senior Executive,Male,16-03-2023,,21694,95.2,Hyderabad,Active
+EMP1152,Kiran Gupta,Human Resource,Manager,Female,06-06-2019,31-10-2020,36191,83.5,Mumbai,Exited
+EMP1153,Ritika Patel,HR,Coordinator,Female,14-11-2021,,37597,73.3,Bengaluru,Active
+EMP1154,Diya Yadav,hr,Manager,Female,15-07-2019,,73027,71.9,Wardha,Active
+EMP1155,Siddharth Mehta,HR,Senior Executive,Female,11-10-2024,,36818,70.0,Hyderabad,Active
+EMP1156,Diya Choudhary,IT,Executive,Male,06-02-2021,,65265,81.7,Wardha,Active
+EMP1157,Vivaan Patil,sales,Executive,Female,04-11-2021,,64805,77.2,Pune,Active
+EMP1158,Bhavna Choudhary,sales,Coordinator,Female,30-06-2020,,64176,94.4,Nagpur,Active
+EMP1159,Manoj Shinde,Operations,Manager,Female,16-01-2021,,26270,71.1,Delhi,Active
+EMP1160,Vivaan Deshmukh,HR,Senior Executive,Male,16-07-2022,26-11-2024,80049,92.6,Delhi,Exited
+EMP1161,Priya Mishra,HR,Associate,Female,21-09-2022,,66237,92.3,Chennai,Exited
+EMP1162,Sneha Ninawe,Operations,Executive,Female,30-07-2024,11-02-2026,52959,72.4,Nagpur,Exited
+EMP1163,Vikas Yadav,sales,Manager,Female,25-02-2020,,60981,79.2,Chennai,Active
+EMP1164,Sai Shinde,sales,Coordinator,Female,06-01-2024,,64210,78.2,Mumbai,Active
+EMP1165,Aditya Patil,sales,Analyst,Female,02-10-2024,,22081,71.0,Pune,Active
+EMP1166,Diya Mishra,sales,Manager,Female,18-04-2023,,38111,98.5,Hyderabad,Active
+EMP1167,Isha Patel,Admin,Analyst,Male,17-07-2020,12-06-2022,54528,70.8,Nagpur,Exited
+EMP1168,Rahul Nair,IT,Analyst,Female,27-04-2020,17-05-2022,76493,90.8,Wardha,Exited
+EMP1169,Ananya Singh,Human Resource,Executive,Female,31-10-2019,,76341,90.0,Pune,Exited
+EMP1170,Vikas Mehta,Sales,Senior Executive,Male,13-05-2022,,40818,73.6,Delhi,Active
+EMP1171,Kiran Gupta,Finance,Coordinator,Female,16-07-2024,,65303,84.0,Indore,Active
+EMP1172,Arjun Bhosale,hr,Coordinator,Female,27-09-2019,30-10-2021,80739,93.1,Pune,Exited
+EMP1173,Arjun Jain,hr,Coordinator,Male,18-01-2024,03-02-2025,34821,93.0,Nagpur,Exited
+EMP1174,Kavya Nair,HR,Analyst,Male,23-05-2020,,57862,79.7,Delhi,Active
+EMP1175,Pooja Nair,Sales,Analyst,Female,20-11-2019,,53972,88.4,Pune,Exited
+EMP1176,Amit Ninawe,Admin,Coordinator,Male,23-09-2020,,62252,94.8,Mumbai,Active
+EMP1177,Aditya Verma,Admin,Coordinator,Male,20-12-2021,,72602,84.9,Indore,Active
+EMP1178,Priya Yadav,Operations,Manager,Male,30-09-2021,,27564,74.7,Chennai,Exited
+EMP1179,Rahul Shinde,Finance,Manager,Female,25-10-2022,,58970,92.0,Hyderabad,Active
+EMP1179, Neha Gupta ,sales,Analyst,Female,10-10-2024,,59827,73.7,Wardha,Active
+EMP1181,Diya Gupta,hr,Analyst,Male,27-07-2019,26-01-2022,72805,94.4,Hyderabad,Exited
+EMP1182,Ananya Ninawe,Operations,Executive,Male,09-10-2024,19-09-2025,83191,98.4,Indore,Exited
+EMP1183,Isha Joshi,Finance,Senior Executive,Female,16-12-2022,,24624,87.9,Wardha,Active
+EMP1184,Priya Mehta,HR,Manager,Female,16-03-2020,,52664,92.9,Hyderabad,Exited
+EMP1185,Vivaan Patil,HR,Coordinator,Female,08-03-2021,21-06-2021,68639,92.9,Bengaluru,Exited
+EMP1186,Manoj Bhosale,Admin,Associate,Female,01-05-2020,,30672,93.8,Hyderabad,Active
+EMP1187,Vikas Mishra,Human Resource,Analyst,Female,26-03-2021,10-06-2021,23100,94.1,Indore,Exited
+EMP1188,Isha Gupta,Admin,Coordinator,Female,12-10-2024,,60987,74.9,Bengaluru,Active
+EMP1189,Rohan Jain,Marketing,Executive,Female,18-09-2024,20-08-2025,80245,79.9,Pune,Exited
+EMP1190,Kavya Choudhary,Sales,Manager,Male,20-04-2019,,47824,87.5,Nagpur,Exited
+EMP1191,Amit Bhosale,IT,Coordinator,Male,28-08-2020,,22138,75.7,Wardha,Active
+EMP1192,Sneha Pawar,Human Resource,Coordinator,Female,19-08-2023,,71788,96.2,Mumbai,Active
+EMP1193,Sakshi Gupta,Marketing,Senior Executive,Male,29-04-2021,30-09-2022,67391,83.8,Indore,Exited
+EMP1194,Sneha Mehta,sales,Senior Executive,Female,18-12-2021,,50311,76.7,Bengaluru,Exited
+EMP1195,Bhavna Yadav,Finance,Senior Executive,Male,25-06-2024,18-02-2026,53842,87.2,Indore,Exited
+EMP1196,Neha Patil,sales,Senior Executive,Female,22-08-2020,,28358,89.7,Wardha,Exited
+EMP1197,Ananya Deshmukh,Marketing,Analyst,Male,15-01-2022,,49363,90.1,Indore,Exited
+EMP1198,Diya Joshi,HR,Manager,Male,15-02-2020,12-07-2021,31178,70.2,Indore,Exited
+EMP1199,Swati Ninawe,IT,Senior Executive,Female,02-05-2024,15-07-2026,55649,89.4,Pune,Exited
+EMP1200,Nikhil Choudhary,Finance,Associate,Male,31-12-2024,,,98.0,Mumbai,Active
+EMP1201,Manoj Patil,Operations,Coordinator,Male,02-02-2021,13-03-2021,57110,97.9,Hyderabad,Exited
+EMP1202,Priya Shinde,Marketing,Associate,Female,17-11-2024,03-05-2025,84088,75.8,Pune,Exited
+EMP1203,Sneha Ninawe,Operations,Manager,Female,19-11-2021,,19846,93.7,Delhi,Active
+EMP1204,Sai Bhosale,IT,Analyst,Male,18-10-2023,,30502,84.3,Delhi,Exited
+EMP1205,Aarav Kulkarni,IT,Coordinator,Male,22-08-2021,24-08-2022,57576,77.8,Hyderabad,Exited
+EMP1206,Sakshi Joshi,HR,Manager,Female,29-04-2020,18-07-2021,83866,90.7,Bengaluru,Exited
+EMP1207,Pooja Bhosale,Finance,Analyst,Female,16-06-2021,,80676,92.4,Hyderabad,Active
+EMP1208,Kavya Mehta,Operations,Coordinator,Female,13-06-2021,,28730,85.8,Hyderabad,Active
+EMP1209,Aditya Choudhary,hr,Analyst,Female,10-09-2019,,37641,95.6,Wardha,Active
+EMP1210,Vihaan Deshmukh,Admin,Associate,Male,25-06-2024,,84895,83.6,Indore,Active
+EMP1211,Kavya Shinde,Admin,Associate,Female,25-08-2019,04-08-2020,20853,94.5,Delhi,Exited
+EMP1212,Rohan Patel,HR,Executive,Female,02-10-2023,08-05-2025,25897,71.0,Chennai,Exited
+EMP1213,Sai Gupta,IT,Associate,Male,14-03-2023,07-11-2025,67479,90.5,Indore,Exited
+EMP1214,Arjun Mishra,hr,Executive,Male,01-01-2021,15-02-2023,47188,99.4,Wardha,Exited
+EMP1215,Akash Mehta,IT,Senior Executive,Male,18-12-2024,27-09-2025,78375,78.3,Pune,Exited
+EMP1216,Vivaan Pawar,Admin,Executive,Male,06-03-2019,,45011,87.8,Wardha,Active
+EMP1217,Siddharth Verma,Finance,Executive,Male,01-07-2019,02-02-2021,46477,85.1,Bengaluru,Exited
+EMP1218,Diya Choudhary,sales,Analyst,Male,06-08-2022,,57552,82.4,Bengaluru,Active
+EMP1219,Vivaan Mehta,Admin,Manager,Female,18-12-2020,06-03-2021,63143,93.6,Hyderabad,Exited
+EMP1220,Sakshi Pawar,IT,Analyst,Male,03-09-2020,14-11-2022,80065,79.0,Nagpur,Exited
+EMP1221,Kiran Shinde,HR,Analyst,Female,18-08-2023,01-02-2024,68910,76.1,Pune,Exited
+EMP1222,Swati Shinde,sales,Senior Executive,Female,14-01-2020,,24755,90.2,Mumbai,Active
+EMP1223,Deepak Patel,Finance,Senior Executive,Male,07-06-2021,,61642,76.4,Delhi,Exited
+EMP1224,Shreya Singh,Operations,Analyst,Female,20-09-2021,,69987,93.3,Chennai,Active
+EMP1224,Isha Mehta,sales,Associate,Male,17-06-2022,05-01-2025,83179,94.1,Wardha,Exited
+EMP1226,Bhavna Jain,Finance,Manager,Male,27-02-2023,25-10-2024,47002,70.5,Indore,Exited
+EMP1227,Swati Choudhary,Admin,Analyst,Female,07-09-2023,,61236,87.1,Delhi,Exited
+EMP1228,Rahul Mehta,sales,Associate,Male,20-11-2021,08-10-2023,82303,92.0,Hyderabad,Exited
+EMP1229,Sai Gupta,Marketing,Coordinator,Male,23-06-2024,,25698,95.2,Pune,Active
+EMP1230,Manoj Verma,HR,Executive,Male,17-08-2023,,48334,70.3,Indore,Active
+EMP1231,Isha Mishra,HR,Executive,Male,02-06-2024,,71914,85.9,Bengaluru,Exited
+EMP1232,Vikas Yadav,HR,Executive,Male,19-08-2024,07-04-2027,41496,85.7,Delhi,Exited
+EMP1233,Ananya Bhosale,Marketing,Executive,Female,30-10-2021,,70022,98.8,Wardha,Exited
+EMP1234,Rohan Joshi,Finance,Executive,Female,13-05-2022,,22152,81.4,Indore,Active
+EMP1235,Rahul Verma,HR,Associate,Female,02-12-2020,,83517,87.0,Pune,Active
+EMP1236,Ritika Nair,HR,Senior Executive,Male,30-07-2021,,80324,97.7,Bengaluru,Active
+EMP1237,Ritika Mehta,Admin,Executive,Male,15-05-2019,,59220,87.6,Chennai,Active
+EMP1238,Swati Patel,Sales,Manager,Female,27-10-2020,,69007,81.5,Nagpur,Active
+EMP1239,Kiran Patel,Marketing,Associate,Male,17-11-2022,,30803,95.2,Hyderabad,Active
+EMP1240, Siddharth Bhosale ,Admin,Associate,Female,13-06-2023,,53825,76.8,Indore,Exited
+EMP1241,Neha Pawar,Human Resource,Analyst,Male,06-04-2023,,56715,72.5,Nagpur,Active
+EMP1242,Neha Gupta,IT,Senior Executive,Female,21-07-2022,,18680,80.8,Bengaluru,Exited
+EMP1243,Vihaan Gupta,hr,Executive,Male,06-02-2021,27-09-2022,71483,72.7,Indore,Exited
+EMP1244,Aditya Bhosale,Admin,Associate,Male,21-08-2022,,72238,91.7,Indore,Exited
+EMP1245,Ritika Joshi,Admin,Analyst,Male,04-11-2024,,67903,78.1,Bengaluru,Active
+EMP1246,Rahul Gupta,hr,Associate,Male,15-11-2020,,57289,80.8,Delhi,Exited
+EMP1247,Shreya Reddy,Admin,Executive,Female,11-03-2021,,57932,80.0,Chennai,Exited
+EMP1248,Kiran Jain,Operations,Senior Executive,Female,03-10-2022,31-03-2025,35842,88.1,Delhi,Exited
+EMP1249,Rahul Jain,Human Resource,Coordinator,Male,20-06-2023,,82357,79.8,Bengaluru,Exited
+EMP1250,Manoj Patil,sales,Manager,Male,11-04-2020,,,98.6,Wardha,Active
+EMP1251,Sakshi Deshmukh,Operations,Manager,Female,08-04-2022,,71627,74.2,Bengaluru,Active
+EMP1252,Diya Kulkarni,Human Resource,Coordinator,Female,30-09-2023,,80814,86.0,Chennai,Exited
+EMP1253,Vikas Verma,sales,Analyst,Female,08-01-2025,,32335,75.0,Mumbai,Active
+EMP1254,Rohan Patil,sales,Executive,Female,30-10-2023,,19382,76.7,Indore,Active
+EMP1255,Vikas Choudhary,Admin,Analyst,Female,24-06-2021,10-11-2022,83597,99.9,Wardha,Exited
+EMP1256,Vihaan Yadav,IT,Senior Executive,Female,18-12-2019,,36569,80.3,Delhi,Active
+EMP1257,Amit Reddy,sales,Manager,Female,04-05-2024,,75431,79.6,Bengaluru,Active
+EMP1258,Vivaan Singh,HR,Manager,Male,06-11-2022,,39542,85.5,Indore,Active
+EMP1259,Sai Jain,Marketing,Manager,Male,13-10-2023,,71090,75.6,Chennai,Exited
+EMP1260,Neha Sharma,Admin,Manager,Male,19-03-2021,21-05-2022,18583,76.2,Pune,Exited
+EMP1261,Rohan Singh,Marketing,Senior Executive,Female,04-02-2021,17-06-2022,32936,85.8,Hyderabad,Exited
+EMP1262,Siddharth Patil,Admin,Senior Executive,Female,27-05-2023,,63603,88.5,Bengaluru,Active
+EMP1263,Swati Bhosale,Admin,Executive,Male,14-12-2019,,59049,79.2,Nagpur,Active
+EMP1264,Pooja Gupta,Marketing,Associate,Male,11-05-2023,18-01-2025,68293,84.6,Indore,Exited
+EMP1265,Sakshi Ninawe,Marketing,Senior Executive,Female,14-11-2020,,42523,88.6,Hyderabad,Exited
+EMP1266,Aarav Reddy,Human Resource,Associate,Female,10-03-2021,08-09-2022,82876,82.5,Wardha,Exited
+EMP1267,Rahul Ninawe,hr,Executive,Female,07-05-2019,,56284,76.7,Bengaluru,Active
+EMP1268,Sai Shinde,Admin,Senior Executive,Female,21-07-2024,,32969,86.3,Mumbai,Active
+EMP1269,Bhavna Shinde,Marketing,Senior Executive,Male,14-06-2021,,50444,83.5,Hyderabad,Exited
+EMP1269,Deepak Patel,Operations,Manager,Female,25-04-2020,,45509,95.8,Chennai,Active
+EMP1271,Sai Bhosale,Human Resource,Coordinator,Female,26-04-2021,,25780,86.0,Indore,Active
+EMP1272,Sai Jain,Sales,Analyst,Female,31-03-2022,08-10-2023,30481,97.6,Bengaluru,Exited
+EMP1273,Deepak Gupta,Human Resource,Analyst,Female,19-10-2021,,60217,84.7,Bengaluru,Active
+EMP1274,Nikhil Pawar,IT,Associate,Female,26-01-2024,,30202,90.8,Hyderabad,Active
+EMP1275,Isha Reddy,sales,Manager,Female,11-01-2019,,78089,95.5,Indore,Active
+EMP1276,Neha Deshmukh,IT,Senior Executive,Male,17-05-2021,,55171,87.0,Wardha,Exited
+EMP1277,Kiran Jain,HR,Executive,Male,08-07-2019,,78238,97.9,Nagpur,Active
+EMP1278,Isha Shinde,HR,Manager,Female,19-10-2023,,35290,74.8,Bengaluru,Active
+EMP1279,Aditya Mishra,Sales,Executive,Female,04-12-2019,28-10-2021,39695,88.8,Delhi,Exited
+EMP1280,Kavya Patel,hr,Executive,Male,05-01-2019,,80496,87.8,Indore,Active
+EMP1281,Akash Shinde,HR,Manager,Male,03-02-2019,01-08-2021,73353,84.3,Delhi,Exited
+EMP1282,Neha Patel,hr,Associate,Male,27-02-2020,28-01-2021,35973,89.2,Nagpur,Exited
+EMP1283,Aditya Nair,Admin,Senior Executive,Male,04-02-2019,,75684,88.8,Nagpur,Active
+EMP1284,Swati Pawar,Admin,Executive,Male,18-12-2023,,29362,92.6,Chennai,Active
+EMP1285,Pooja Pawar,sales,Manager,Male,26-07-2020,,54302,77.4,Bengaluru,Active
+EMP1286,Bhavna Sharma,Sales,Senior Executive,Male,21-04-2021,,69347,93.5,Delhi,Active
+EMP1287,Rahul Patil,hr,Senior Executive,Female,14-09-2021,25-12-2021,19581,74.0,Chennai,Exited
+EMP1288,Pooja Mehta,Human Resource,Coordinator,Male,13-04-2024,,20187,70.4,Delhi,Active
+EMP1289,Vivaan Verma,IT,Associate,Female,06-09-2024,03-03-2026,72451,72.5,Indore,Exited
+EMP1290,Vikas Bhosale,Human Resource,Executive,Male,10-02-2022,,58620,99.2,Nagpur,Active
+EMP1291,Vikas Jain,IT,Executive,Male,28-09-2019,13-11-2021,49278,72.6,Chennai,Exited
+EMP1292,Vihaan Shinde,Admin,Executive,Male,14-08-2019,17-07-2021,41022,91.2,Mumbai,Exited
+EMP1293,Sai Reddy,sales,Manager,Female,12-11-2024,,34637,92.0,Pune,Exited
+EMP1294,Bhavna Sharma,sales,Associate,Female,25-10-2023,19-08-2024,28101,85.3,Mumbai,Exited
+EMP1295,Rahul Choudhary,Human Resource,Executive,Male,15-02-2023,,51438,76.9,Indore,Active
+EMP1296,Aarav Verma,HR,Senior Executive,Female,28-09-2021,,79835,97.6,Nagpur,Active
+EMP1297,Swati Verma,Marketing,Analyst,Female,14-09-2023,,60179,97.5,Hyderabad,Active
+EMP1298,Aadhya Patel,Admin,Manager,Male,08-03-2023,,83803,75.4,Indore,Active
+EMP1299,Vivaan Patil,hr,Executive,Female,20-03-2024,03-03-2025,60899,70.2,Delhi,Exited
+EMP1300, Priya Choudhary ,Sales,Manager,Male,20-09-2021,09-03-2023,,74.5,Chennai,Exited
+EMP1301,Aarav Joshi,Marketing,Executive,Female,19-11-2022,,61911,95.5,Bengaluru,Active
+EMP1302,Vihaan Deshmukh,Marketing,Manager,Female,02-09-2021,02-12-2021,36661,72.8,Delhi,Exited
+EMP1303,Ritika Nair,IT,Coordinator,Male,06-03-2023,30-06-2023,30527,89.1,Chennai,Exited
+EMP1304,Aditya Choudhary,Admin,Senior Executive,Female,13-09-2019,23-02-2020,49034,95.5,Chennai,Exited
+EMP1305,Sakshi Jain,sales,Analyst,Male,29-01-2024,,44569,74.7,Nagpur,Exited
+EMP1306,Isha Shinde,sales,Analyst,Female,24-07-2023,,64961,79.2,Bengaluru,Active
+EMP1307,Deepak Singh,hr,Analyst,Female,07-10-2020,20-10-2022,23286,74.4,Delhi,Exited
+EMP1308,Pooja Patil,Marketing,Executive,Female,20-07-2019,,40789,95.6,Indore,Exited
+EMP1309,Shreya Mehta,Finance,Executive,Male,23-01-2020,,36322,71.9,Delhi,Exited
+EMP1310,Arjun Deshmukh,IT,Executive,Male,05-03-2023,,51924,99.9,Delhi,Active
+EMP1311,Ritika Shinde,Human Resource,Executive,Male,12-01-2020,,78423,97.7,Chennai,Exited
+EMP1312,Manoj Patil,Operations,Analyst,Male,01-05-2019,23-11-2019,64392,78.2,Wardha,Exited
+EMP1313,Ritika Gupta,HR,Executive,Male,03-10-2021,23-04-2024,80787,78.4,Nagpur,Exited
+EMP1314,Kavya Deshmukh,Marketing,Manager,Female,17-10-2021,,68134,84.4,Wardha,Active
+EMP1314,Pooja Choudhary,Marketing,Senior Executive,Male,10-08-2022,,21416,70.9,Bengaluru,Exited
+EMP1316,Vivaan Reddy,Marketing,Executive,Male,04-01-2023,,38922,89.7,Bengaluru,Active
+EMP1317,Vikas Verma,Finance,Analyst,Male,10-05-2023,21-10-2025,40768,87.8,Hyderabad,Exited
+EMP1318,Swati Choudhary,HR,Associate,Female,11-12-2022,,42672,75.3,Mumbai,Active
+EMP1319,Aditya Verma,Finance,Executive,Female,15-06-2021,,80650,97.5,Delhi,Active
+EMP1320,Kiran Gupta,sales,Coordinator,Male,27-12-2020,,37360,93.2,Indore,Exited
+EMP1321,Deepak Mishra,hr,Senior Executive,Male,11-03-2023,19-03-2024,57552,99.3,Chennai,Exited
+EMP1322,Kiran Reddy,sales,Associate,Female,14-12-2020,,40983,92.0,Bengaluru,Exited
+EMP1323,Arjun Ninawe,HR,Coordinator,Female,23-05-2023,,41865,97.6,Delhi,Active
+EMP1324,Nikhil Choudhary,hr,Manager,Male,25-07-2024,,61406,77.1,Hyderabad,Active
+EMP1325,Sai Patel,sales,Analyst,Male,04-01-2024,,52761,90.8,Hyderabad,Active
+EMP1326,Aadhya Singh,HR,Associate,Female,17-07-2019,18-10-2020,39802,96.5,Hyderabad,Exited
+EMP1327,Vikas Patil,hr,Associate,Male,17-05-2024,,39319,94.0,Mumbai,Active
+EMP1328,Priya Sharma,sales,Senior Executive,Male,05-12-2021,,27725,96.6,Nagpur,Active
+EMP1329,Shreya Patel,Marketing,Manager,Male,17-01-2020,05-11-2021,81273,82.9,Nagpur,Exited
+EMP1330,Siddharth Pawar,Human Resource,Analyst,Male,08-08-2019,,61397,82.3,Indore,Active
+EMP1331,Shreya Mehta,Sales,Associate,Female,27-02-2022,,24505,74.6,Hyderabad,Exited
+EMP1332,Aarav Pawar,hr,Analyst,Male,21-04-2022,,21373,89.1,Pune,Exited
+EMP1333,Rahul Singh,Sales,Executive,Female,17-06-2023,23-05-2025,52734,75.5,Chennai,Exited
+EMP1334,Pooja Ninawe,Operations,Senior Executive,Male,02-07-2019,26-04-2020,47654,74.5,Pune,Exited
+EMP1335,Aditya Mishra,Marketing,Associate,Female,23-08-2023,,25993,99.0,Wardha,Active
+EMP1336,Rohan Joshi,Operations,Manager,Male,09-05-2022,,69747,85.1,Indore,Active
+EMP1337,Kiran Choudhary,Admin,Analyst,Male,26-08-2020,,76856,99.2,Delhi,Active
+EMP1338,Arjun Verma,IT,Coordinator,Female,17-11-2019,,37382,79.6,Pune,Exited
+EMP1339,Aditya Patil,Marketing,Executive,Female,16-06-2023,29-12-2024,78051,73.4,Nagpur,Exited
+EMP1340,Arjun Choudhary,Admin,Senior Executive,Female,15-02-2020,,31237,96.3,Bengaluru,Active
+EMP1341,Neha Reddy,Admin,Senior Executive,Female,21-04-2024,,40570,74.3,Chennai,Active
+EMP1342,Vivaan Patil,sales,Senior Executive,Female,31-08-2021,,80287,70.6,Bengaluru,Active
+EMP1343,Priya Kulkarni,Operations,Senior Executive,Female,07-02-2020,,35614,93.2,Hyderabad,Active
+EMP1344,Aadhya Pawar,Admin,Analyst,Female,01-01-2020,,75896,92.2,Indore,Active
+EMP1345,Deepak Mishra,HR,Senior Executive,Female,11-10-2024,,26600,74.1,Indore,Active
+EMP1346,Ritika Choudhary,HR,Executive,Male,12-12-2020,,44309,71.0,Mumbai,Active
+EMP1347,Swati Mishra,Finance,Manager,Male,27-01-2022,28-07-2023,70028,90.4,Delhi,Exited
+EMP1348,Pooja Reddy,Admin,Coordinator,Female,02-01-2024,,80204,80.3,Bengaluru,Active
+EMP1349,Shreya Patel,Sales,Analyst,Male,23-04-2019,,46091,90.3,Bengaluru,Exited
+EMP1350,Nikhil Pawar,Marketing,Analyst,Male,24-03-2019,,,88.0,Mumbai,Active
+EMP1351,Diya Kulkarni,Admin,Associate,Female,05-06-2022,25-07-2023,63706,76.5,Bengaluru,Exited
+EMP1352,Akash Nair,Admin,Coordinator,Female,15-06-2023,,18963,86.8,Bengaluru,Active
+EMP1353,Priya Singh,Operations,Senior Executive,Female,19-09-2019,04-08-2021,60616,89.7,Bengaluru,Exited
+EMP1354,Ananya Gupta,Marketing,Manager,Female,11-09-2021,,70965,90.4,Mumbai,Active
+EMP1355,Nikhil Reddy,Sales,Coordinator,Male,28-11-2021,21-01-2024,22629,80.3,Delhi,Exited
+EMP1356,Akash Mehta,Operations,Senior Executive,Male,08-01-2023,16-06-2025,41741,84.1,Bengaluru,Exited
+EMP1357,Shreya Mehta,Human Resource,Senior Executive,Male,06-10-2022,,47131,92.3,Bengaluru,Active
+EMP1358,Kavya Jain,sales,Executive,Male,03-12-2021,02-05-2022,79674,84.2,Delhi,Exited
+EMP1359,Amit Singh,IT,Analyst,Male,10-12-2024,19-06-2027,37762,80.3,Wardha,Exited
+EMP1359, Arjun Jain ,Human Resource,Manager,Male,28-11-2019,26-06-2020,59079,70.1,Bengaluru,Exited
+EMP1361,Ananya Ninawe,Admin,Analyst,Female,10-10-2020,16-01-2023,29539,89.0,Chennai,Exited
+EMP1362,Kavya Reddy,IT,Manager,Female,20-01-2019,,44137,98.5,Hyderabad,Active
+EMP1363,Bhavna Nair,Finance,Analyst,Female,15-03-2019,,50613,79.4,Pune,Active
+EMP1364,Neha Nair,Admin,Executive,Female,07-06-2022,,26557,98.5,Wardha,Active
+EMP1365,Shreya Nair,Admin,Senior Executive,Female,16-11-2024,19-11-2026,35536,80.8,Delhi,Exited
+EMP1366,Sai Patil,HR,Analyst,Male,24-07-2021,,35197,87.7,Nagpur,Active
+EMP1367,Vihaan Mishra,HR,Coordinator,Male,17-03-2023,13-01-2025,24368,89.9,Mumbai,Exited
+EMP1368,Vivaan Singh,IT,Associate,Male,25-12-2023,,51126,76.2,Mumbai,Exited
+EMP1369,Priya Pawar,hr,Associate,Male,01-11-2024,18-11-2026,35978,85.3,Pune,Exited
+EMP1370,Priya Singh,hr,Senior Executive,Male,31-07-2024,,44181,80.7,Chennai,Active
+EMP1371,Priya Ninawe,HR,Senior Executive,Male,26-07-2024,,81001,70.1,Pune,Active
+EMP1372,Swati Singh,Admin,Coordinator,Male,16-07-2024,,29807,91.7,Pune,Active
+EMP1373,Ritika Kulkarni,Finance,Executive,Male,14-02-2024,,24564,96.2,Bengaluru,Exited
+EMP1374,Pooja Jain,IT,Executive,Male,19-04-2020,,24014,89.9,Nagpur,Active
+EMP1375,Sneha Mishra,Operations,Senior Executive,Male,03-01-2022,,66840,73.4,Chennai,Active
+EMP1376,Isha Kulkarni,IT,Executive,Male,12-05-2024,05-09-2026,39860,90.9,Mumbai,Exited
+EMP1377,Deepak Ninawe,hr,Analyst,Female,01-09-2023,25-08-2025,75430,93.4,Mumbai,Exited
+EMP1378,Deepak Gupta,Operations,Associate,Male,22-06-2024,,71907,71.9,Hyderabad,Active
+EMP1379,Aarav Nair,Admin,Associate,Male,06-07-2021,10-07-2023,30483,84.5,Chennai,Exited
+EMP1380,Arjun Mehta,Admin,Coordinator,Female,12-08-2019,,38568,95.6,Nagpur,Active
+EMP1381,Aditya Reddy,sales,Analyst,Female,13-09-2021,03-12-2021,84444,82.1,Delhi,Exited
+EMP1382,Aditya Shinde,Operations,Associate,Female,10-01-2024,,83333,73.6,Wardha,Active
+EMP1383,Shreya Sharma,hr,Executive,Female,11-07-2023,,18022,96.7,Indore,Exited
+EMP1384,Ananya Shinde,sales,Associate,Female,28-01-2023,,47218,86.8,Wardha,Active
+EMP1385,Sakshi Mishra,Operations,Executive,Female,12-04-2020,,47064,80.7,Bengaluru,Active
+EMP1386,Vikas Nair,sales,Associate,Male,11-03-2020,,39516,94.7,Chennai,Active
+EMP1387,Vihaan Kulkarni,Admin,Associate,Male,13-03-2021,,33826,83.7,Delhi,Active
+EMP1388,Sakshi Jain,hr,Associate,Female,25-08-2023,,34150,89.8,Indore,Active
+EMP1389,Arjun Reddy,HR,Coordinator,Female,12-12-2024,,74729,97.7,Nagpur,Active
+EMP1390,Sakshi Choudhary,Human Resource,Manager,Female,09-06-2020,,68778,85.1,Chennai,Active
+EMP1391,Kavya Bhosale,Finance,Analyst,Male,25-01-2022,22-12-2022,77355,82.4,Indore,Exited
+EMP1392,Priya Mehta,sales,Coordinator,Female,09-06-2021,,45487,90.6,Nagpur,Active
+EMP1393,Sakshi Ninawe,Marketing,Coordinator,Female,13-08-2022,,64168,87.5,Chennai,Active
+EMP1394,Akash Mehta,Sales,Executive,Female,27-09-2023,,31955,74.4,Mumbai,Active
+EMP1395,Ananya Kulkarni,Human Resource,Manager,Female,19-03-2022,,26130,76.1,Indore,Exited
+EMP1396,Vivaan Mishra,Operations,Analyst,Female,24-02-2020,,68972,90.8,Mumbai,Active
+EMP1397,Swati Patil,IT,Manager,Female,03-09-2023,27-11-2023,19699,76.1,Wardha,Exited
+EMP1398,Manoj Joshi,sales,Associate,Male,15-03-2021,,56558,99.5,Pune,Active
+EMP1399,Sai Ninawe,Marketing,Coordinator,Female,03-05-2020,,54583,73.9,Bengaluru,Exited
+EMP1400,Aarav Jain,Operations,Senior Executive,Male,26-09-2020,,,93.2,Bengaluru,Active
+EMP1401,Rahul Choudhary,Marketing,Coordinator,Male,06-01-2023,,59662,98.7,Indore,Active
+EMP1402,Aditya Nair,Human Resource,Analyst,Female,31-08-2023,,46992,79.9,Bengaluru,Exited
+EMP1403,Ananya Bhosale,Marketing,Manager,Female,29-04-2024,,33036,83.4,Delhi,Active
+EMP1404,Vivaan Jain,IT,Executive,Female,09-04-2020,,55070,85.4,Indore,Exited
+EMP1404,Isha Reddy,HR,Coordinator,Male,29-04-2022,,59984,98.4,Nagpur,Active
+EMP1406,Bhavna Mehta,Marketing,Manager,Male,31-01-2019,,45627,95.9,Chennai,Active
+EMP1407,Manoj Singh,Finance,Executive,Female,18-11-2023,,38152,91.5,Mumbai,Active
+EMP1408,Aditya Patel,HR,Senior Executive,Female,30-12-2020,09-09-2022,47837,81.6,Chennai,Exited
+EMP1409,Kavya Jain,HR,Manager,Male,15-05-2023,,18773,92.7,Mumbai,Active
+EMP1410,Sakshi Patel,sales,Manager,Female,21-08-2024,,55989,88.2,Bengaluru,Active
+EMP1411,Bhavna Shinde,IT,Analyst,Male,07-06-2023,,80126,74.1,Chennai,Active
+EMP1412,Kiran Mehta,Sales,Executive,Male,13-08-2020,06-04-2023,66906,73.7,Mumbai,Exited
+EMP1413,Rohan Bhosale,IT,Analyst,Female,09-01-2025,,57936,76.4,Indore,Active
+EMP1414,Arjun Ninawe,Human Resource,Manager,Male,23-06-2021,,41770,95.5,Indore,Exited
+EMP1415,Isha Mehta,hr,Executive,Male,05-04-2022,,50858,91.8,Wardha,Active
+EMP1416,Sneha Mishra,Human Resource,Coordinator,Male,18-08-2021,,55373,97.0,Hyderabad,Active
+EMP1417,Rahul Shinde,sales,Senior Executive,Female,06-06-2022,,65774,75.1,Hyderabad,Active
+EMP1418,Diya Joshi,IT,Associate,Female,07-02-2022,,61458,83.4,Bengaluru,Exited
+EMP1419,Rahul Mehta,hr,Analyst,Male,20-12-2020,,54780,77.9,Pune,Active
+EMP1420, Shreya Patel ,HR,Coordinator,Male,08-09-2024,,71101,97.2,Indore,Active
+EMP1421,Aadhya Mehta,Marketing,Associate,Male,17-04-2024,,65948,96.7,Bengaluru,Active
+EMP1422,Arjun Shinde,Marketing,Senior Executive,Male,21-09-2024,,70007,89.9,Nagpur,Active
+EMP1423,Bhavna Nair,Human Resource,Coordinator,Male,02-01-2024,,41480,92.1,Wardha,Active
+EMP1424,Pooja Verma,Finance,Senior Executive,Female,20-06-2024,,26239,77.0,Delhi,Active
+EMP1425,Amit Mishra,IT,Executive,Female,07-04-2024,16-06-2024,60476,95.0,Bengaluru,Exited
+EMP1426,Rohan Mehta,Admin,Coordinator,Female,13-12-2020,21-01-2022,28202,81.3,Delhi,Exited
+EMP1427,Amit Patil,sales,Coordinator,Male,14-11-2022,09-06-2025,18864,83.2,Delhi,Exited
+EMP1428,Aditya Nair,Sales,Analyst,Female,16-05-2021,,42498,88.1,Pune,Active
+EMP1429,Akash Joshi,IT,Manager,Female,14-09-2022,,81113,84.4,Nagpur,Active
+EMP1430,Nikhil Pawar,HR,Coordinator,Male,25-09-2021,,34762,74.0,Indore,Active
+EMP1431,Vivaan Choudhary,Human Resource,Analyst,Female,18-08-2019,,51850,88.0,Mumbai,Active
+EMP1432,Ritika Yadav,hr,Analyst,Male,06-06-2021,31-10-2022,81133,94.9,Nagpur,Exited
+EMP1433,Kiran Choudhary,Human Resource,Associate,Male,23-09-2024,,62914,76.9,Chennai,Exited
+EMP1434,Arjun Singh,HR,Analyst,Female,08-04-2021,18-01-2023,30622,97.0,Mumbai,Exited
+EMP1435,Ritika Mehta,Marketing,Manager,Male,26-04-2020,,81208,97.1,Indore,Active
+EMP1436,Manoj Sharma,IT,Analyst,Female,08-11-2024,21-01-2025,74224,93.7,Chennai,Exited
+EMP1437,Pooja Choudhary,Admin,Analyst,Male,05-02-2020,,80539,78.5,Indore,Exited
+EMP1438,Kavya Kulkarni,Finance,Coordinator,Male,23-01-2019,,33444,81.3,Delhi,Active
+EMP1439,Sakshi Jain,IT,Associate,Female,23-01-2023,,38287,77.8,Indore,Active
+EMP1440,Kavya Choudhary,sales,Analyst,Female,02-02-2022,01-05-2023,81238,86.8,Wardha,Exited
+EMP1441,Aadhya Yadav,Admin,Manager,Male,11-11-2022,04-05-2025,33608,83.4,Nagpur,Exited
+EMP1442,Vihaan Deshmukh,Marketing,Analyst,Female,29-06-2023,17-04-2025,24822,98.9,Mumbai,Exited
+EMP1443,Kiran Patel,Human Resource,Analyst,Female,15-04-2024,,52483,72.4,Mumbai,Exited
+EMP1444,Shreya Patil,IT,Analyst,Female,04-11-2024,07-08-2026,25531,83.2,Delhi,Exited
+EMP1445,Deepak Nair,Sales,Coordinator,Male,08-03-2021,,84918,88.5,Mumbai,Active
+EMP1446,Pooja Joshi,HR,Associate,Female,06-10-2020,,54167,90.1,Chennai,Active
+EMP1447,Rohan Deshmukh,Marketing,Coordinator,Female,04-03-2019,,29818,91.8,Indore,Active
+EMP1448,Swati Choudhary,sales,Associate,Female,24-11-2022,,43496,87.2,Bengaluru,Exited
+EMP1449,Sai Pawar,Marketing,Senior Executive,Female,12-03-2020,,83951,98.4,Indore,Active
+EMP1449,Aadhya Mehta,Admin,Analyst,Female,21-10-2021,19-06-2023,,98.8,Wardha,Exited
+EMP1451,Akash Shinde,Admin,Associate,Male,23-04-2019,,26854,90.3,Delhi,Exited
+EMP1452,Kiran Jain,IT,Analyst,Female,17-12-2022,,52517,72.8,Hyderabad,Active
+EMP1453,Aditya Mehta,Human Resource,Analyst,Male,05-05-2024,06-12-2026,53268,85.0,Delhi,Exited
+EMP1454,Diya Joshi,Sales,Analyst,Female,26-04-2021,,44577,74.7,Pune,Active
+EMP1455,Vihaan Patel,Operations,Senior Executive,Female,28-01-2019,,81214,84.8,Bengaluru,Active
+EMP1456,Rahul Ninawe,Marketing,Executive,Female,21-02-2022,,34809,84.3,Indore,Exited
+EMP1457,Vivaan Nair,sales,Executive,Female,01-06-2023,,77925,79.5,Mumbai,Active
+EMP1458,Aarav Deshmukh,IT,Analyst,Female,17-02-2020,17-08-2022,52039,77.1,Wardha,Exited
+EMP1459,Siddharth Jain,sales,Senior Executive,Female,23-01-2021,27-04-2022,66799,78.4,Nagpur,Exited
+EMP1460,Rohan Gupta,Admin,Analyst,Female,25-07-2021,,53382,95.7,Delhi,Active
+EMP1461,Arjun Gupta,Operations,Associate,Male,09-02-2019,,73249,99.9,Indore,Active
+EMP1462,Vikas Jain,Operations,Associate,Male,13-05-2022,14-01-2024,24253,90.7,Mumbai,Exited
+EMP1463,Ananya Kulkarni,Operations,Senior Executive,Female,30-01-2020,21-11-2020,65312,80.3,Chennai,Exited
+EMP1464,Vihaan Mishra,Admin,Senior Executive,Female,25-03-2021,,55304,90.2,Wardha,Active
+EMP1465,Bhavna Shinde,hr,Manager,Female,10-04-2023,05-10-2023,39964,82.7,Chennai,Exited
+EMP1466,Deepak Patel,hr,Manager,Female,25-10-2020,,59533,91.3,Chennai,Exited
+EMP1467,Aadhya Shinde,sales,Analyst,Male,03-11-2024,09-06-2025,21027,89.9,Pune,Exited
+EMP1468,Ananya Ninawe,IT,Associate,Male,26-02-2020,,26361,70.8,Chennai,Active
+EMP1469,Amit Patel,hr,Manager,Female,11-12-2021,,29050,79.3,Delhi,Active
+EMP1470,Shreya Yadav,Operations,Executive,Male,01-06-2020,,40361,89.9,Hyderabad,Active
+EMP1471,Deepak Reddy,Operations,Coordinator,Female,20-01-2022,,41204,88.9,Chennai,Exited
+EMP1472,Amit Mehta,Sales,Associate,Female,23-11-2022,26-03-2025,29738,81.0,Bengaluru,Exited
+EMP1473,Arjun Yadav,HR,Senior Executive,Female,01-01-2019,,63073,86.1,Wardha,Active
+EMP1474,Bhavna Reddy,Sales,Executive,Female,07-02-2019,09-11-2020,48305,75.7,Indore,Exited
+EMP1475,Kavya Patil,Finance,Executive,Female,30-10-2020,12-07-2021,52469,88.8,Indore,Exited
+EMP1476,Bhavna Bhosale,Sales,Analyst,Male,12-03-2022,31-08-2024,26973,78.7,Wardha,Exited
+EMP1477,Siddharth Shinde,Sales,Executive,Male,08-07-2024,,60027,71.5,Indore,Active
+EMP1478,Aarav Ninawe,hr,Manager,Male,01-03-2022,,75464,77.0,Nagpur,Exited
+EMP1479,Aarav Reddy,Finance,Senior Executive,Female,01-11-2022,26-02-2025,83325,90.9,Mumbai,Exited
+EMP1480, Sneha Patel ,Human Resource,Analyst,Male,18-08-2019,29-11-2019,79623,96.9,Bengaluru,Exited
+EMP1481,Manoj Patil,HR,Associate,Male,14-05-2020,,68436,92.1,Mumbai,Active
+EMP1482,Ananya Shinde,hr,Associate,Female,04-11-2024,,79974,98.1,Nagpur,Active
+EMP1483,Nikhil Verma,Marketing,Associate,Female,03-11-2024,,51202,76.0,Mumbai,Active
+EMP1484,Deepak Deshmukh,hr,Coordinator,Male,24-08-2021,13-03-2022,54188,81.9,Delhi,Exited
+EMP1485,Aarav Verma,Admin,Executive,Male,30-04-2024,,66679,74.7,Pune,Active
+EMP1486,Akash Bhosale,sales,Manager,Male,03-09-2019,,64598,91.0,Pune,Active
+EMP1487,Arjun Reddy,Finance,Executive,Female,21-07-2022,12-11-2023,43292,80.7,Nagpur,Exited
+EMP1488,Aadhya Verma,Operations,Coordinator,Male,28-11-2023,12-05-2025,42874,86.3,Hyderabad,Exited
+EMP1489,Shreya Shinde,Sales,Associate,Female,18-10-2020,,38319,94.6,Indore,Active
+EMP1490,Pooja Shinde,HR,Coordinator,Female,03-09-2024,26-03-2027,20453,93.3,Delhi,Exited
+EMP1491,Sneha Patel,Marketing,Coordinator,Male,07-05-2023,,83214,88.4,Hyderabad,Active
+EMP1492,Kavya Jain,hr,Analyst,Male,30-01-2020,,23737,96.2,Delhi,Active
+EMP1493,Vihaan Reddy,Finance,Manager,Female,09-02-2020,,68934,85.8,Bengaluru,Active
+EMP1494,Vivaan Mishra,Finance,Manager,Female,18-10-2019,,45359,97.9,Pune,Active
+EMP1494,Isha Verma,sales,Coordinator,Male,31-08-2023,28-11-2023,52840,92.0,Bengaluru,Exited
+EMP1496,Aditya Deshmukh,Marketing,Coordinator,Female,02-02-2020,,48279,75.7,Indore,Active
+EMP1497,Akash Joshi,Admin,Manager,Female,02-01-2021,27-03-2023,64918,91.1,Chennai,Exited
+EMP1498,Ritika Singh,Human Resource,Coordinator,Female,08-01-2021,12-12-2022,38732,98.0,Hyderabad,Exited
+EMP1499,Vikas Jain,sales,Coordinator,Male,16-08-2023,11-08-2024,49551,81.3,Indore,Exited
+EMP1500,Swati Kulkarni,sales,Senior Executive,Male,28-01-2024,27-02-2024,,85.5,Bengaluru,Exited
+EMP1501,Aarav Yadav,Finance,Coordinator,Male,29-05-2021,,54170,72.8,Wardha,Exited
+EMP1502,Pooja Gupta,Human Resource,Senior Executive,Female,21-12-2021,02-10-2022,48539,72.8,Chennai,Exited
+EMP1503,Rohan Deshmukh,hr,Coordinator,Female,22-08-2022,,30499,71.1,Chennai,Exited
+EMP1504,Aditya Verma,sales,Analyst,Male,26-11-2022,01-06-2025,33799,89.0,Chennai,Exited
+EMP1505,Vivaan Yadav,Marketing,Coordinator,Male,18-06-2019,18-12-2019,60838,74.6,Chennai,Exited
+EMP1506,Isha Bhosale,Admin,Associate,Female,29-08-2024,,47109,93.6,Nagpur,Active
+EMP1507,Arjun Jain,hr,Senior Executive,Male,03-05-2024,,70322,82.0,Chennai,Active
+EMP1508,Bhavna Gupta,Human Resource,Associate,Male,23-05-2024,,81944,86.8,Indore,Active
+EMP1509,Diya Joshi,hr,Executive,Female,26-12-2021,28-08-2024,29743,82.7,Hyderabad,Exited
+EMP1510,Ananya Jain,sales,Coordinator,Female,10-04-2019,,63838,88.7,Wardha,Exited
+EMP1511,Vivaan Joshi,Finance,Executive,Male,12-03-2023,,29247,77.3,Nagpur,Active
+EMP1512,Deepak Yadav,HR,Associate,Female,07-11-2022,,57992,70.7,Delhi,Active
+EMP1513,Shreya Mehta,Finance,Manager,Male,14-04-2021,10-02-2023,36526,81.3,Indore,Exited
+EMP1514,Vivaan Kulkarni,Human Resource,Executive,Female,04-09-2019,,53557,89.6,Mumbai,Exited
+EMP1515,Aditya Patil,Sales,Senior Executive,Female,15-01-2023,,20500,76.9,Chennai,Active
+EMP1516,Amit Singh,sales,Analyst,Female,08-06-2024,,42434,86.8,Mumbai,Active
+EMP1517,Vivaan Joshi,Marketing,Executive,Female,02-06-2022,02-08-2024,38578,90.5,Hyderabad,Exited
+EMP1518,Nikhil Yadav,Finance,Associate,Male,15-08-2024,16-06-2026,51774,98.3,Bengaluru,Exited
+EMP1519,Diya Gupta,sales,Manager,Female,29-05-2023,,29507,85.6,Delhi,Active
+EMP1520,Kavya Joshi,Admin,Associate,Male,17-09-2020,06-05-2023,61160,76.2,Nagpur,Exited
+EMP1521,Rohan Mehta,Finance,Associate,Male,19-07-2020,24-02-2023,35727,89.7,Nagpur,Exited
+EMP1522,Sneha Patel,Marketing,Senior Executive,Male,23-12-2024,,42134,91.8,Hyderabad,Active
+EMP1523,Ritika Pawar,IT,Analyst,Male,27-05-2022,14-10-2024,53887,73.2,Nagpur,Exited
+EMP1524,Aarav Bhosale,Admin,Analyst,Male,29-12-2021,,48432,80.8,Wardha,Active
+EMP1525,Arjun Nair,Admin,Associate,Female,04-04-2024,,68785,74.1,Delhi,Exited
+EMP1526,Diya Verma,IT,Analyst,Male,03-03-2019,15-11-2019,44585,75.3,Wardha,Exited
+EMP1527,Deepak Bhosale,Operations,Executive,Female,23-08-2022,03-12-2023,71066,91.6,Chennai,Exited
+EMP1528,Siddharth Choudhary,Admin,Associate,Female,05-01-2025,,32328,94.8,Mumbai,Active
+EMP1529,Ritika Joshi,Marketing,Coordinator,Male,09-06-2023,,68777,75.7,Wardha,Active
+EMP1530,Neha Yadav,Sales,Senior Executive,Male,04-03-2024,,73372,90.7,Nagpur,Active
+EMP1531,Isha Shinde,hr,Coordinator,Male,12-08-2024,,41562,81.8,Hyderabad,Active
+EMP1532,Isha Sharma,Human Resource,Executive,Female,02-02-2024,,77596,79.7,Nagpur,Active
+EMP1533,Sakshi Singh,hr,Manager,Male,12-04-2020,07-08-2020,68343,81.4,Chennai,Exited
+EMP1534,Vivaan Ninawe,sales,Analyst,Male,06-09-2020,,36953,82.6,Bengaluru,Active
+EMP1535,Shreya Shinde,Sales,Analyst,Male,10-01-2021,,35245,88.7,Bengaluru,Active
+EMP1536,Aarav Shinde,Operations,Analyst,Male,04-08-2024,,82679,87.7,Wardha,Active
+EMP1537,Isha Pawar,Operations,Coordinator,Female,22-11-2019,,50075,88.6,Indore,Active
+EMP1538,Manoj Deshmukh,HR,Manager,Female,27-01-2021,,25217,71.1,Mumbai,Active
+EMP1539,Akash Choudhary,Admin,Associate,Male,07-05-2022,26-07-2022,32272,74.8,Bengaluru,Exited
+EMP1539, Siddharth Bhosale ,Admin,Executive,Female,27-12-2020,29-01-2022,22697,79.7,Chennai,Exited
+EMP1541,Manoj Patel,IT,Senior Executive,Female,23-09-2019,24-02-2020,53968,85.7,Delhi,Exited
+EMP1542,Siddharth Verma,hr,Manager,Female,06-12-2024,,81394,82.8,Hyderabad,Active
+EMP1543,Aadhya Nair,Admin,Coordinator,Female,20-12-2022,,83063,84.8,Nagpur,Active
+EMP1544,Ritika Bhosale,Finance,Executive,Male,04-04-2022,,18207,83.9,Pune,Active
+EMP1545,Shreya Deshmukh,Admin,Coordinator,Male,26-08-2023,,63829,70.3,Delhi,Exited
+EMP1546,Sakshi Yadav,Sales,Executive,Male,05-10-2019,20-05-2021,60457,90.6,Hyderabad,Exited
+EMP1547,Neha Choudhary,Admin,Senior Executive,Female,30-04-2019,,43430,97.7,Wardha,Active
+EMP1548,Swati Reddy,HR,Coordinator,Female,10-07-2020,,78374,83.9,Chennai,Exited
+EMP1549,Swati Verma,Marketing,Coordinator,Female,11-05-2022,29-06-2022,45297,94.0,Hyderabad,Exited
+EMP1550,Aditya Gupta,Sales,Coordinator,Female,08-05-2019,09-03-2021,,75.6,Pune,Exited
+EMP1551,Deepak Yadav,sales,Senior Executive,Female,10-05-2019,29-10-2020,49148,94.9,Bengaluru,Exited
+EMP1552,Ananya Nair,Sales,Executive,Male,17-12-2020,,67049,97.4,Wardha,Active
+EMP1553,Amit Sharma,Operations,Senior Executive,Female,10-08-2024,,42931,92.0,Indore,Active
+EMP1554,Priya Jain,Human Resource,Manager,Male,07-02-2020,,44894,83.8,Indore,Active
+EMP1555,Vihaan Sharma,Sales,Associate,Male,30-06-2019,,61684,73.1,Bengaluru,Active
+EMP1556,Aarav Choudhary,Sales,Senior Executive,Female,09-05-2021,,55560,93.2,Pune,Exited
+EMP1557,Aadhya Gupta,Human Resource,Coordinator,Male,25-01-2022,,19999,76.2,Hyderabad,Active
+EMP1558,Vikas Jain,Sales,Senior Executive,Female,02-08-2020,23-02-2021,27337,86.2,Mumbai,Exited
+EMP1559,Arjun Sharma,Operations,Executive,Male,26-07-2019,,68279,82.8,Nagpur,Active
+EMP1560,Sakshi Bhosale,Admin,Manager,Male,01-01-2024,17-05-2026,43971,99.2,Wardha,Exited
+EMP1561,Rohan Gupta,hr,Senior Executive,Female,02-04-2024,,77714,84.1,Delhi,Active
+EMP1562,Arjun Bhosale,Sales,Senior Executive,Female,28-01-2023,,61296,84.6,Pune,Exited
+EMP1563,Rahul Singh,sales,Coordinator,Male,14-05-2024,29-03-2025,63693,85.2,Chennai,Exited
+EMP1564,Manoj Singh,sales,Analyst,Male,18-10-2019,31-12-2020,72190,86.4,Wardha,Exited
+EMP1565,Neha Patel,sales,Coordinator,Male,02-05-2021,20-08-2022,62852,75.2,Pune,Exited
+EMP1566,Shreya Choudhary,Operations,Analyst,Female,13-04-2020,20-08-2020,76355,98.7,Pune,Exited
+EMP1567,Siddharth Singh,Admin,Executive,Male,02-04-2023,08-03-2025,26058,94.5,Mumbai,Exited
+EMP1568,Bhavna Gupta,Human Resource,Analyst,Male,30-01-2024,12-10-2025,76610,90.4,Hyderabad,Exited
+EMP1569,Priya Choudhary,Sales,Coordinator,Female,16-11-2023,03-08-2025,19064,95.4,Bengaluru,Exited
+EMP1570,Vivaan Mishra,Marketing,Executive,Female,06-08-2019,,65086,96.0,Delhi,Active
+EMP1571,Kavya Choudhary,IT,Manager,Male,27-07-2022,14-11-2023,45684,84.2,Delhi,Exited
+EMP1572,Vikas Patil,sales,Manager,Male,05-09-2023,,55810,74.0,Pune,Active
+EMP1573,Nikhil Sharma,Human Resource,Analyst,Female,16-06-2024,02-12-2024,29097,95.8,Chennai,Exited
+EMP1574,Siddharth Ninawe,Operations,Senior Executive,Male,17-09-2024,20-01-2026,68425,75.6,Mumbai,Exited
+EMP1575,Rohan Reddy,Finance,Executive,Male,17-08-2024,29-03-2026,66099,87.0,Hyderabad,Exited
+EMP1576,Vihaan Choudhary,Operations,Associate,Male,24-11-2019,,54624,85.7,Pune,Active
+EMP1577,Diya Reddy,hr,Coordinator,Male,03-07-2022,,63029,84.1,Indore,Active
+EMP1578,Ritika Reddy,Admin,Senior Executive,Male,19-09-2022,13-01-2025,56616,71.1,Bengaluru,Exited
+EMP1579,Shreya Choudhary,Sales,Manager,Female,09-09-2019,17-05-2021,24765,94.3,Mumbai,Exited
+EMP1580,Priya Reddy,hr,Senior Executive,Male,03-06-2020,,54418,88.5,Bengaluru,Active
+EMP1581,Deepak Kulkarni,HR,Manager,Female,01-04-2020,,37809,81.1,Nagpur,Active
+EMP1582,Aadhya Joshi,Operations,Executive,Male,10-01-2021,,62937,87.9,Nagpur,Active
+EMP1583,Manoj Reddy,IT,Manager,Male,19-04-2023,,75695,76.3,Hyderabad,Active
+EMP1584,Vivaan Kulkarni,hr,Associate,Female,04-08-2019,,78819,79.0,Indore,Active
+EMP1584,Diya Patil,IT,Executive,Female,27-04-2024,,74981,97.8,Wardha,Exited
+EMP1586,Neha Jain,Marketing,Associate,Female,18-06-2019,,64376,80.0,Bengaluru,Active
+EMP1587,Kiran Singh,Sales,Manager,Male,22-05-2023,27-07-2025,49692,85.6,Nagpur,Exited
+EMP1588,Sneha Mehta,HR,Associate,Male,04-02-2019,,19567,85.8,Wardha,Active
+EMP1589,Pooja Joshi,Sales,Executive,Male,28-10-2021,,22461,71.7,Delhi,Active
+EMP1590,Siddharth Singh,hr,Manager,Male,20-12-2019,,67277,96.9,Nagpur,Active
+EMP1591,Aadhya Yadav,Operations,Manager,Female,07-11-2019,15-09-2020,73965,77.7,Pune,Exited
+EMP1592,Aadhya Verma,IT,Analyst,Female,11-05-2023,29-02-2024,52690,72.1,Delhi,Exited
+EMP1593,Siddharth Patil,Human Resource,Coordinator,Female,08-07-2024,,36857,76.6,Pune,Active
+EMP1594,Swati Shinde,Sales,Executive,Female,28-02-2020,,27557,93.3,Mumbai,Active
+EMP1595,Ritika Reddy,Human Resource,Senior Executive,Male,04-01-2019,,69181,91.0,Chennai,Active
+EMP1596,Rohan Sharma,Marketing,Coordinator,Male,02-07-2024,13-12-2026,27188,70.1,Wardha,Exited
+EMP1597,Vihaan Choudhary,Marketing,Manager,Male,10-01-2023,25-03-2024,25234,81.0,Hyderabad,Exited
+EMP1598,Aditya Shinde,Sales,Associate,Male,11-04-2021,,23155,79.0,Chennai,Active
+EMP1599,Ritika Singh,sales,Manager,Male,15-06-2024,,75407,74.2,Delhi,Active
+EMP1600, Aarav Choudhary ,Finance,Associate,Female,26-06-2024,,,99.0,Mumbai,Exited
+EMP1601,Vivaan Jain,HR,Executive,Male,15-10-2022,,71150,94.2,Indore,Active
+EMP1602,Isha Mehta,Human Resource,Manager,Male,12-08-2021,,22833,84.7,Mumbai,Active
+EMP1603,Rahul Bhosale,HR,Analyst,Male,21-09-2021,,19882,97.1,Pune,Active
+EMP1604,Isha Bhosale,Human Resource,Associate,Male,19-09-2019,,32965,71.9,Delhi,Active
+EMP1605,Kavya Jain,IT,Senior Executive,Male,21-08-2022,,36000,92.9,Nagpur,Active
+EMP1606,Sneha Patel,hr,Analyst,Female,26-01-2022,,72415,86.6,Wardha,Active
+EMP1607,Diya Choudhary,HR,Analyst,Male,30-06-2020,,67300,96.4,Pune,Active
+EMP1608,Aarav Sharma,Human Resource,Manager,Male,01-01-2020,06-05-2022,80391,76.2,Bengaluru,Exited
+EMP1609,Amit Shinde,IT,Coordinator,Male,06-09-2021,,22931,91.5,Pune,Active
+EMP1610,Nikhil Yadav,sales,Analyst,Male,12-09-2023,,48885,99.6,Pune,Active
+EMP1611,Siddharth Mishra,Marketing,Manager,Male,09-09-2024,,78845,78.3,Delhi,Active
+EMP1612,Vihaan Gupta,Operations,Manager,Male,30-07-2024,,38940,71.6,Hyderabad,Active
+EMP1613,Priya Deshmukh,IT,Executive,Male,26-10-2021,24-05-2024,77394,92.2,Indore,Exited
+EMP1614,Sai Ninawe,HR,Analyst,Female,09-06-2024,,27287,87.8,Hyderabad,Active
+EMP1615,Kavya Deshmukh,sales,Analyst,Male,31-07-2021,,60746,77.1,Chennai,Active
+EMP1616,Deepak Deshmukh,IT,Coordinator,Female,22-06-2021,,79733,71.6,Chennai,Active
+EMP1617,Arjun Deshmukh,Admin,Senior Executive,Male,07-02-2024,,68768,83.7,Delhi,Active
+EMP1618,Nikhil Mishra,Sales,Senior Executive,Male,08-04-2021,,25818,73.3,Wardha,Exited
+EMP1619,Isha Pawar,Human Resource,Coordinator,Male,08-11-2022,,56687,93.7,Nagpur,Active
+EMP1620,Rohan Mehta,Finance,Coordinator,Female,21-12-2019,03-06-2021,46369,95.1,Bengaluru,Exited
+EMP1621,Aarav Pawar,Finance,Coordinator,Male,12-10-2021,26-06-2022,37525,82.5,Mumbai,Exited
+EMP1622,Vivaan Reddy,Marketing,Associate,Female,18-05-2019,19-10-2020,30844,77.2,Indore,Exited
+EMP1623,Bhavna Sharma,IT,Senior Executive,Male,11-06-2021,,64976,89.4,Pune,Active
+EMP1624,Aarav Reddy,Sales,Associate,Female,24-10-2020,28-12-2022,21199,93.2,Chennai,Exited
+EMP1625,Sai Mishra,Operations,Manager,Female,06-01-2019,,68446,85.9,Bengaluru,Active
+EMP1626,Kavya Kulkarni,Admin,Manager,Male,28-04-2021,,62000,85.4,Hyderabad,Active
+EMP1627,Ritika Verma,hr,Senior Executive,Male,18-04-2023,28-06-2023,65916,89.4,Pune,Exited
+EMP1628,Vikas Deshmukh,Human Resource,Manager,Female,03-10-2022,,32884,92.1,Delhi,Active
+EMP1629,Bhavna Joshi,sales,Executive,Male,15-12-2022,22-03-2024,54325,81.2,Wardha,Exited
+EMP1629,Rahul Nair,Marketing,Associate,Female,17-05-2020,11-05-2022,56307,94.0,Pune,Exited
+EMP1631,Ananya Shinde,hr,Executive,Male,25-11-2019,15-10-2020,28085,78.3,Nagpur,Exited
+EMP1632,Rahul Gupta,Finance,Associate,Male,02-11-2024,,56426,84.2,Chennai,Active
+EMP1633,Isha Sharma,Sales,Analyst,Female,13-02-2021,,20888,82.4,Hyderabad,Active
+EMP1634,Nikhil Jain,Operations,Senior Executive,Male,11-12-2024,13-08-2026,35295,93.7,Delhi,Exited
+EMP1635,Rahul Mishra,Sales,Senior Executive,Female,13-07-2019,,64284,98.7,Nagpur,Active
+EMP1636,Sakshi Mehta,Sales,Analyst,Male,16-01-2021,,38117,73.5,Hyderabad,Active
+EMP1637,Rohan Gupta,Operations,Manager,Female,02-12-2021,,22546,99.3,Nagpur,Exited
+EMP1638,Pooja Shinde,Marketing,Associate,Female,27-10-2020,,21266,93.1,Wardha,Exited
+EMP1639,Swati Jain,Human Resource,Senior Executive,Male,18-01-2019,16-12-2019,80116,94.0,Wardha,Exited
+EMP1640,Sneha Singh,Operations,Senior Executive,Male,14-06-2019,,33319,82.0,Delhi,Active
+EMP1641,Isha Mishra,hr,Coordinator,Male,29-08-2022,,43578,93.4,Bengaluru,Active
+EMP1642,Ananya Sharma,hr,Analyst,Female,30-12-2023,,69697,79.5,Indore,Active
+EMP1643,Vivaan Mishra,IT,Senior Executive,Female,28-08-2020,13-10-2021,19597,80.5,Wardha,Exited
+EMP1644,Deepak Mehta,hr,Senior Executive,Male,02-06-2021,31-08-2022,75999,94.2,Chennai,Exited
+EMP1645,Shreya Pawar,Human Resource,Senior Executive,Female,19-12-2019,,45234,99.7,Indore,Active
+EMP1646,Sneha Patel,Admin,Associate,Female,20-03-2023,,18867,82.4,Indore,Active
+EMP1647,Isha Choudhary,Human Resource,Senior Executive,Female,27-03-2021,,68039,71.3,Bengaluru,Active
+EMP1648,Manoj Choudhary,Sales,Analyst,Female,16-07-2024,,18320,79.0,Wardha,Exited
+EMP1649,Vihaan Yadav,IT,Executive,Male,04-01-2021,25-11-2022,50079,92.9,Wardha,Exited
+EMP1650,Aditya Bhosale,sales,Manager,Male,22-05-2024,26-03-2026,,81.2,Mumbai,Exited
+EMP1651,Deepak Kulkarni,Human Resource,Associate,Male,28-08-2019,,59901,80.7,Mumbai,Active
+EMP1652,Aadhya Mishra,IT,Senior Executive,Male,29-12-2022,,55992,85.4,Nagpur,Active
+EMP1653,Bhavna Singh,Admin,Senior Executive,Female,15-11-2020,10-04-2023,57462,72.9,Hyderabad,Exited
+EMP1654,Manoj Gupta,HR,Senior Executive,Male,14-07-2020,22-12-2021,72000,73.1,Nagpur,Exited
+EMP1655,Amit Joshi,Finance,Associate,Male,23-11-2024,,72702,73.5,Nagpur,Active
+EMP1656,Swati Sharma,Operations,Coordinator,Female,27-11-2022,18-05-2023,75925,75.2,Bengaluru,Exited
+EMP1657,Aarav Singh,Finance,Senior Executive,Male,11-06-2020,,47697,76.3,Pune,Active
+EMP1658,Kavya Singh,hr,Executive,Male,19-03-2019,31-05-2019,43736,93.8,Indore,Exited
+EMP1659,Rohan Verma,Operations,Manager,Male,02-05-2020,,57537,92.6,Pune,Exited
+EMP1660, Swati Bhosale ,Finance,Executive,Male,30-03-2021,,64076,74.4,Bengaluru,Active
+EMP1661,Rohan Mishra,sales,Coordinator,Male,19-10-2020,,84179,73.0,Mumbai,Active
+EMP1662,Amit Deshmukh,Finance,Manager,Male,28-02-2022,,18567,97.7,Indore,Active
+EMP1663,Deepak Reddy,sales,Senior Executive,Female,28-01-2021,16-06-2021,41704,82.7,Indore,Exited
+EMP1664,Diya Pawar,hr,Executive,Male,11-07-2022,,79066,84.9,Hyderabad,Active
+EMP1665,Sakshi Yadav,Marketing,Associate,Male,16-06-2019,,61006,81.5,Wardha,Active
+EMP1666,Siddharth Yadav,Operations,Analyst,Male,14-07-2021,,74093,96.8,Wardha,Exited
+EMP1667,Akash Mishra,Human Resource,Coordinator,Male,22-02-2019,02-05-2020,75417,73.6,Chennai,Exited
+EMP1668,Neha Choudhary,hr,Analyst,Female,22-11-2020,,65672,76.0,Chennai,Active
+EMP1669,Vihaan Joshi,IT,Manager,Female,06-08-2024,29-10-2026,53779,80.7,Chennai,Exited
+EMP1670,Rahul Nair,Sales,Associate,Female,26-08-2020,,50858,76.9,Nagpur,Exited
+EMP1671,Aarav Singh,HR,Coordinator,Female,07-10-2019,07-05-2020,68152,74.6,Pune,Exited
+EMP1672,Bhavna Patel,Marketing,Associate,Female,09-07-2024,,83260,86.3,Indore,Exited
+EMP1673,Vikas Sharma,HR,Associate,Female,29-10-2023,,68283,95.6,Wardha,Active
+EMP1674,Isha Verma,HR,Associate,Male,25-12-2020,11-07-2021,82419,79.4,Chennai,Exited
+EMP1674,Rahul Singh,Admin,Coordinator,Male,02-07-2024,23-12-2026,38487,81.7,Wardha,Exited
+EMP1676,Rohan Patil,Admin,Analyst,Female,15-12-2022,11-02-2023,23913,80.5,Mumbai,Exited
+EMP1677,Bhavna Jain,IT,Senior Executive,Male,03-02-2020,04-03-2021,71992,89.8,Delhi,Exited
+EMP1678,Diya Yadav,Admin,Executive,Female,14-12-2019,,57965,75.1,Indore,Active
+EMP1679,Sneha Verma,Operations,Coordinator,Male,27-09-2023,,79564,99.6,Chennai,Exited
+EMP1680,Rohan Patil,sales,Senior Executive,Female,05-02-2020,,44988,85.1,Hyderabad,Exited
+EMP1681,Sai Bhosale,Sales,Coordinator,Male,28-01-2023,,27872,78.6,Mumbai,Exited
+EMP1682,Priya Choudhary,IT,Coordinator,Female,14-07-2021,,30416,78.2,Indore,Active
+EMP1683,Rahul Pawar,Finance,Coordinator,Female,23-11-2022,,57563,83.0,Indore,Active
+EMP1684,Sneha Deshmukh,IT,Executive,Male,06-07-2023,11-11-2024,41671,87.3,Delhi,Exited
+EMP1685,Akash Shinde,Sales,Coordinator,Male,22-12-2024,04-02-2027,25848,80.9,Nagpur,Exited
+EMP1686,Diya Gupta,Sales,Manager,Male,19-11-2023,17-04-2026,26444,95.4,Bengaluru,Exited
+EMP1687,Manoj Yadav,Human Resource,Analyst,Male,16-11-2021,,71197,74.5,Mumbai,Active
+EMP1688,Diya Yadav,Operations,Analyst,Male,11-06-2024,24-01-2027,22850,78.2,Mumbai,Exited
+EMP1689,Aadhya Kulkarni,Marketing,Executive,Male,21-12-2020,,81680,95.8,Pune,Active
+EMP1690,Sneha Bhosale,Sales,Associate,Male,18-09-2019,04-09-2021,29836,77.1,Indore,Exited
+EMP1691,Swati Singh,Marketing,Coordinator,Male,21-11-2024,23-03-2025,49205,93.2,Hyderabad,Exited
+EMP1692,Sneha Choudhary,IT,Analyst,Male,24-08-2021,,32000,99.1,Wardha,Exited
+EMP1693,Kavya Kulkarni,Admin,Senior Executive,Female,18-08-2019,02-09-2021,32806,84.2,Delhi,Exited
+EMP1694,Aadhya Gupta,sales,Manager,Male,30-04-2024,20-06-2024,22562,90.7,Delhi,Exited
+EMP1695,Aadhya Mehta,IT,Coordinator,Male,20-06-2022,20-06-2024,33997,95.7,Chennai,Exited
+EMP1696,Aarav Patil,Sales,Senior Executive,Male,17-05-2022,,48862,95.8,Nagpur,Active
+EMP1697,Swati Shinde,sales,Executive,Female,23-07-2023,,53918,84.1,Chennai,Active
+EMP1698,Swati Jain,IT,Coordinator,Male,16-02-2020,,52205,80.6,Indore,Active
+EMP1699,Shreya Jain,Operations,Manager,Female,23-04-2019,,42083,93.7,Nagpur,Active
+EMP1700,Aarav Patil,Finance,Analyst,Male,05-06-2022,26-10-2022,,95.4,Chennai,Exited
+EMP1701,Kiran Jain,Operations,Analyst,Female,13-05-2024,,52167,94.0,Delhi,Active
+EMP1702,Aditya Pawar,sales,Executive,Male,15-01-2021,09-10-2023,47423,97.7,Delhi,Exited
+EMP1703,Swati Patel,Operations,Associate,Female,23-03-2021,11-10-2021,24525,88.0,Nagpur,Exited
+EMP1704,Aditya Mishra,Human Resource,Associate,Female,25-04-2020,,75037,73.6,Delhi,Active
+EMP1705,Ananya Kulkarni,Sales,Coordinator,Male,17-07-2024,,45080,99.9,Bengaluru,Exited
+EMP1706,Shreya Deshmukh,IT,Senior Executive,Male,08-01-2021,08-03-2021,56036,88.5,Delhi,Exited
+EMP1707,Pooja Choudhary,Operations,Analyst,Female,18-12-2019,,79457,99.2,Chennai,Active
+EMP1708,Akash Deshmukh,IT,Executive,Female,30-09-2023,,25700,97.9,Wardha,Exited
+EMP1709,Swati Mishra,Admin,Coordinator,Female,06-07-2019,,51247,79.1,Chennai,Active
+EMP1710,Akash Mishra,Human Resource,Analyst,Female,18-06-2019,,52116,97.9,Wardha,Active
+EMP1711,Arjun Patel,sales,Senior Executive,Male,12-12-2024,,33314,99.4,Wardha,Exited
+EMP1712,Deepak Kulkarni,sales,Coordinator,Female,28-10-2023,22-08-2024,52571,83.1,Nagpur,Exited
+EMP1713,Sneha Reddy,Human Resource,Analyst,Male,08-12-2023,,42762,76.9,Mumbai,Active
+EMP1714,Rahul Kulkarni,Human Resource,Executive,Female,28-03-2024,,82868,80.7,Indore,Exited
+EMP1715,Rahul Shinde,Operations,Senior Executive,Male,05-04-2020,,34207,76.1,Bengaluru,Active
+EMP1716,Sai Ninawe,Marketing,Coordinator,Male,22-01-2022,,18540,82.5,Pune,Active
+EMP1717,Diya Reddy,hr,Manager,Male,08-09-2022,,55261,81.8,Pune,Active
+EMP1718,Manoj Jain,Human Resource,Manager,Female,29-04-2019,,78323,83.6,Bengaluru,Active
+EMP1719,Siddharth Sharma,sales,Analyst,Male,29-06-2019,16-08-2021,34950,94.0,Bengaluru,Exited
+EMP1719, Sneha Verma ,hr,Senior Executive,Male,12-04-2023,,70279,77.2,Chennai,Active
+EMP1721,Aditya Sharma,Finance,Executive,Female,29-10-2020,15-09-2021,38202,84.7,Chennai,Exited
+EMP1722,Shreya Yadav,Admin,Coordinator,Male,21-06-2020,20-11-2022,66163,84.7,Chennai,Exited
+EMP1723,Rahul Kulkarni,Admin,Senior Executive,Male,29-09-2023,,73382,83.0,Chennai,Active
+EMP1724,Aditya Verma,Marketing,Associate,Male,31-10-2022,23-09-2024,38325,78.7,Chennai,Exited
+EMP1725,Aditya Reddy,Sales,Analyst,Female,31-08-2020,,57375,78.9,Mumbai,Active
+EMP1726,Vikas Patel,HR,Associate,Female,03-10-2024,,84932,72.8,Bengaluru,Active
+EMP1727,Pooja Kulkarni,Admin,Manager,Female,01-12-2019,,32933,75.4,Nagpur,Active
+EMP1728,Manoj Patil,HR,Coordinator,Female,08-12-2019,06-11-2020,59149,92.7,Wardha,Exited
+EMP1729,Siddharth Kulkarni,sales,Executive,Female,05-02-2021,,42259,96.1,Pune,Active
+EMP1730,Kavya Mehta,HR,Manager,Female,24-01-2019,,40509,83.8,Chennai,Exited
+EMP1731,Deepak Bhosale,Operations,Senior Executive,Male,25-05-2022,30-05-2024,69773,73.8,Mumbai,Exited
+EMP1732,Ananya Singh,HR,Associate,Male,09-02-2021,,45424,89.5,Chennai,Active
+EMP1733,Manoj Mehta,Finance,Associate,Male,19-12-2019,17-06-2020,80126,73.5,Nagpur,Exited
+EMP1734,Shreya Shinde,Operations,Coordinator,Male,15-04-2024,,76918,76.0,Chennai,Active
+EMP1735,Vivaan Jain,HR,Manager,Female,25-02-2020,11-08-2022,82972,71.1,Chennai,Exited
+EMP1736,Rahul Nair,Admin,Coordinator,Male,21-06-2024,,25956,82.7,Hyderabad,Active
+EMP1737,Vikas Patel,Sales,Associate,Female,05-09-2023,,63451,70.6,Bengaluru,Exited
+EMP1738,Shreya Deshmukh,Operations,Coordinator,Female,09-11-2022,,46796,97.7,Wardha,Exited
+EMP1739,Arjun Yadav,IT,Coordinator,Male,04-09-2023,30-12-2025,39237,78.5,Pune,Exited
+EMP1740,Akash Reddy,Human Resource,Coordinator,Female,10-12-2020,,38488,73.0,Chennai,Active
+EMP1741,Rahul Yadav,Finance,Senior Executive,Female,07-05-2021,,20376,80.7,Nagpur,Active
+EMP1742,Sai Nair,HR,Executive,Male,18-09-2019,11-07-2021,47712,84.6,Hyderabad,Exited
+EMP1743,Kiran Mishra,HR,Manager,Male,31-12-2021,,31650,97.8,Wardha,Active
+EMP1744,Kiran Shinde,hr,Coordinator,Male,09-03-2020,,23501,75.0,Pune,Active
+EMP1745,Deepak Deshmukh,sales,Associate,Male,05-10-2020,24-12-2022,84308,74.6,Hyderabad,Exited
+EMP1746,Sneha Gupta,hr,Analyst,Female,06-04-2021,02-07-2023,18863,80.2,Indore,Exited
+EMP1747,Sai Patel,Sales,Analyst,Female,06-03-2023,13-02-2025,50171,93.6,Nagpur,Exited
+EMP1748,Kiran Pawar,IT,Executive,Female,04-08-2023,12-02-2025,65418,74.4,Mumbai,Exited
+EMP1749,Sakshi Nair,hr,Associate,Male,14-12-2019,13-03-2022,39538,81.8,Mumbai,Exited
+EMP1750,Akash Gupta,Admin,Manager,Female,25-08-2019,19-03-2022,,97.3,Mumbai,Exited
+EMP1751,Manoj Kulkarni,Marketing,Manager,Female,24-08-2020,21-04-2021,75952,96.6,Chennai,Exited
+EMP1752,Bhavna Deshmukh,Sales,Associate,Male,12-12-2019,,61842,85.6,Indore,Active
+EMP1753,Priya Deshmukh,hr,Executive,Male,26-09-2024,10-12-2026,38975,96.7,Indore,Exited
+EMP1754,Rohan Kulkarni,Finance,Senior Executive,Female,29-05-2022,19-10-2022,25857,88.8,Hyderabad,Exited
+EMP1755,Vihaan Verma,hr,Senior Executive,Male,13-01-2024,17-02-2024,77394,94.2,Indore,Exited
+EMP1756,Deepak Bhosale,Finance,Manager,Female,05-12-2022,,36346,85.6,Delhi,Exited
+EMP1757,Vihaan Jain,Marketing,Associate,Male,27-02-2021,26-08-2021,73796,72.8,Chennai,Exited
+EMP1758,Ritika Gupta,Operations,Coordinator,Female,29-05-2021,,70789,96.2,Wardha,Exited
+EMP1759,Nikhil Pawar,Operations,Analyst,Female,28-06-2024,22-12-2024,84294,91.3,Nagpur,Exited
+EMP1760,Sakshi Nair,Marketing,Associate,Male,28-04-2020,,77694,92.4,Indore,Active
+EMP1761,Pooja Singh,Admin,Senior Executive,Female,01-08-2023,,33842,71.2,Nagpur,Active
+EMP1762,Vihaan Mishra,Sales,Analyst,Male,14-03-2023,,21667,93.5,Chennai,Exited
+EMP1763,Vivaan Yadav,Sales,Executive,Male,02-06-2021,,82067,86.4,Pune,Active
+EMP1764,Deepak Verma,IT,Associate,Female,24-05-2024,31-12-2026,62279,95.0,Nagpur,Exited
+EMP1764,Bhavna Gupta,Marketing,Executive,Female,02-03-2024,31-08-2024,60626,81.6,Chennai,Exited
+EMP1766,Sneha Mehta,HR,Manager,Male,20-12-2023,23-06-2026,39707,87.2,Bengaluru,Exited
+EMP1767,Vikas Singh,Marketing,Coordinator,Male,15-12-2019,,24930,92.5,Indore,Active
+EMP1768,Ritika Sharma,hr,Senior Executive,Male,18-12-2024,,20486,77.4,Wardha,Active
+EMP1769,Aditya Mehta,Admin,Senior Executive,Female,05-08-2022,20-01-2024,21049,75.4,Mumbai,Exited
+EMP1770,Deepak Nair,sales,Coordinator,Male,14-04-2023,,31019,78.6,Nagpur,Exited
+EMP1771,Aadhya Patel,Human Resource,Analyst,Male,10-06-2022,08-09-2022,60636,91.4,Bengaluru,Exited
+EMP1772,Neha Singh,sales,Executive,Male,06-08-2020,27-05-2021,67219,76.1,Delhi,Exited
+EMP1773,Rahul Nair,Marketing,Executive,Female,27-04-2023,,53296,83.9,Chennai,Active
+EMP1774,Aditya Reddy,HR,Senior Executive,Male,28-07-2023,,20440,77.4,Indore,Active
+EMP1775,Nikhil Gupta,Sales,Analyst,Male,25-07-2023,,83592,81.2,Nagpur,Exited
+EMP1776,Kiran Joshi,Marketing,Coordinator,Female,02-10-2023,,78902,89.6,Nagpur,Exited
+EMP1777,Aarav Verma,Operations,Manager,Male,24-01-2022,19-03-2023,64061,87.6,Indore,Exited
+EMP1778,Priya Verma,Human Resource,Executive,Female,27-12-2024,,57405,91.0,Nagpur,Active
+EMP1779,Shreya Mehta,Sales,Senior Executive,Female,05-11-2023,,84167,89.1,Wardha,Active
+EMP1780, Aadhya Joshi ,sales,Coordinator,Female,31-10-2022,,78266,70.5,Nagpur,Active
+EMP1781,Nikhil Sharma,Admin,Manager,Male,05-05-2024,,19255,82.4,Wardha,Active
+EMP1782,Bhavna Patil,Marketing,Manager,Female,29-11-2019,,22056,90.2,Hyderabad,Active
+EMP1783,Manoj Patil,Admin,Executive,Female,06-01-2023,,19105,81.1,Delhi,Exited
+EMP1784,Isha Sharma,Finance,Analyst,Male,23-03-2019,17-04-2021,64900,94.5,Bengaluru,Exited
+EMP1785,Kiran Joshi,Finance,Manager,Male,15-07-2024,,82597,70.2,Chennai,Exited
+EMP1786,Vihaan Kulkarni,Admin,Manager,Male,11-08-2024,,43397,72.0,Nagpur,Exited
+EMP1787,Shreya Patel,Human Resource,Analyst,Male,29-11-2021,,53956,99.8,Indore,Active
+EMP1788,Siddharth Kulkarni,Marketing,Manager,Male,03-02-2024,,73982,95.6,Hyderabad,Active
+EMP1789,Kavya Pawar,Sales,Manager,Male,13-05-2020,23-11-2021,23697,71.4,Chennai,Exited
+EMP1790,Vikas Shinde,sales,Coordinator,Male,22-01-2019,,28722,99.7,Delhi,Exited
+EMP1791,Sakshi Pawar,hr,Senior Executive,Female,20-10-2021,,39558,71.9,Pune,Active
+EMP1792,Aarav Reddy,IT,Associate,Male,09-04-2019,17-01-2020,32134,98.8,Mumbai,Exited
+EMP1793,Manoj Jain,Marketing,Executive,Female,27-08-2021,,75478,87.4,Pune,Active
+EMP1794,Vivaan Verma,IT,Executive,Female,07-07-2022,,34716,71.6,Chennai,Active
+EMP1795,Aditya Singh,HR,Coordinator,Female,02-08-2019,16-10-2020,30560,77.0,Mumbai,Exited
+EMP1796,Isha Patil,Operations,Manager,Male,20-10-2023,,62514,83.6,Hyderabad,Active
+EMP1797,Rohan Deshmukh,hr,Coordinator,Male,25-02-2020,,26853,97.1,Nagpur,Active
+EMP1798,Nikhil Nair,Sales,Analyst,Male,26-12-2022,21-10-2024,76277,74.1,Mumbai,Exited
+EMP1799,Vivaan Gupta,Sales,Analyst,Female,21-11-2023,14-06-2026,37087,79.3,Hyderabad,Exited
+EMP1800,Priya Mishra,HR,Analyst,Male,21-10-2024,,,82.7,Delhi,Active
+EMP1801,Ananya Deshmukh,hr,Manager,Female,30-10-2022,,80354,88.0,Hyderabad,Active
+EMP1802,Deepak Choudhary,Admin,Associate,Male,06-10-2022,20-04-2023,31742,84.9,Mumbai,Exited
+EMP1803,Nikhil Joshi,Finance,Associate,Female,25-03-2024,,49328,94.2,Chennai,Active
+EMP1804,Ananya Patil,Human Resource,Executive,Male,28-01-2019,,64908,74.3,Wardha,Exited
+EMP1805,Ananya Choudhary,sales,Analyst,Female,29-06-2019,,44099,75.2,Bengaluru,Active
+EMP1806,Shreya Ninawe,sales,Executive,Male,04-10-2021,,43688,95.3,Pune,Active
+EMP1807,Aarav Gupta,IT,Analyst,Female,30-03-2020,07-03-2021,77795,94.3,Nagpur,Exited
+EMP1808,Amit Bhosale,IT,Analyst,Male,25-09-2019,,36931,75.8,Chennai,Active
+EMP1809,Sakshi Mishra,sales,Coordinator,Male,26-10-2023,,24054,95.6,Bengaluru,Active
+EMP1809,Kiran Gupta,sales,Analyst,Female,09-10-2021,,54709,76.3,Pune,Active
+EMP1811,Kiran Reddy,Admin,Associate,Female,23-09-2019,,84665,85.0,Wardha,Active
+EMP1812,Sai Jain,sales,Senior Executive,Female,22-11-2024,12-05-2026,80096,89.1,Mumbai,Exited
+EMP1813,Ananya Joshi,Finance,Analyst,Female,26-01-2024,,69891,82.8,Chennai,Active
+EMP1814,Rohan Ninawe,sales,Executive,Female,08-11-2021,,35606,83.3,Hyderabad,Active
+EMP1815,Diya Choudhary,HR,Associate,Female,20-03-2024,10-08-2025,74689,94.1,Hyderabad,Exited
+EMP1816,Aadhya Patil,HR,Senior Executive,Male,05-01-2021,,27946,78.8,Indore,Exited
+EMP1817,Amit Mehta,hr,Executive,Male,06-02-2022,,30898,80.8,Indore,Active
+EMP1818,Ananya Jain,Finance,Analyst,Male,10-09-2022,22-01-2025,53974,100.0,Indore,Exited
+EMP1819,Swati Kulkarni,HR,Associate,Male,11-05-2022,19-08-2024,70928,84.2,Indore,Exited
+EMP1820,Bhavna Gupta,IT,Associate,Male,21-07-2021,,45508,85.5,Indore,Active
+EMP1821,Bhavna Shinde,Operations,Analyst,Female,27-10-2022,,59035,93.1,Chennai,Active
+EMP1822,Ananya Shinde,Operations,Senior Executive,Male,04-05-2019,,34822,85.0,Hyderabad,Exited
+EMP1823,Sneha Joshi,IT,Senior Executive,Male,10-10-2023,16-10-2025,57274,87.0,Mumbai,Exited
+EMP1824,Swati Gupta,Human Resource,Executive,Female,14-09-2022,11-05-2023,69201,75.7,Pune,Exited
+EMP1825,Sneha Choudhary,Operations,Executive,Male,01-06-2022,,40468,71.0,Wardha,Active
+EMP1826,Aarav Ninawe,Finance,Senior Executive,Male,12-10-2019,,48544,83.6,Hyderabad,Exited
+EMP1827,Amit Sharma,Human Resource,Coordinator,Female,31-08-2022,21-01-2023,34926,84.3,Pune,Exited
+EMP1828,Neha Deshmukh,Human Resource,Analyst,Female,22-04-2021,18-05-2023,80230,87.6,Indore,Exited
+EMP1829,Sakshi Shinde,Sales,Associate,Male,06-04-2021,,36702,94.7,Delhi,Active
+EMP1830,Amit Jain,Admin,Senior Executive,Female,03-07-2024,11-09-2024,29941,80.4,Bengaluru,Exited
+EMP1831,Neha Bhosale,Human Resource,Coordinator,Female,28-08-2023,,41537,83.7,Nagpur,Active
+EMP1832,Sakshi Choudhary,hr,Analyst,Female,31-05-2023,,49417,96.5,Indore,Active
+EMP1833,Priya Patel,Finance,Senior Executive,Male,14-07-2024,02-03-2026,33889,92.7,Indore,Exited
+EMP1834,Bhavna Jain,IT,Analyst,Male,22-01-2024,,51130,83.9,Pune,Active
+EMP1835,Nikhil Shinde,IT,Executive,Female,08-11-2022,18-01-2024,22951,73.4,Nagpur,Exited
+EMP1836,Sneha Shinde,Operations,Coordinator,Male,04-03-2024,,28819,91.4,Wardha,Active
+EMP1837,Arjun Reddy,Sales,Coordinator,Male,22-10-2020,,20367,75.3,Pune,Active
+EMP1838,Vikas Patil,Human Resource,Analyst,Female,14-11-2019,,53815,80.7,Delhi,Active
+EMP1839,Sakshi Verma,Marketing,Associate,Female,04-06-2021,07-11-2023,31473,83.3,Mumbai,Exited
+EMP1840, Vivaan Patil ,Finance,Executive,Female,19-10-2021,10-06-2022,29978,70.8,Mumbai,Exited
+EMP1841,Sneha Deshmukh,hr,Manager,Male,22-06-2021,,40004,71.3,Indore,Active
+EMP1842,Vihaan Jain,sales,Associate,Male,15-02-2021,,69781,77.0,Pune,Active
+EMP1843,Pooja Jain,Human Resource,Analyst,Female,03-03-2019,14-04-2019,69011,76.6,Bengaluru,Exited
+EMP1844,Nikhil Bhosale,sales,Associate,Female,29-06-2019,,46647,93.0,Wardha,Active
+EMP1845,Vihaan Mehta,Admin,Manager,Female,03-12-2020,08-09-2022,60513,90.3,Nagpur,Exited
+EMP1846,Sneha Ninawe,sales,Executive,Female,28-05-2024,,61922,81.5,Delhi,Active
+EMP1847,Amit Choudhary,HR,Senior Executive,Male,10-08-2021,,34260,92.1,Delhi,Active
+EMP1848,Siddharth Patel,HR,Associate,Male,17-07-2020,10-03-2021,37879,89.3,Delhi,Exited
+EMP1849,Swati Bhosale,Operations,Senior Executive,Male,08-09-2022,,54454,85.6,Chennai,Active
+EMP1850,Nikhil Yadav,HR,Manager,Male,27-07-2021,24-03-2022,,94.0,Delhi,Exited
+EMP1851,Siddharth Patil,Marketing,Manager,Male,10-08-2022,,75981,71.9,Wardha,Active
+EMP1852,Aditya Deshmukh,HR,Executive,Male,02-08-2020,,34457,87.8,Delhi,Active
+EMP1853,Diya Nair,hr,Analyst,Female,12-10-2023,18-11-2025,43891,75.3,Delhi,Exited
+EMP1854,Priya Yadav,Admin,Associate,Male,11-01-2024,,53633,98.5,Hyderabad,Active
+EMP1854,Neha Patil,Human Resource,Analyst,Female,12-04-2024,26-01-2026,74810,70.6,Chennai,Exited
+EMP1856,Kavya Patel,Sales,Senior Executive,Female,09-01-2025,,41029,83.9,Wardha,Active
+EMP1857,Priya Patil,Marketing,Analyst,Female,23-05-2024,,61677,75.9,Delhi,Active
+EMP1858,Aarav Sharma,Marketing,Manager,Female,13-03-2023,10-06-2024,69727,81.5,Bengaluru,Exited
+EMP1859,Nikhil Choudhary,hr,Associate,Male,02-08-2023,,34315,75.8,Chennai,Active
+EMP1860,Aadhya Mishra,Marketing,Associate,Male,24-06-2024,21-05-2026,68506,77.3,Mumbai,Exited
+EMP1861,Swati Mishra,HR,Senior Executive,Male,28-08-2020,21-05-2023,37315,88.1,Nagpur,Exited
+EMP1862,Aarav Singh,hr,Coordinator,Male,24-04-2023,01-12-2025,28531,96.3,Nagpur,Exited
+EMP1863,Manoj Pawar,Sales,Manager,Male,22-05-2022,11-07-2024,71950,73.3,Hyderabad,Exited
+EMP1864,Manoj Gupta,Sales,Associate,Male,08-05-2021,13-06-2021,40072,72.9,Chennai,Exited
+EMP1865,Amit Pawar,Sales,Senior Executive,Male,01-11-2023,,41121,91.1,Delhi,Active
+EMP1866,Rahul Ninawe,Marketing,Analyst,Male,27-03-2020,29-11-2020,42331,92.5,Delhi,Exited
+EMP1867,Aadhya Pawar,Operations,Senior Executive,Male,23-03-2020,,28460,81.3,Bengaluru,Active
+EMP1868,Aditya Jain,HR,Executive,Male,19-08-2021,05-11-2023,31213,78.0,Mumbai,Exited
+EMP1869,Akash Choudhary,HR,Associate,Female,01-02-2020,,18951,98.0,Wardha,Active
+EMP1870,Bhavna Jain,Admin,Senior Executive,Male,26-10-2023,24-05-2026,62967,98.2,Chennai,Exited
+EMP1871,Neha Bhosale,HR,Manager,Female,29-12-2022,31-01-2023,77889,91.8,Nagpur,Exited
+EMP1872,Aarav Bhosale,hr,Senior Executive,Female,13-12-2024,20-02-2027,50576,88.6,Wardha,Exited
+EMP1873,Amit Pawar,Finance,Executive,Female,13-01-2019,,65212,90.3,Delhi,Exited
+EMP1874,Siddharth Reddy,IT,Manager,Male,30-11-2019,09-08-2022,80406,92.0,Bengaluru,Exited
+EMP1875,Siddharth Deshmukh,Human Resource,Associate,Male,31-10-2024,,34759,79.0,Indore,Active
+EMP1876,Deepak Shinde,Human Resource,Manager,Male,02-01-2024,,81198,77.3,Nagpur,Active
+EMP1877,Bhavna Patel,hr,Senior Executive,Female,17-11-2023,,39002,93.0,Delhi,Active
+EMP1878,Shreya Kulkarni,Operations,Executive,Female,19-05-2020,,82482,96.2,Pune,Active
+EMP1879,Nikhil Jain,IT,Executive,Female,13-04-2023,27-12-2023,51959,72.6,Pune,Exited
+EMP1880,Sneha Choudhary,Finance,Associate,Male,20-04-2020,,59074,79.3,Indore,Exited
+EMP1881,Ananya Patil,IT,Coordinator,Male,02-08-2022,14-04-2025,34555,73.2,Mumbai,Exited
+EMP1882,Vikas Shinde,sales,Analyst,Female,15-08-2020,07-02-2022,77740,74.4,Mumbai,Exited
+EMP1883,Siddharth Jain,Sales,Manager,Female,19-08-2024,,53841,88.9,Delhi,Active
+EMP1884,Rahul Yadav,IT,Manager,Male,29-08-2019,,45605,91.0,Mumbai,Exited
+EMP1885,Swati Ninawe,Operations,Executive,Female,24-05-2023,28-04-2025,38865,80.1,Wardha,Exited
+EMP1886,Pooja Patil,IT,Manager,Female,22-10-2019,,43571,72.9,Hyderabad,Exited
+EMP1887,Bhavna Choudhary,HR,Associate,Female,30-05-2022,10-02-2024,36030,78.7,Nagpur,Exited
+EMP1888,Ananya Deshmukh,Finance,Manager,Male,07-02-2019,18-10-2020,31362,81.3,Chennai,Exited
+EMP1889,Akash Ninawe,HR,Executive,Female,29-01-2020,29-08-2020,24877,87.8,Nagpur,Exited
+EMP1890,Nikhil Patil,Finance,Associate,Female,20-05-2019,,49569,79.1,Nagpur,Active
+EMP1891,Nikhil Patil,hr,Senior Executive,Male,14-03-2024,,76342,73.6,Pune,Exited
+EMP1892,Vihaan Reddy,Marketing,Senior Executive,Male,10-07-2021,,80848,93.8,Nagpur,Active
+EMP1893,Neha Reddy,IT,Senior Executive,Male,07-05-2022,,31033,91.4,Indore,Active
+EMP1894,Sai Patil,HR,Analyst,Male,01-06-2023,,34264,75.4,Nagpur,Exited
+EMP1895,Aarav Mehta,Operations,Analyst,Male,11-07-2022,,23130,89.6,Pune,Active
+EMP1896,Vikas Kulkarni,HR,Senior Executive,Female,13-12-2019,,84341,99.0,Nagpur,Active
+EMP1897,Kavya Sharma,Finance,Manager,Female,16-05-2022,,56456,74.2,Wardha,Active
+EMP1898,Sakshi Jain,Marketing,Manager,Male,13-12-2022,,30977,77.1,Delhi,Active
+EMP1899,Arjun Yadav,Finance,Senior Executive,Male,03-07-2020,,65063,91.9,Chennai,Active
+EMP1899, Aditya Mehta ,Sales,Associate,Male,03-12-2021,18-06-2022,,98.3,Chennai,Exited
+EMP1901,Sakshi Gupta,Marketing,Manager,Male,14-04-2021,,53310,91.4,Indore,Active
+EMP1902,Siddharth Ninawe,IT,Executive,Male,20-09-2020,07-01-2022,67668,72.3,Pune,Exited
+EMP1903,Vikas Singh,Marketing,Manager,Male,25-07-2023,,61169,80.9,Hyderabad,Active
+EMP1904,Bhavna Kulkarni,Human Resource,Analyst,Female,13-07-2021,,67434,98.6,Pune,Exited
+EMP1905,Sai Nair,Sales,Manager,Female,28-06-2024,,63731,86.5,Pune,Active
+EMP1906,Ritika Verma,Human Resource,Associate,Male,26-07-2022,,70776,77.8,Indore,Exited
+EMP1907,Sakshi Gupta,Human Resource,Manager,Female,07-08-2020,06-06-2021,24929,91.2,Delhi,Exited
+EMP1908,Akash Bhosale,IT,Senior Executive,Female,19-02-2024,,75535,85.1,Bengaluru,Active
+EMP1909,Kavya Nair,Finance,Associate,Female,04-06-2022,,58063,95.4,Pune,Active
+EMP1910,Aditya Joshi,hr,Manager,Female,07-11-2020,,29086,86.6,Wardha,Active
+EMP1911,Kiran Sharma,IT,Associate,Male,14-09-2024,,80869,82.2,Delhi,Active
+EMP1912,Swati Sharma,IT,Coordinator,Female,28-12-2024,,23551,98.9,Indore,Exited
+EMP1913,Ritika Joshi,Human Resource,Executive,Female,04-11-2019,13-05-2021,64306,84.9,Nagpur,Exited
+EMP1914,Pooja Singh,sales,Senior Executive,Female,20-10-2021,,56019,78.8,Delhi,Active
+EMP1915,Aarav Choudhary,IT,Associate,Female,09-06-2021,28-04-2023,22643,71.7,Mumbai,Exited
+EMP1916,Siddharth Shinde,sales,Manager,Male,07-05-2022,,63838,82.1,Mumbai,Exited
+EMP1917,Vihaan Pawar,Operations,Associate,Male,20-03-2021,,38147,97.4,Mumbai,Active
+EMP1918,Arjun Kulkarni,Finance,Analyst,Female,11-04-2024,19-05-2025,74143,73.3,Wardha,Exited
+EMP1919,Akash Shinde,Human Resource,Manager,Male,26-07-2020,30-08-2020,65085,73.3,Bengaluru,Exited
+EMP1920,Vivaan Gupta,IT,Associate,Female,21-09-2023,02-04-2024,44082,73.6,Wardha,Exited
+EMP1921,Vikas Reddy,Human Resource,Analyst,Male,23-08-2022,24-04-2025,68967,98.7,Mumbai,Exited
+EMP1922,Arjun Gupta,sales,Executive,Female,10-08-2024,,48999,82.9,Mumbai,Active
+EMP1923,Kavya Reddy,Sales,Analyst,Male,01-03-2022,,74223,91.9,Nagpur,Exited
+EMP1924,Diya Kulkarni,hr,Analyst,Female,15-12-2021,,74250,91.2,Pune,Active
+EMP1925,Sakshi Nair,Admin,Analyst,Male,12-01-2021,,37493,74.0,Mumbai,Active
+EMP1926,Aadhya Deshmukh,Human Resource,Executive,Male,13-10-2023,,44167,81.4,Indore,Active
+EMP1927,Priya Joshi,Finance,Manager,Male,08-10-2022,12-04-2024,73977,79.1,Bengaluru,Exited
+EMP1928,Pooja Kulkarni,sales,Executive,Male,09-09-2023,,59922,71.2,Mumbai,Active
+EMP1929,Akash Jain,Finance,Associate,Male,14-03-2022,,31207,77.6,Wardha,Exited
+EMP1930,Pooja Jain,Sales,Manager,Male,01-04-2020,,19790,79.9,Hyderabad,Active
+EMP1931,Shreya Choudhary,Marketing,Analyst,Female,03-03-2023,,54168,72.6,Pune,Active
+EMP1932,Arjun Bhosale,hr,Manager,Female,18-06-2019,,43287,97.8,Pune,Active
+EMP1933,Vikas Bhosale,sales,Executive,Male,19-05-2022,10-01-2023,38142,75.8,Indore,Exited
+EMP1934,Sakshi Kulkarni,Marketing,Associate,Male,23-11-2022,26-12-2024,33391,84.5,Indore,Exited
+EMP1935,Swati Nair,HR,Executive,Male,14-11-2020,25-04-2021,55965,93.8,Delhi,Exited
+EMP1936,Shreya Patil,Operations,Associate,Female,20-12-2024,,39694,86.9,Chennai,Active
+EMP1937,Neha Bhosale,Sales,Analyst,Male,27-04-2021,,18471,87.8,Mumbai,Active
+EMP1938,Ritika Nair,Operations,Manager,Female,25-08-2024,07-05-2025,56844,86.6,Nagpur,Exited
+EMP1939,Diya Verma,Marketing,Senior Executive,Male,02-09-2021,,37416,78.1,Mumbai,Exited
+EMP1940,Nikhil Joshi,Finance,Manager,Female,29-12-2024,,18183,89.0,Hyderabad,Active
+EMP1941,Sneha Patel,Marketing,Coordinator,Female,17-12-2021,,71522,79.7,Mumbai,Active
+EMP1942,Nikhil Sharma,sales,Coordinator,Male,17-06-2021,,20049,91.7,Chennai,Exited
+EMP1943,Nikhil Kulkarni,Admin,Analyst,Female,24-04-2021,,53231,74.7,Delhi,Exited
+EMP1944,Shreya Pawar,sales,Associate,Male,30-08-2020,,41791,94.5,Nagpur,Exited
+EMP1944,Ananya Choudhary,Operations,Analyst,Female,08-01-2021,,39354,90.6,Delhi,Exited
+EMP1946,Aditya Gupta,hr,Manager,Female,13-10-2023,,77640,73.0,Indore,Active
+EMP1947,Arjun Sharma,Admin,Manager,Male,13-02-2020,04-07-2020,19776,74.0,Pune,Exited
+EMP1948,Aadhya Gupta,Admin,Coordinator,Female,25-02-2019,,31938,95.6,Pune,Active
+EMP1949,Ananya Gupta,Operations,Senior Executive,Female,25-12-2023,,58289,74.6,Mumbai,Active
+EMP1950,Vikas Kulkarni,Marketing,Executive,Female,19-05-2020,,,73.1,Chennai,Active
+EMP1951,Arjun Sharma,Finance,Associate,Male,09-04-2019,,73985,80.6,Bengaluru,Active
+EMP1952,Diya Patil,hr,Analyst,Male,07-07-2024,,32435,98.7,Bengaluru,Active
+EMP1953,Pooja Patel,Admin,Executive,Male,28-09-2022,,65250,88.1,Nagpur,Active
+EMP1954,Kavya Nair,sales,Coordinator,Female,12-01-2021,,57526,80.5,Pune,Exited
+EMP1955,Aadhya Reddy,sales,Analyst,Male,23-12-2021,,18285,79.6,Chennai,Active
+EMP1956,Isha Reddy,hr,Executive,Female,08-04-2020,17-02-2021,36961,99.8,Nagpur,Exited
+EMP1957,Bhavna Patil,sales,Coordinator,Female,31-07-2022,09-08-2024,72256,74.1,Delhi,Exited
+EMP1958,Neha Pawar,Marketing,Associate,Male,29-07-2024,17-12-2026,48161,87.4,Chennai,Exited
+EMP1959,Amit Choudhary,Finance,Executive,Male,24-12-2019,,65409,99.8,Mumbai,Active
+EMP1960, Pooja Mehta ,Operations,Senior Executive,Female,01-07-2020,,25808,95.5,Nagpur,Active
+EMP1961,Priya Shinde,Human Resource,Analyst,Male,21-09-2023,,45621,92.4,Pune,Active
+EMP1962,Sakshi Gupta,IT,Manager,Male,18-04-2019,05-05-2021,31894,84.3,Nagpur,Exited
+EMP1963,Aarav Gupta,sales,Executive,Male,01-08-2020,,50118,87.1,Chennai,Active
+EMP1964,Arjun Ninawe,Operations,Associate,Male,27-07-2020,04-09-2022,62215,78.6,Nagpur,Exited
+EMP1965,Vivaan Verma,Admin,Associate,Female,11-12-2020,,19424,90.4,Wardha,Active
+EMP1966,Vikas Kulkarni,Admin,Senior Executive,Male,17-08-2024,23-11-2025,38552,85.6,Nagpur,Exited
+EMP1967,Shreya Deshmukh,IT,Analyst,Male,18-08-2019,,69418,94.5,Wardha,Active
+EMP1968,Rahul Jain,IT,Senior Executive,Female,08-04-2023,,25165,75.8,Pune,Active
+EMP1969,Vihaan Patel,sales,Senior Executive,Male,06-10-2022,,49395,86.2,Pune,Active
+EMP1970,Ananya Bhosale,HR,Manager,Male,20-06-2022,,44440,77.2,Pune,Active
+EMP1971,Rohan Choudhary,HR,Senior Executive,Male,04-06-2024,,24297,98.3,Mumbai,Active
+EMP1972,Pooja Yadav,IT,Associate,Female,10-08-2024,,59218,99.2,Pune,Active
+EMP1973,Sneha Pawar,Marketing,Coordinator,Female,18-02-2020,,21104,84.3,Mumbai,Active
+EMP1974,Priya Ninawe,Human Resource,Manager,Male,11-03-2024,,30227,96.5,Nagpur,Active
+EMP1975,Bhavna Ninawe,Marketing,Senior Executive,Female,15-10-2024,28-03-2025,62436,88.7,Chennai,Exited
+EMP1976,Vivaan Patil,Finance,Coordinator,Female,05-05-2021,,37975,72.9,Mumbai,Active
+EMP1977,Arjun Yadav,Marketing,Analyst,Female,24-12-2019,,59119,74.8,Bengaluru,Exited
+EMP1978,Rohan Mishra,sales,Manager,Female,01-01-2020,,41486,77.7,Wardha,Active
+EMP1979,Aadhya Shinde,Human Resource,Associate,Female,22-05-2020,,55568,95.7,Nagpur,Exited
+EMP1980,Isha Mishra,Marketing,Coordinator,Female,08-07-2022,,72158,77.9,Mumbai,Exited
+EMP1981,Siddharth Verma,Finance,Senior Executive,Female,02-02-2019,,31801,74.7,Chennai,Active
+EMP1982,Deepak Patel,Finance,Associate,Female,10-05-2023,31-05-2024,79063,73.3,Nagpur,Exited
+EMP1983,Shreya Singh,IT,Senior Executive,Male,10-11-2023,,70628,79.5,Wardha,Active
+EMP1984,Ananya Reddy,hr,Associate,Male,14-02-2022,,38413,89.2,Hyderabad,Exited
+EMP1985,Rohan Verma,Admin,Associate,Female,07-04-2023,,65381,76.4,Delhi,Active
+EMP1986,Deepak Sharma,IT,Executive,Female,10-01-2022,05-05-2022,36577,82.2,Bengaluru,Exited
+EMP1987,Deepak Shinde,IT,Analyst,Male,19-11-2024,,52006,72.8,Chennai,Active
+EMP1988,Sneha Yadav,Human Resource,Coordinator,Male,24-03-2021,29-08-2022,80324,99.0,Chennai,Exited
+EMP1989,Pooja Choudhary,IT,Manager,Male,10-02-2019,,28198,79.7,Hyderabad,Active
+EMP1989,Aarav Gupta,Operations,Senior Executive,Male,27-08-2020,20-01-2021,71265,99.6,Nagpur,Exited
+EMP1991,Nikhil Shinde,Admin,Manager,Male,04-02-2020,,46655,82.6,Indore,Active
+EMP1992,Bhavna Ninawe,Admin,Analyst,Male,27-03-2023,,63624,99.2,Mumbai,Active
+EMP1993,Pooja Mishra,HR,Manager,Female,21-05-2022,24-11-2024,34350,89.5,Wardha,Exited
+EMP1994,Kavya Pawar,sales,Executive,Male,13-12-2022,05-03-2025,62017,83.8,Hyderabad,Exited
+EMP1995,Sai Mehta,Admin,Manager,Female,28-10-2020,11-04-2023,75343,91.1,Pune,Exited
+EMP1996,Aditya Singh,hr,Manager,Female,09-03-2019,,31068,85.1,Mumbai,Exited
+EMP1997,Akash Yadav,IT,Coordinator,Female,17-05-2021,,77589,73.4,Wardha,Active
+EMP1998,Vihaan Mishra,Operations,Analyst,Female,19-08-2023,,67105,78.0,Bengaluru,Exited
+EMP1999,Priya Pawar,Finance,Analyst,Female,18-01-2019,,21440,95.2,Indore,Exited
+EMP2000,Manoj Bhosale,sales,Analyst,Female,04-10-2022,,,75.8,Chennai,Active
+EMP2001,Manoj Verma,Admin,Manager,Male,24-10-2023,,69172,82.1,Hyderabad,Active
+EMP2002,Amit Ninawe,IT,Coordinator,Male,04-08-2021,,34558,88.9,Chennai,Active
+EMP2003,Manoj Kulkarni,Marketing,Executive,Female,13-10-2020,,30224,70.3,Nagpur,Exited
+EMP2004,Aarav Bhosale,Marketing,Associate,Female,19-11-2019,,35111,75.6,Delhi,Exited
+EMP2005,Priya Deshmukh,Marketing,Senior Executive,Male,01-10-2021,06-09-2023,24782,98.0,Mumbai,Exited
+EMP2006,Nikhil Choudhary,hr,Analyst,Female,30-03-2020,01-09-2020,32034,77.9,Nagpur,Exited
+EMP2007,Aditya Patel,Operations,Executive,Female,20-01-2023,,69222,93.9,Chennai,Active
+EMP2008,Aditya Reddy,hr,Analyst,Male,11-05-2021,27-04-2022,77097,79.0,Nagpur,Exited
+EMP2009,Akash Choudhary,Admin,Senior Executive,Female,09-05-2019,,62932,99.8,Indore,Active
+EMP2010,Aarav Ninawe,Marketing,Coordinator,Male,08-11-2021,,43276,86.1,Indore,Active
+EMP2011,Amit Gupta,Finance,Executive,Female,03-02-2023,,46437,74.2,Pune,Active
+EMP2012,Shreya Gupta,Sales,Senior Executive,Female,25-01-2022,,30054,84.0,Wardha,Exited
+EMP2013,Kavya Nair,IT,Associate,Male,01-03-2021,,54842,87.5,Bengaluru,Exited
+EMP2014,Sai Deshmukh,Operations,Senior Executive,Male,11-11-2023,14-01-2026,53608,88.2,Chennai,Exited
+EMP2015,Ananya Choudhary,sales,Analyst,Male,12-03-2023,,76904,98.7,Bengaluru,Active
+EMP2016,Rohan Pawar,Sales,Senior Executive,Female,12-12-2024,08-05-2025,41580,93.7,Hyderabad,Exited
+EMP2017,Diya Patel,Finance,Executive,Male,03-03-2023,,59215,79.6,Mumbai,Exited
+EMP2018,Sakshi Jain,Finance,Associate,Female,21-03-2024,16-11-2025,26681,88.1,Indore,Exited
+EMP2019,Ananya Singh,Marketing,Manager,Female,12-02-2022,,73279,79.5,Hyderabad,Active
+EMP2020, Ananya Deshmukh ,HR,Associate,Male,16-07-2024,,53968,73.7,Nagpur,Exited
+EMP2021,Siddharth Jain,Admin,Senior Executive,Male,18-04-2023,,20787,89.3,Mumbai,Active
+EMP2022,Swati Shinde,Sales,Senior Executive,Male,20-06-2020,,23127,72.1,Pune,Exited
+EMP2023,Manoj Pawar,Sales,Coordinator,Female,30-01-2022,14-04-2023,28455,84.8,Mumbai,Exited
+EMP2024,Neha Yadav,Operations,Coordinator,Male,13-07-2024,,67008,70.9,Mumbai,Active
+EMP2025,Manoj Sharma,Human Resource,Analyst,Male,06-03-2020,16-04-2022,75105,72.6,Hyderabad,Exited
+EMP2026,Manoj Mehta,HR,Executive,Female,04-08-2019,17-10-2019,32523,72.3,Hyderabad,Exited
+EMP2027,Sakshi Bhosale,IT,Coordinator,Female,10-01-2022,,36056,73.6,Hyderabad,Active
+EMP2028,Deepak Gupta,Admin,Coordinator,Female,20-08-2023,06-03-2025,49525,89.8,Bengaluru,Exited
+EMP2029,Sneha Reddy,Finance,Senior Executive,Male,12-01-2020,08-02-2022,28852,89.8,Delhi,Exited
+EMP2030,Sakshi Patel,hr,Executive,Male,18-07-2024,,45849,84.0,Chennai,Active
+EMP2031,Ananya Reddy,hr,Senior Executive,Female,26-10-2022,,59072,89.7,Indore,Active
+EMP2032,Vihaan Gupta,Finance,Associate,Male,29-01-2023,04-08-2025,44610,72.1,Chennai,Exited
+EMP2033,Sai Yadav,Admin,Executive,Male,23-02-2020,,78418,77.2,Wardha,Active
+EMP2034,Sai Kulkarni,HR,Senior Executive,Female,04-05-2024,02-10-2024,29018,76.4,Chennai,Exited
+EMP2034,Amit Pawar,Marketing,Senior Executive,Female,28-09-2022,,75847,72.9,Chennai,Active
+EMP2036,Shreya Pawar,Finance,Analyst,Female,19-04-2022,,70781,85.9,Wardha,Active
+EMP2037,Amit Pawar,hr,Analyst,Male,24-07-2019,,32559,71.6,Mumbai,Active
+EMP2038,Rohan Kulkarni,Finance,Analyst,Female,27-09-2019,,54105,81.8,Pune,Active
+EMP2039,Diya Kulkarni,Operations,Senior Executive,Female,22-04-2021,,44683,91.2,Bengaluru,Active
+EMP2040,Shreya Sharma,hr,Analyst,Female,28-01-2021,20-07-2023,49276,90.4,Nagpur,Exited
+EMP2041,Sai Jain,Operations,Associate,Female,03-08-2020,,80206,70.6,Bengaluru,Active
+EMP2042,Ritika Patel,Human Resource,Associate,Male,09-02-2019,28-10-2020,18131,84.2,Mumbai,Exited
+EMP2043,Manoj Sharma,Admin,Analyst,Male,05-04-2022,,83948,93.3,Pune,Active
+EMP2044,Priya Jain,Operations,Senior Executive,Female,02-07-2024,21-04-2025,81765,83.8,Hyderabad,Exited
+EMP2045,Priya Jain,Marketing,Manager,Male,06-06-2024,,53381,74.4,Chennai,Active
+EMP2046,Deepak Joshi,Human Resource,Senior Executive,Male,03-01-2023,,74455,92.3,Delhi,Exited
+EMP2047,Swati Patil,hr,Senior Executive,Female,26-01-2022,10-08-2024,40931,96.6,Chennai,Exited
+EMP2048,Rohan Pawar,Sales,Coordinator,Female,20-06-2022,,23387,95.0,Pune,Active
+EMP2049,Kavya Shinde,Admin,Associate,Male,22-11-2022,,19092,84.0,Nagpur,Exited
+EMP2050,Amit Yadav,Admin,Executive,Female,28-10-2020,01-02-2021,,71.2,Bengaluru,Exited
+EMP2051,Manoj Choudhary,hr,Manager,Male,06-08-2019,18-11-2020,64170,71.5,Nagpur,Exited
+EMP2052,Pooja Yadav,Marketing,Analyst,Male,27-09-2020,,53477,83.0,Pune,Active
+EMP2053,Priya Joshi,HR,Associate,Female,22-04-2024,,68625,99.0,Pune,Exited
+EMP2054,Ritika Kulkarni,Sales,Manager,Female,26-06-2022,,75123,94.1,Nagpur,Active
+EMP2055,Akash Deshmukh,Sales,Executive,Female,09-07-2020,12-06-2021,57976,87.0,Wardha,Exited
+EMP2056,Vikas Ninawe,IT,Coordinator,Female,25-11-2023,,36167,90.8,Indore,Active
+EMP2057,Swati Mishra,Operations,Executive,Male,21-12-2022,15-03-2024,78461,98.7,Chennai,Exited
+EMP2058,Aditya Gupta,Admin,Analyst,Female,23-05-2022,,66904,71.6,Chennai,Active
+EMP2059,Arjun Patil,HR,Senior Executive,Male,10-03-2024,04-07-2024,25168,80.0,Pune,Exited
+EMP2060,Manoj Yadav,Admin,Manager,Male,26-05-2024,27-10-2024,84954,91.0,Indore,Exited
+EMP2061,Arjun Mehta,Operations,Senior Executive,Female,12-07-2020,,38286,91.6,Mumbai,Active
+EMP2062,Kiran Reddy,Admin,Executive,Male,02-04-2021,,26800,88.1,Pune,Active
+EMP2063,Amit Singh,Finance,Executive,Female,16-04-2021,,80094,81.7,Pune,Active
+EMP2064,Priya Patil,Operations,Coordinator,Female,23-01-2021,,52114,95.8,Pune,Active
+EMP2065,Kavya Gupta,HR,Analyst,Male,26-01-2021,,49546,84.3,Bengaluru,Active
+EMP2066,Priya Singh,Admin,Manager,Male,12-07-2024,15-09-2025,68570,83.9,Chennai,Exited
+EMP2067,Arjun Sharma,Sales,Executive,Female,16-02-2024,,69043,71.0,Wardha,Active
+EMP2068,Vivaan Mishra,Human Resource,Senior Executive,Male,31-03-2024,,38750,80.5,Indore,Exited
+EMP2069,Neha Nair,hr,Manager,Female,15-12-2020,,64119,83.8,Nagpur,Active
+EMP2070,Aadhya Yadav,IT,Coordinator,Female,07-10-2019,03-03-2021,41642,73.9,Hyderabad,Exited
+EMP2071,Rohan Choudhary,sales,Executive,Male,12-07-2023,,23888,77.0,Pune,Active
+EMP2072,Rahul Reddy,sales,Analyst,Female,06-08-2021,,31819,92.7,Chennai,Active
+EMP2073,Swati Patel,HR,Manager,Male,22-10-2021,,22904,83.2,Hyderabad,Active
+EMP2074,Siddharth Sharma,Human Resource,Associate,Male,08-08-2022,,76918,99.7,Indore,Active
+EMP2075,Ananya Deshmukh,Sales,Manager,Male,04-07-2024,21-03-2025,44370,83.0,Indore,Exited
+EMP2076,Kiran Deshmukh,hr,Executive,Male,10-04-2019,,44678,96.8,Hyderabad,Active
+EMP2077,Bhavna Pawar,Admin,Analyst,Male,22-10-2019,,83034,87.1,Wardha,Exited
+EMP2078,Amit Mishra,sales,Associate,Female,18-07-2020,,75524,96.2,Pune,Active
+EMP2079,Arjun Nair,Sales,Analyst,Male,18-02-2020,,83367,88.0,Hyderabad,Active
+EMP2079, Aarav Joshi ,Sales,Senior Executive,Male,26-10-2021,02-02-2022,38691,86.0,Delhi,Exited
+EMP2081,Deepak Nair,Admin,Coordinator,Female,10-08-2024,06-11-2024,32532,98.1,Bengaluru,Exited
+EMP2082,Nikhil Sharma,HR,Executive,Male,16-10-2022,,61848,76.1,Hyderabad,Exited
+EMP2083,Swati Verma,Finance,Senior Executive,Male,14-07-2024,,22634,98.5,Pune,Active
+EMP2084,Ritika Mehta,Operations,Associate,Male,14-06-2020,28-10-2020,22666,89.5,Chennai,Exited
+EMP2085,Rahul Yadav,Finance,Analyst,Female,29-03-2019,,21454,90.5,Mumbai,Active
+EMP2086,Vikas Reddy,HR,Coordinator,Male,05-05-2023,17-08-2024,73945,73.5,Pune,Exited
+EMP2087,Ritika Bhosale,sales,Associate,Male,11-12-2022,,62974,77.1,Pune,Active
+EMP2088,Rohan Sharma,Finance,Manager,Male,19-08-2023,,19952,94.4,Pune,Active
+EMP2089,Vivaan Gupta,Operations,Coordinator,Male,09-01-2021,,63831,99.9,Nagpur,Exited
+EMP2090,Siddharth Patil,Operations,Senior Executive,Male,16-05-2020,,28011,84.8,Hyderabad,Active
+EMP2091,Ritika Joshi,Operations,Coordinator,Female,24-05-2022,18-04-2023,50008,79.6,Indore,Exited
+EMP2092,Amit Singh,HR,Senior Executive,Male,20-11-2022,16-09-2024,81728,76.1,Nagpur,Exited
+EMP2093,Manoj Nair,Finance,Senior Executive,Male,03-06-2022,,34088,71.1,Delhi,Active
+EMP2094,Sakshi Shinde,Operations,Executive,Female,12-04-2020,,83392,78.3,Chennai,Active
+EMP2095,Priya Patel,HR,Associate,Female,17-02-2022,18-08-2024,68146,71.3,Delhi,Exited
+EMP2096,Neha Ninawe,IT,Executive,Female,21-12-2024,,57996,98.1,Hyderabad,Active
+EMP2097,Swati Kulkarni,Admin,Manager,Female,05-06-2021,,62688,96.0,Mumbai,Active
+EMP2098,Kiran Singh,Marketing,Associate,Female,09-05-2023,23-01-2026,78752,74.9,Chennai,Exited
+EMP2099,Isha Joshi,Human Resource,Analyst,Female,04-03-2019,08-01-2020,29211,80.1,Chennai,Exited
+EMP2100,Vivaan Bhosale,Sales,Executive,Female,21-01-2023,01-05-2025,,87.1,Hyderabad,Exited
+EMP2101,Manoj Kulkarni,Human Resource,Associate,Male,23-12-2023,,19162,99.0,Wardha,Exited
+EMP2102,Nikhil Mehta,Finance,Senior Executive,Female,01-08-2023,,28426,98.6,Wardha,Active
+EMP2103,Sai Kulkarni,Sales,Analyst,Male,29-11-2021,,40871,77.0,Mumbai,Exited
+EMP2104,Sai Nair,Operations,Executive,Female,23-07-2022,,47878,99.3,Mumbai,Active
+EMP2105,Akash Mishra,Marketing,Executive,Male,03-07-2019,,63839,85.2,Pune,Active
+EMP2106,Amit Patel,Finance,Executive,Female,15-04-2021,11-09-2023,72521,96.3,Nagpur,Exited
+EMP2107,Aarav Jain,Admin,Associate,Female,15-01-2023,20-08-2025,67114,88.7,Nagpur,Exited
+EMP2108,Pooja Verma,Sales,Coordinator,Male,06-09-2020,,31924,94.2,Indore,Active
+EMP2109,Sakshi Nair,Admin,Coordinator,Male,10-11-2022,,67655,89.7,Nagpur,Active
+EMP2110,Neha Patel,hr,Coordinator,Female,08-07-2021,09-12-2021,24741,89.8,Indore,Exited
+EMP2111,Isha Jain,Sales,Senior Executive,Male,09-03-2021,10-03-2022,49860,83.7,Pune,Exited
+EMP2112,Sakshi Joshi,Operations,Executive,Female,07-08-2023,,84275,89.6,Delhi,Exited
+EMP2113,Isha Pawar,Finance,Manager,Male,28-05-2020,,71427,88.2,Bengaluru,Active
+EMP2114,Sneha Jain,hr,Manager,Male,30-11-2019,29-05-2020,82775,97.0,Wardha,Exited
+EMP2115,Aarav Ninawe,hr,Manager,Male,11-09-2023,08-10-2025,79585,73.8,Mumbai,Exited
+EMP2116,Manoj Pawar,HR,Coordinator,Female,14-11-2020,,35351,97.1,Hyderabad,Active
+EMP2117,Arjun Patil,Marketing,Coordinator,Male,15-09-2021,,62124,99.8,Mumbai,Exited
+EMP2118,Aditya Mishra,Operations,Associate,Male,02-08-2023,20-11-2024,55917,92.0,Indore,Exited
+EMP2119,Aditya Gupta,HR,Coordinator,Female,24-02-2023,17-06-2024,41163,98.3,Pune,Exited
+EMP2120,Diya Yadav,Operations,Associate,Female,29-10-2022,,84614,79.7,Hyderabad,Active
+EMP2121,Bhavna Ninawe,Human Resource,Coordinator,Female,21-06-2019,,74431,87.3,Hyderabad,Active
+EMP2122,Vihaan Mishra,Sales,Senior Executive,Female,09-11-2020,,55728,83.2,Nagpur,Active
+EMP2123,Priya Kulkarni,Admin,Analyst,Male,10-03-2020,,54520,76.2,Indore,Active
+EMP2124,Bhavna Ninawe,HR,Associate,Male,12-06-2019,,18873,81.1,Bengaluru,Active
+EMP2124,Rohan Pawar,Operations,Senior Executive,Male,03-11-2024,,77486,91.5,Pune,Active
+EMP2126,Isha Pawar,Operations,Senior Executive,Male,13-12-2021,,35933,99.1,Pune,Active
+EMP2127,Shreya Joshi,hr,Senior Executive,Female,01-09-2022,,84461,83.6,Indore,Active
+EMP2128,Akash Patel,sales,Analyst,Male,07-06-2019,,59618,98.5,Mumbai,Exited
+EMP2129,Diya Gupta,Admin,Senior Executive,Female,21-03-2023,,43647,74.5,Nagpur,Active
+EMP2130,Shreya Reddy,Sales,Coordinator,Male,23-06-2020,,29627,70.1,Pune,Active
+EMP2131,Rahul Mehta,Admin,Associate,Female,04-05-2021,,23087,88.4,Delhi,Active
+EMP2132,Nikhil Mishra,Operations,Analyst,Female,12-12-2024,,57334,90.0,Wardha,Active
+EMP2133,Kiran Patil,Admin,Executive,Female,02-01-2023,,46695,82.6,Wardha,Exited
+EMP2134,Sneha Joshi,IT,Senior Executive,Male,19-04-2020,,78913,80.4,Chennai,Active
+EMP2135,Sakshi Gupta,Operations,Senior Executive,Male,26-06-2024,24-08-2024,56132,96.7,Chennai,Exited
+EMP2136,Vivaan Mehta,sales,Associate,Female,07-12-2021,13-04-2024,75927,77.8,Mumbai,Exited
+EMP2137,Aadhya Reddy,Finance,Associate,Female,23-10-2022,,58437,76.6,Nagpur,Active
+EMP2138,Vikas Deshmukh,hr,Manager,Male,12-09-2022,,20610,94.1,Pune,Active
+EMP2139,Bhavna Jain,sales,Senior Executive,Male,17-09-2019,,45585,99.6,Indore,Active
+EMP2140, Neha Joshi ,Sales,Executive,Male,23-10-2020,30-06-2021,50598,95.4,Indore,Exited
+EMP2141,Vihaan Nair,IT,Senior Executive,Female,09-06-2024,,38571,70.7,Delhi,Active
+EMP2142,Vivaan Kulkarni,hr,Executive,Male,28-03-2023,,53389,72.2,Chennai,Exited
+EMP2143,Aarav Sharma,Marketing,Analyst,Female,13-09-2020,,69265,93.5,Chennai,Active
+EMP2144,Amit Sharma,Sales,Manager,Female,27-01-2022,,52638,81.3,Chennai,Exited
+EMP2145,Aditya Joshi,IT,Analyst,Female,14-02-2022,,84400,70.5,Wardha,Exited
+EMP2146,Shreya Patil,sales,Associate,Male,19-03-2020,,21262,83.4,Wardha,Exited
+EMP2147,Rohan Singh,Sales,Executive,Male,23-09-2022,,28962,76.2,Wardha,Active
+EMP2148,Rohan Joshi,hr,Executive,Female,01-08-2020,28-12-2021,48465,77.6,Bengaluru,Exited
+EMP2149,Shreya Jain,Human Resource,Executive,Female,30-05-2019,03-03-2021,71285,90.7,Indore,Exited
+EMP2150,Kiran Reddy,Marketing,Associate,Female,09-08-2024,07-05-2025,,85.4,Pune,Exited
+EMP2151,Swati Singh,IT,Analyst,Male,14-11-2019,,19785,75.0,Wardha,Exited
+EMP2152,Deepak Singh,HR,Analyst,Female,04-10-2023,,81857,82.0,Bengaluru,Exited
+EMP2153,Vihaan Pawar,Sales,Analyst,Female,15-01-2022,01-03-2023,39750,85.7,Delhi,Exited
+EMP2154,Kiran Bhosale,sales,Manager,Male,28-10-2024,30-06-2025,61276,74.9,Wardha,Exited
+EMP2155,Aarav Jain,IT,Executive,Male,04-01-2021,,79668,79.4,Delhi,Active
+EMP2156,Ananya Singh,Marketing,Coordinator,Male,22-02-2024,,79432,72.0,Indore,Exited
+EMP2157,Ritika Joshi,sales,Senior Executive,Female,27-02-2019,,53989,87.5,Bengaluru,Active
+EMP2158,Pooja Bhosale,IT,Coordinator,Male,09-11-2021,,28154,73.1,Delhi,Active
+EMP2159,Aadhya Ninawe,Sales,Senior Executive,Female,24-02-2020,,68193,99.0,Wardha,Active
+EMP2160,Ananya Ninawe,HR,Coordinator,Male,07-08-2021,,29971,74.3,Wardha,Active
+EMP2161,Deepak Sharma,sales,Coordinator,Female,15-11-2019,,35953,82.8,Wardha,Active
+EMP2162,Sneha Yadav,Marketing,Associate,Female,25-04-2020,,69543,91.2,Hyderabad,Active
+EMP2163,Priya Nair,sales,Analyst,Female,13-12-2024,,46036,91.3,Chennai,Active
+EMP2164,Vikas Shinde,Operations,Manager,Female,23-10-2021,,75070,75.3,Hyderabad,Active
+EMP2165,Deepak Shinde,sales,Associate,Female,04-10-2023,,43032,75.4,Mumbai,Active
+EMP2166,Ananya Shinde,sales,Coordinator,Female,24-11-2024,,18735,79.9,Hyderabad,Active
+EMP2167,Swati Kulkarni,Marketing,Manager,Female,23-02-2019,,54038,81.9,Bengaluru,Exited
+EMP2168,Aadhya Verma,Admin,Associate,Male,05-05-2019,12-03-2021,77569,84.2,Indore,Exited
+EMP2169,Kiran Singh,HR,Manager,Male,22-02-2023,,38079,96.1,Nagpur,Active
+EMP2169,Aditya Pawar,hr,Executive,Female,18-08-2019,19-11-2019,59187,99.5,Delhi,Exited
+EMP2171,Nikhil Bhosale,HR,Coordinator,Male,24-09-2022,15-04-2023,66005,98.2,Chennai,Exited
+EMP2172,Kavya Verma,hr,Executive,Male,01-03-2021,,52948,83.3,Bengaluru,Active
+EMP2173,Siddharth Deshmukh,Marketing,Senior Executive,Female,04-08-2023,,18422,86.8,Pune,Active
+EMP2174,Sneha Shinde,Admin,Analyst,Male,19-12-2019,,29870,75.6,Mumbai,Exited
+EMP2175,Bhavna Ninawe,HR,Senior Executive,Male,09-06-2021,24-12-2023,50339,92.4,Nagpur,Exited
+EMP2176,Priya Verma,IT,Analyst,Female,21-03-2022,,54564,82.4,Delhi,Active
+EMP2177,Aadhya Deshmukh,Human Resource,Associate,Female,23-04-2022,17-02-2023,30112,87.4,Hyderabad,Exited
+EMP2178,Bhavna Nair,Operations,Analyst,Male,29-11-2020,,68551,99.8,Chennai,Active
+EMP2179,Pooja Yadav,Finance,Senior Executive,Male,02-11-2022,,45619,84.0,Mumbai,Exited
+EMP2180,Swati Singh,Marketing,Senior Executive,Female,02-02-2021,,60335,89.7,Mumbai,Exited
+EMP2181,Sneha Singh,sales,Associate,Female,02-02-2019,,73234,80.1,Pune,Active
+EMP2182,Sai Mishra,Sales,Associate,Female,28-10-2020,06-01-2023,20850,87.8,Chennai,Exited
+EMP2183,Shreya Patil,Operations,Associate,Female,24-09-2021,01-07-2023,62286,79.0,Delhi,Exited
+EMP2184,Bhavna Nair,hr,Coordinator,Male,21-09-2023,03-06-2025,70527,74.9,Nagpur,Exited
+EMP2185,Swati Yadav,Admin,Analyst,Female,16-11-2024,,36290,93.7,Mumbai,Active
+EMP2186,Aditya Yadav,Human Resource,Manager,Male,18-11-2022,02-04-2024,18110,76.0,Nagpur,Exited
+EMP2187,Priya Yadav,hr,Associate,Male,26-01-2021,,44649,91.7,Nagpur,Active
+EMP2188,Akash Mehta,sales,Associate,Female,21-01-2019,,31095,91.0,Wardha,Exited
+EMP2189,Akash Patil,Operations,Analyst,Female,21-09-2021,,68800,92.9,Nagpur,Active
+EMP2190,Neha Jain,Sales,Manager,Male,06-10-2023,25-10-2024,82003,76.7,Nagpur,Exited
+EMP2191,Bhavna Joshi,sales,Executive,Male,23-01-2023,23-02-2023,70190,74.1,Delhi,Exited
+EMP2192,Vivaan Deshmukh,Sales,Associate,Male,19-11-2023,,62510,82.8,Bengaluru,Active
+EMP2193,Priya Patil,Operations,Analyst,Female,23-05-2019,26-08-2020,41529,90.5,Pune,Exited
+EMP2194,Isha Patel,sales,Senior Executive,Male,20-02-2020,02-04-2020,39087,87.2,Chennai,Exited
+EMP2195,Akash Shinde,HR,Associate,Female,14-06-2024,07-09-2024,57708,92.3,Pune,Exited
+EMP2196,Siddharth Shinde,Marketing,Executive,Male,08-03-2023,18-08-2025,65823,99.4,Indore,Exited
+EMP2197,Bhavna Patil,hr,Manager,Female,07-09-2020,,62186,75.9,Wardha,Active
+EMP2198,Kavya Verma,Operations,Associate,Female,27-02-2022,,33931,81.0,Hyderabad,Active
+EMP2199,Aadhya Pawar,sales,Analyst,Female,28-04-2022,,53027,80.7,Mumbai,Active
+EMP2200, Isha Jain ,Sales,Manager,Male,26-05-2019,,,85.9,Chennai,Active
+EMP2201,Diya Ninawe,hr,Manager,Male,31-12-2024,,34522,89.0,Chennai,Active
+EMP2202,Ritika Kulkarni,sales,Executive,Male,20-02-2024,,78085,79.8,Mumbai,Active
+EMP2203,Arjun Bhosale,hr,Manager,Female,14-04-2023,,62272,82.7,Mumbai,Active
+EMP2204,Sai Kulkarni,hr,Coordinator,Female,11-11-2023,,43119,99.8,Indore,Active
+EMP2205,Vikas Joshi,HR,Senior Executive,Male,13-03-2023,,75271,78.3,Mumbai,Exited
+EMP2206,Siddharth Patil,Human Resource,Executive,Female,13-03-2022,,45149,89.7,Bengaluru,Exited
+EMP2207,Aadhya Shinde,Admin,Analyst,Male,27-07-2022,,47009,91.3,Delhi,Active
+EMP2208,Aditya Bhosale,Sales,Associate,Male,01-03-2024,02-03-2025,68992,80.3,Hyderabad,Exited
+EMP2209,Pooja Shinde,Human Resource,Manager,Female,07-03-2024,,40283,77.7,Mumbai,Exited
+EMP2210,Akash Choudhary,hr,Senior Executive,Female,15-06-2024,,66390,92.5,Wardha,Exited
+EMP2211,Akash Shinde,HR,Coordinator,Female,30-09-2020,,64088,82.5,Mumbai,Active
+EMP2212,Bhavna Yadav,Marketing,Coordinator,Male,03-07-2024,,67189,81.4,Pune,Active
+EMP2213,Vihaan Patil,Finance,Analyst,Male,15-05-2021,,55925,93.0,Chennai,Active
+EMP2214,Vikas Pawar,sales,Senior Executive,Male,10-06-2021,21-04-2022,59864,89.9,Hyderabad,Exited
+EMP2214,Amit Mehta,Marketing,Associate,Female,26-05-2023,,70948,78.6,Wardha,Active
+EMP2216,Sai Ninawe,IT,Associate,Male,27-03-2022,,61785,90.5,Pune,Active
+EMP2217,Neha Choudhary,IT,Coordinator,Male,10-09-2023,,21806,74.2,Indore,Exited
+EMP2218,Aditya Bhosale,Admin,Coordinator,Male,02-08-2023,,60601,75.0,Wardha,Active
+EMP2219,Akash Patel,sales,Analyst,Female,04-04-2019,04-10-2021,43301,81.1,Delhi,Exited
+EMP2220,Sai Reddy,Finance,Executive,Male,14-08-2022,,56401,76.2,Wardha,Active
+EMP2221,Isha Joshi,Admin,Associate,Male,23-12-2023,,41183,94.1,Hyderabad,Active
+EMP2222,Deepak Ninawe,Finance,Manager,Male,08-03-2024,,18902,90.5,Chennai,Active
+EMP2223,Deepak Nair,Operations,Senior Executive,Male,28-04-2023,,72668,91.5,Indore,Active
+EMP2224,Sakshi Sharma,Operations,Associate,Male,23-05-2024,,56399,80.9,Indore,Active
+EMP2225,Nikhil Shinde,IT,Senior Executive,Male,23-05-2020,,37134,91.7,Hyderabad,Active
+EMP2226,Kavya Jain,Human Resource,Senior Executive,Male,22-09-2021,,30730,83.7,Wardha,Exited
+EMP2227,Bhavna Joshi,Sales,Manager,Female,03-11-2022,06-11-2023,77031,87.0,Mumbai,Exited
+EMP2228,Bhavna Gupta,Human Resource,Coordinator,Female,07-11-2024,,66608,91.4,Bengaluru,Exited
+EMP2229,Sakshi Ninawe,Admin,Analyst,Male,02-06-2022,21-05-2024,56650,74.4,Bengaluru,Exited
+EMP2230,Deepak Patil,Sales,Coordinator,Female,22-07-2021,,45742,74.5,Mumbai,Active
+EMP2231,Aadhya Mishra,Marketing,Senior Executive,Male,17-10-2024,26-05-2027,40335,87.6,Indore,Exited
+EMP2232,Sneha Nair,sales,Analyst,Female,29-03-2023,05-10-2025,81183,96.9,Mumbai,Exited
+EMP2233,Akash Patel,sales,Senior Executive,Male,09-07-2021,,37672,89.5,Hyderabad,Exited
+EMP2234,Rahul Shinde,Admin,Senior Executive,Male,19-02-2019,,44546,82.0,Pune,Active
+EMP2235,Sneha Nair,hr,Associate,Male,16-01-2022,,25336,77.3,Nagpur,Active
+EMP2236,Sakshi Joshi,Finance,Coordinator,Female,12-02-2024,,23273,86.6,Pune,Active
+EMP2237,Shreya Deshmukh,hr,Analyst,Female,26-06-2020,,47830,83.9,Indore,Exited
+EMP2238,Ritika Verma,sales,Executive,Female,27-10-2019,,80691,72.5,Delhi,Active
+EMP2239,Vihaan Mehta,Admin,Coordinator,Female,30-05-2021,,19258,95.8,Pune,Exited
+EMP2240,Shreya Shinde,Finance,Associate,Female,12-02-2024,,50997,84.8,Nagpur,Active
+EMP2241,Sneha Nair,Operations,Coordinator,Male,07-10-2024,08-09-2025,52629,80.2,Indore,Exited
+EMP2242,Amit Yadav,Operations,Executive,Female,01-04-2020,,81908,96.8,Indore,Active
+EMP2243,Rahul Reddy,Human Resource,Manager,Female,02-01-2021,,74625,72.8,Wardha,Active
+EMP2244,Sneha Mehta,Human Resource,Analyst,Female,03-03-2021,,48382,85.1,Hyderabad,Active
+EMP2245,Bhavna Nair,Operations,Senior Executive,Male,26-02-2020,28-10-2020,38263,75.8,Chennai,Exited
+EMP2246,Kiran Ninawe,Human Resource,Manager,Female,05-10-2020,04-03-2022,72645,76.9,Bengaluru,Exited
+EMP2247,Rahul Yadav,sales,Associate,Female,16-08-2020,12-09-2021,59333,82.8,Chennai,Exited
+EMP2248,Bhavna Pawar,HR,Senior Executive,Male,14-07-2023,,71580,99.2,Bengaluru,Active
+EMP2249,Aarav Deshmukh,Finance,Associate,Female,14-11-2021,07-01-2022,60184,79.8,Indore,Exited
+EMP2250,Shreya Deshmukh,Finance,Analyst,Male,22-08-2024,08-01-2025,,79.8,Wardha,Exited
+EMP2251,Shreya Choudhary,Operations,Analyst,Female,08-07-2019,22-02-2022,81837,99.6,Chennai,Exited
+EMP2252,Vivaan Singh,HR,Executive,Female,04-11-2022,25-02-2024,55255,74.0,Pune,Exited
+EMP2253,Sneha Pawar,Human Resource,Associate,Male,08-09-2020,06-05-2022,29535,79.8,Indore,Exited
+EMP2254,Bhavna Kulkarni,Marketing,Manager,Female,15-12-2024,06-06-2025,26913,98.7,Hyderabad,Exited
+EMP2255,Ritika Shinde,Finance,Senior Executive,Male,24-01-2021,09-06-2022,65474,90.3,Bengaluru,Exited
+EMP2256,Aadhya Bhosale,HR,Associate,Female,28-07-2020,,71841,94.2,Mumbai,Active
+EMP2257,Manoj Nair,HR,Executive,Female,29-09-2024,,75305,93.7,Wardha,Exited
+EMP2258,Priya Choudhary,sales,Coordinator,Male,02-10-2019,,30077,86.0,Indore,Active
+EMP2259,Deepak Patel,Admin,Manager,Female,02-04-2024,,27579,94.5,Wardha,Active
+EMP2259, Isha Gupta ,sales,Associate,Female,27-10-2019,,62539,96.7,Chennai,Active
+EMP2261,Rohan Yadav,HR,Analyst,Female,17-05-2023,,19119,82.8,Bengaluru,Active
+EMP2262,Deepak Joshi,Admin,Manager,Male,30-08-2022,22-04-2023,64484,75.7,Nagpur,Exited
+EMP2263,Ananya Yadav,Human Resource,Analyst,Female,18-02-2020,,23171,98.6,Hyderabad,Active
+EMP2264,Deepak Jain,Finance,Analyst,Female,05-05-2021,,57705,99.7,Delhi,Active
+EMP2265,Swati Deshmukh,sales,Executive,Female,22-04-2019,,75624,70.8,Delhi,Active
+EMP2266,Neha Verma,Operations,Coordinator,Male,02-12-2023,,67873,72.8,Nagpur,Exited
+EMP2267,Amit Choudhary,Marketing,Executive,Female,13-05-2020,,45477,92.2,Hyderabad,Active
+EMP2268,Shreya Jain,IT,Coordinator,Female,21-02-2021,,29900,84.3,Indore,Active
+EMP2269,Vihaan Shinde,HR,Senior Executive,Female,30-01-2019,13-04-2020,31115,98.4,Pune,Exited
+EMP2270,Kavya Yadav,Finance,Manager,Female,12-12-2019,27-01-2020,54007,71.4,Delhi,Exited
+EMP2271,Sai Choudhary,HR,Manager,Female,08-06-2020,,36378,92.9,Mumbai,Active
+EMP2272,Siddharth Deshmukh,Sales,Analyst,Male,03-03-2023,04-06-2024,40599,92.3,Nagpur,Exited
+EMP2273,Pooja Singh,Human Resource,Manager,Female,03-05-2019,,70907,97.3,Bengaluru,Exited
+EMP2274,Siddharth Jain,HR,Executive,Male,16-04-2019,,79669,97.4,Mumbai,Exited
+EMP2275,Vikas Patil,Admin,Executive,Male,21-11-2024,,38731,80.5,Delhi,Active
+EMP2276,Aditya Pawar,hr,Analyst,Male,05-04-2020,04-07-2021,75726,79.3,Wardha,Exited
+EMP2277,Ritika Kulkarni,Human Resource,Associate,Female,15-08-2022,29-07-2024,30635,92.5,Delhi,Exited
+EMP2278,Arjun Joshi,Marketing,Manager,Male,15-06-2020,,47563,92.3,Chennai,Active
+EMP2279,Priya Bhosale,hr,Analyst,Female,20-10-2021,,50855,79.9,Wardha,Active
+EMP2280,Akash Choudhary,Marketing,Associate,Female,18-10-2024,31-03-2025,60984,89.8,Mumbai,Exited
+EMP2281,Shreya Patil,HR,Analyst,Male,21-03-2021,,19877,95.1,Delhi,Active
+EMP2282,Sai Patil,sales,Manager,Female,17-02-2019,05-03-2020,42608,83.6,Delhi,Exited
+EMP2283,Isha Bhosale,Sales,Manager,Female,07-12-2023,,54609,80.1,Nagpur,Active
+EMP2284,Aadhya Jain,Operations,Coordinator,Female,13-02-2024,,62875,71.9,Hyderabad,Active
+EMP2285,Kavya Sharma,Marketing,Associate,Male,01-06-2020,,47769,73.6,Bengaluru,Active
+EMP2286,Arjun Mishra,Sales,Coordinator,Male,28-01-2024,16-10-2026,28874,81.9,Indore,Exited
+EMP2287,Ananya Gupta,Finance,Coordinator,Male,10-03-2019,,64391,86.9,Indore,Active
+EMP2288,Amit Verma,Marketing,Senior Executive,Male,25-01-2023,,39856,73.0,Nagpur,Active
+EMP2289,Nikhil Bhosale,Finance,Associate,Female,14-09-2020,26-07-2021,24411,81.7,Indore,Exited
+EMP2290,Kavya Reddy,Operations,Executive,Male,11-08-2022,,57320,77.5,Indore,Active
+EMP2291,Akash Yadav,Finance,Analyst,Male,01-10-2019,,71788,84.4,Nagpur,Active
+EMP2292,Bhavna Joshi,IT,Senior Executive,Male,15-10-2020,31-05-2021,50580,76.8,Bengaluru,Exited
+EMP2293,Arjun Patil,hr,Analyst,Female,13-09-2020,,76114,92.8,Mumbai,Active
+EMP2294,Nikhil Singh,Marketing,Analyst,Female,28-06-2022,,79749,79.0,Pune,Active
+EMP2295,Vikas Bhosale,Operations,Senior Executive,Male,21-09-2020,,62744,81.4,Bengaluru,Active
+EMP2296,Vihaan Shinde,IT,Executive,Female,20-11-2020,07-08-2021,31506,77.2,Wardha,Exited
+EMP2297,Manoj Pawar,IT,Manager,Female,21-08-2019,,54726,97.1,Indore,Active
+EMP2298,Sneha Pawar,Sales,Executive,Female,31-12-2022,,19694,77.3,Wardha,Active
+EMP2299,Diya Choudhary,IT,Coordinator,Female,24-12-2021,,81945,88.2,Chennai,Active
+EMP2300,Vivaan Bhosale,hr,Analyst,Female,08-02-2020,,,87.4,Chennai,Active
+EMP2301,Manoj Patil,HR,Associate,Female,23-11-2022,01-08-2024,22885,90.1,Mumbai,Exited
+EMP2302,Ananya Choudhary,Human Resource,Executive,Female,09-04-2019,,72020,95.5,Bengaluru,Exited
+EMP2303,Pooja Mishra,sales,Associate,Female,15-10-2021,01-01-2022,60534,93.1,Nagpur,Exited
+EMP2304,Ananya Mehta,Marketing,Associate,Male,11-08-2022,17-11-2024,40551,80.0,Indore,Exited
+EMP2304,Shreya Joshi,sales,Manager,Female,06-06-2022,,29853,79.4,Wardha,Active
+EMP2306,Nikhil Ninawe,IT,Senior Executive,Female,08-04-2021,17-09-2022,63953,96.9,Nagpur,Exited
+EMP2307,Sai Jain,HR,Coordinator,Female,01-04-2020,,58701,92.7,Indore,Active
+EMP2308,Sai Patil,Admin,Executive,Female,08-11-2019,,30237,95.6,Nagpur,Active
+EMP2309,Sakshi Jain,Marketing,Executive,Female,20-12-2022,,68494,88.4,Pune,Exited
+EMP2310,Sneha Joshi,Operations,Manager,Female,17-06-2019,,38317,70.8,Delhi,Active
+EMP2311,Manoj Joshi,Finance,Executive,Female,14-07-2021,22-03-2022,37054,77.3,Mumbai,Exited
+EMP2312,Deepak Bhosale,Operations,Associate,Male,03-12-2023,05-08-2025,43197,95.4,Chennai,Exited
+EMP2313,Nikhil Choudhary,IT,Senior Executive,Female,07-12-2021,02-10-2022,74533,97.0,Delhi,Exited
+EMP2314,Sneha Mehta,sales,Manager,Male,12-11-2019,,60160,93.9,Nagpur,Active
+EMP2315,Vihaan Nair,Operations,Manager,Female,01-01-2025,,47861,91.5,Indore,Exited
+EMP2316,Manoj Joshi,Operations,Coordinator,Female,07-01-2022,,78324,84.9,Chennai,Active
+EMP2317,Aditya Ninawe,HR,Associate,Male,11-01-2024,,63561,71.9,Hyderabad,Active
+EMP2318,Aditya Kulkarni,Admin,Associate,Male,29-10-2021,,82331,99.6,Delhi,Active
+EMP2319,Akash Shinde,Sales,Associate,Male,01-06-2022,,84578,93.0,Hyderabad,Exited
+EMP2320, Deepak Sharma ,Admin,Coordinator,Male,05-08-2019,05-11-2021,27307,85.9,Nagpur,Exited
+EMP2321,Shreya Deshmukh,Finance,Manager,Female,04-01-2021,,21864,91.9,Hyderabad,Active
+EMP2322,Aditya Singh,IT,Senior Executive,Male,06-05-2023,02-10-2024,36154,72.9,Hyderabad,Exited
+EMP2323,Sai Pawar,Sales,Senior Executive,Female,08-08-2024,,42191,76.0,Hyderabad,Active
+EMP2324,Nikhil Patel,sales,Executive,Male,25-01-2024,,51786,99.5,Mumbai,Active
+EMP2325,Akash Mishra,hr,Executive,Female,21-11-2020,,19648,81.5,Mumbai,Active
+EMP2326,Kiran Choudhary,Admin,Analyst,Female,16-03-2023,,40595,75.5,Delhi,Active
+EMP2327,Pooja Singh,Human Resource,Manager,Male,13-03-2023,,75763,85.2,Wardha,Active
+EMP2328,Aarav Bhosale,HR,Manager,Male,07-05-2020,24-09-2020,63751,87.7,Nagpur,Exited
+EMP2329,Ritika Singh,Operations,Associate,Female,02-03-2021,,62223,93.5,Pune,Active
+EMP2330,Akash Mehta,hr,Analyst,Male,17-10-2022,,65932,98.8,Wardha,Active
+EMP2331,Ananya Patil,HR,Manager,Male,07-01-2023,,80970,95.4,Pune,Active
+EMP2332,Akash Jain,Marketing,Senior Executive,Female,18-12-2024,06-11-2026,44336,74.1,Delhi,Exited
+EMP2333,Priya Pawar,IT,Associate,Male,18-11-2023,,21123,79.6,Wardha,Exited
+EMP2334,Siddharth Patil,Sales,Coordinator,Male,31-07-2024,15-08-2026,25224,75.6,Pune,Exited
+EMP2335,Priya Choudhary,Admin,Executive,Female,11-12-2020,11-07-2022,21665,81.5,Hyderabad,Exited
+EMP2336,Vikas Verma,IT,Senior Executive,Male,13-09-2024,,84682,97.3,Pune,Active
+EMP2337,Isha Ninawe,Finance,Associate,Male,04-08-2022,,44687,87.1,Mumbai,Active
+EMP2338,Vivaan Patil,Finance,Manager,Female,21-04-2020,,49508,99.5,Chennai,Exited
+EMP2339,Manoj Joshi,sales,Analyst,Male,05-07-2023,,38437,88.7,Bengaluru,Active
+EMP2340,Ritika Pawar,Admin,Associate,Male,22-06-2022,,53732,82.5,Chennai,Active
+EMP2341,Neha Kulkarni,Finance,Executive,Female,22-06-2024,24-04-2026,69834,73.9,Delhi,Exited
+EMP2342,Aditya Singh,hr,Analyst,Female,12-10-2020,,60910,98.7,Chennai,Exited
+EMP2343,Priya Mehta,Sales,Associate,Male,12-03-2022,,33650,98.5,Indore,Exited
+EMP2344,Deepak Reddy,Finance,Associate,Male,04-06-2020,,79467,73.3,Mumbai,Active
+EMP2345,Manoj Patil,Human Resource,Associate,Female,09-12-2019,,49686,83.1,Nagpur,Active
+EMP2346,Isha Bhosale,HR,Manager,Female,24-08-2024,,45581,71.3,Mumbai,Active
+EMP2347,Arjun Jain,Sales,Associate,Female,19-12-2020,30-07-2023,25396,74.6,Bengaluru,Exited
+EMP2348,Amit Patel,Finance,Manager,Female,23-01-2021,,62025,70.8,Wardha,Active
+EMP2349,Aditya Joshi,Admin,Executive,Male,04-12-2024,29-05-2025,59622,90.5,Chennai,Exited
+EMP2349,Amit Mehta,HR,Manager,Male,26-11-2020,21-05-2021,,70.2,Mumbai,Exited
+EMP2351,Rohan Verma,IT,Coordinator,Male,05-05-2020,,22613,70.6,Wardha,Active
+EMP2352,Swati Choudhary,IT,Manager,Female,02-03-2022,06-05-2024,49151,88.4,Hyderabad,Exited
+EMP2353,Nikhil Shinde,Operations,Analyst,Female,19-09-2020,22-10-2021,47339,89.1,Nagpur,Exited
+EMP2354,Neha Kulkarni,Human Resource,Senior Executive,Male,16-02-2023,,74588,71.3,Chennai,Active
+EMP2355,Sakshi Mehta,Finance,Analyst,Female,06-07-2023,,64260,82.6,Chennai,Active
+EMP2356,Isha Shinde,Operations,Analyst,Male,11-05-2023,08-05-2024,70282,77.4,Delhi,Exited
+EMP2357,Rohan Deshmukh,Admin,Senior Executive,Female,28-01-2023,19-04-2025,71504,76.4,Nagpur,Exited
+EMP2358,Rahul Singh,Marketing,Executive,Male,27-01-2024,29-04-2026,72017,76.5,Indore,Exited
+EMP2359,Ritika Ninawe,IT,Executive,Male,20-10-2024,,76062,81.6,Nagpur,Exited
+EMP2360,Aadhya Choudhary,Human Resource,Associate,Female,05-07-2023,,37750,84.1,Nagpur,Active
+EMP2361,Bhavna Reddy,sales,Executive,Male,13-12-2024,,30722,70.6,Mumbai,Active
+EMP2362,Sneha Patel,sales,Analyst,Female,01-01-2023,,37739,95.2,Hyderabad,Active
+EMP2363,Siddharth Jain,Admin,Senior Executive,Male,04-01-2024,31-07-2024,55976,94.1,Nagpur,Exited
+EMP2364,Ritika Gupta,Human Resource,Analyst,Female,28-08-2023,,71697,91.0,Bengaluru,Active
+EMP2365,Sakshi Joshi,hr,Analyst,Female,23-08-2020,,23161,84.2,Wardha,Exited
+EMP2366,Sai Sharma,Admin,Executive,Female,24-01-2023,28-08-2023,76632,98.4,Hyderabad,Exited
+EMP2367,Ritika Jain,hr,Analyst,Female,24-02-2023,,41230,90.3,Nagpur,Active
+EMP2368,Vihaan Deshmukh,sales,Coordinator,Female,12-04-2022,,64492,70.5,Chennai,Active
+EMP2369,Sai Mishra,Sales,Associate,Female,25-02-2021,08-10-2023,21072,97.2,Mumbai,Exited
+EMP2370,Nikhil Joshi,Sales,Senior Executive,Female,13-12-2021,23-12-2022,23302,89.8,Hyderabad,Exited
+EMP2371,Vikas Verma,Human Resource,Associate,Male,13-02-2019,,57676,97.1,Chennai,Active
+EMP2372,Neha Verma,Sales,Associate,Female,17-03-2023,21-09-2024,73641,74.0,Hyderabad,Exited
+EMP2373,Shreya Kulkarni,Marketing,Associate,Male,01-03-2021,,28919,94.2,Hyderabad,Exited
+EMP2374,Deepak Nair,hr,Analyst,Male,05-04-2019,,32031,75.3,Pune,Active
+EMP2375,Arjun Choudhary,Finance,Manager,Male,24-12-2019,,19264,92.1,Hyderabad,Active
+EMP2376,Deepak Bhosale,hr,Coordinator,Male,01-10-2020,04-10-2021,31871,71.7,Nagpur,Exited
+EMP2377,Ananya Patel,Human Resource,Associate,Male,11-01-2020,,18503,76.3,Pune,Active
+EMP2378,Neha Jain,Marketing,Coordinator,Male,28-02-2021,25-03-2023,82920,84.1,Mumbai,Exited
+EMP2379,Isha Ninawe,Marketing,Analyst,Female,26-01-2019,,41049,74.3,Indore,Active
+EMP2380, Rohan Deshmukh ,hr,Senior Executive,Male,07-11-2019,,42516,74.9,Bengaluru,Active
+EMP2381,Siddharth Pawar,Marketing,Senior Executive,Female,15-03-2022,,73905,92.1,Indore,Active
+EMP2382,Aarav Kulkarni,Sales,Executive,Female,22-10-2020,,26076,80.3,Mumbai,Active
+EMP2383,Siddharth Pawar,hr,Senior Executive,Female,01-01-2024,,29564,90.9,Pune,Active
+EMP2384,Rohan Kulkarni,sales,Associate,Female,21-01-2024,25-06-2025,66554,92.9,Hyderabad,Exited
+EMP2385,Vikas Deshmukh,Finance,Associate,Female,29-11-2020,,64254,96.4,Hyderabad,Active
+EMP2386,Swati Patil,Operations,Associate,Male,17-03-2024,,68536,96.2,Hyderabad,Exited
+EMP2387,Neha Gupta,IT,Manager,Male,06-02-2023,,74935,74.5,Nagpur,Active
+EMP2388,Ananya Singh,HR,Analyst,Male,22-05-2023,,62212,84.9,Nagpur,Exited
+EMP2389,Priya Mehta,Sales,Coordinator,Female,21-07-2021,,81771,83.0,Nagpur,Active
+EMP2390,Rahul Verma,sales,Manager,Female,10-03-2020,,60373,88.2,Nagpur,Active
+EMP2391,Diya Nair,Operations,Senior Executive,Female,05-06-2021,16-05-2022,38788,90.5,Chennai,Exited
+EMP2392,Siddharth Singh,Admin,Senior Executive,Female,14-06-2020,31-07-2021,34794,71.9,Wardha,Exited
+EMP2393,Pooja Pawar,Finance,Manager,Female,07-05-2021,24-12-2023,58964,93.6,Indore,Exited
+EMP2394,Sneha Choudhary,sales,Manager,Male,07-03-2021,,60183,91.2,Delhi,Active
+EMP2394,Manoj Joshi,Operations,Coordinator,Male,08-04-2024,,59085,81.5,Nagpur,Active
+EMP2396,Siddharth Jain,hr,Executive,Female,07-12-2024,17-07-2027,52866,81.7,Delhi,Exited
+EMP2397,Kiran Kulkarni,Human Resource,Analyst,Male,30-01-2023,,80094,89.0,Hyderabad,Active
+EMP2398,Pooja Bhosale,Operations,Coordinator,Male,21-08-2020,29-01-2022,59178,94.7,Delhi,Exited
+EMP2399,Swati Bhosale,Admin,Coordinator,Female,08-05-2020,30-06-2022,43551,77.4,Chennai,Exited
+EMP2400,Kavya Sharma,Sales,Senior Executive,Male,05-12-2021,,,70.9,Chennai,Active
+EMP2401,Aditya Mishra,Operations,Coordinator,Female,27-08-2020,17-04-2022,38575,92.8,Pune,Exited
+EMP2402,Swati Kulkarni,Operations,Senior Executive,Male,04-02-2022,,77419,87.6,Hyderabad,Active
+EMP2403,Aarav Singh,HR,Coordinator,Male,30-08-2022,17-08-2023,67155,88.9,Hyderabad,Exited
+EMP2404,Neha Ninawe,sales,Coordinator,Male,22-05-2019,03-08-2021,23161,91.7,Nagpur,Exited
+EMP2405,Rahul Patel,hr,Coordinator,Male,27-07-2020,,31402,98.2,Delhi,Active
+EMP2406,Aditya Mishra,sales,Senior Executive,Male,17-10-2022,,72085,84.8,Indore,Active
+EMP2407,Vivaan Nair,IT,Analyst,Female,10-06-2023,,29727,74.8,Bengaluru,Active
+EMP2408,Diya Joshi,HR,Associate,Male,10-04-2019,,47559,71.3,Delhi,Active
+EMP2409,Arjun Gupta,Marketing,Executive,Female,01-08-2022,10-06-2024,69879,84.8,Chennai,Exited
+EMP2410,Vikas Patel,HR,Analyst,Female,30-03-2021,,45372,70.2,Pune,Active
+EMP2411,Rohan Mishra,Marketing,Manager,Female,03-11-2020,,18963,78.0,Hyderabad,Exited
+EMP2412,Amit Patil,Human Resource,Associate,Male,05-04-2021,04-04-2022,52123,89.5,Wardha,Exited
+EMP2413,Aarav Shinde,Admin,Executive,Female,27-09-2024,,32770,94.1,Delhi,Exited
+EMP2414,Ananya Choudhary,Sales,Coordinator,Female,27-05-2021,20-08-2021,48121,76.5,Mumbai,Exited
+EMP2415,Priya Sharma,Finance,Manager,Female,11-01-2021,,68930,83.7,Chennai,Exited
+EMP2416,Siddharth Ninawe,Operations,Executive,Male,20-05-2024,03-05-2026,50573,96.5,Mumbai,Exited
+EMP2417,Siddharth Verma,HR,Associate,Female,28-01-2022,,57773,91.9,Nagpur,Active
+EMP2418,Vihaan Verma,sales,Manager,Female,31-05-2021,,73465,72.3,Chennai,Active
+EMP2419,Nikhil Sharma,Sales,Analyst,Female,24-05-2019,,57590,83.7,Delhi,Active
+EMP2420,Vihaan Sharma,Operations,Executive,Male,16-12-2020,,32756,83.7,Indore,Active
+EMP2421,Aadhya Kulkarni,HR,Analyst,Male,18-05-2024,,38092,81.9,Chennai,Active
+EMP2422,Aarav Verma,Operations,Manager,Male,07-11-2023,20-12-2023,23771,98.8,Bengaluru,Exited
+EMP2423,Sakshi Yadav,Operations,Analyst,Male,10-04-2021,,53646,90.7,Mumbai,Exited
+EMP2424,Nikhil Verma,Admin,Senior Executive,Female,19-11-2023,20-12-2025,24198,72.7,Hyderabad,Exited
+EMP2425,Isha Reddy,Marketing,Senior Executive,Female,02-11-2020,17-12-2021,37096,82.2,Chennai,Exited
+EMP2426,Pooja Shinde,sales,Manager,Female,12-04-2022,,82816,80.8,Chennai,Active
+EMP2427,Aditya Bhosale,Sales,Associate,Male,17-07-2020,07-06-2022,79152,96.7,Hyderabad,Exited
+EMP2428,Amit Gupta,Admin,Analyst,Female,31-10-2022,,36287,72.5,Chennai,Active
+EMP2429,Ritika Singh,Marketing,Senior Executive,Male,21-06-2019,,18529,92.2,Hyderabad,Active
+EMP2430,Rahul Singh,sales,Analyst,Female,10-03-2023,26-07-2025,69485,92.5,Pune,Exited
+EMP2431,Diya Shinde,Human Resource,Executive,Female,10-02-2021,,84127,74.3,Pune,Active
+EMP2432,Sakshi Yadav,Finance,Analyst,Male,22-07-2023,25-02-2025,30659,70.5,Bengaluru,Exited
+EMP2433,Vihaan Deshmukh,Human Resource,Associate,Male,20-10-2019,,51218,82.7,Hyderabad,Active
+EMP2434,Akash Patil,HR,Associate,Female,14-05-2022,12-01-2023,57817,89.1,Mumbai,Exited
+EMP2435,Akash Reddy,HR,Associate,Male,09-08-2024,27-05-2025,80075,82.7,Hyderabad,Exited
+EMP2436,Akash Reddy,HR,Executive,Female,06-04-2023,,81890,77.6,Pune,Active
+EMP2437,Aditya Joshi,hr,Executive,Female,06-02-2024,09-11-2024,79509,79.3,Wardha,Exited
+EMP2438,Ananya Bhosale,IT,Coordinator,Male,24-01-2020,,34827,98.1,Wardha,Active
+EMP2439,Aditya Nair,Human Resource,Senior Executive,Male,12-03-2024,13-05-2025,24385,90.9,Wardha,Exited
+EMP2439, Sai Shinde ,Sales,Coordinator,Female,28-10-2020,,56048,82.8,Nagpur,Active
+EMP2441,Manoj Patel,Finance,Manager,Male,28-05-2024,,68764,93.2,Mumbai,Exited
+EMP2442,Priya Ninawe,Finance,Manager,Male,24-10-2022,,76283,73.0,Nagpur,Exited
+EMP2443,Arjun Bhosale,Admin,Executive,Female,07-04-2019,28-07-2021,74357,89.0,Pune,Exited
+EMP2444,Kavya Reddy,HR,Executive,Male,16-02-2022,24-05-2023,26773,77.9,Hyderabad,Exited
+EMP2445,Rahul Patil,Marketing,Executive,Male,23-09-2021,,33861,72.6,Nagpur,Active
+EMP2446,Akash Deshmukh,Operations,Coordinator,Female,10-03-2023,25-06-2025,42315,73.5,Mumbai,Exited
+EMP2447,Diya Deshmukh,Human Resource,Executive,Female,15-05-2022,,69211,71.8,Mumbai,Active
+EMP2448,Vihaan Nair,Sales,Analyst,Female,13-12-2024,,57759,97.6,Wardha,Active
+EMP2449,Kiran Deshmukh,Finance,Associate,Male,28-04-2024,06-09-2024,40599,74.4,Nagpur,Exited
+EMP2450,Deepak Nair,Human Resource,Analyst,Female,06-10-2019,18-01-2020,,95.2,Hyderabad,Exited
+EMP2451,Diya Kulkarni,IT,Associate,Male,02-09-2019,,60006,75.8,Hyderabad,Exited
+EMP2452,Neha Shinde,Admin,Coordinator,Female,09-07-2021,,80831,89.4,Nagpur,Active
+EMP2453,Diya Bhosale,Marketing,Associate,Male,24-03-2022,10-07-2023,22051,86.9,Nagpur,Exited
+EMP2454,Bhavna Verma,sales,Senior Executive,Female,10-02-2022,,62758,97.6,Wardha,Exited
+EMP2455,Amit Reddy,IT,Senior Executive,Male,16-07-2020,24-07-2022,82182,77.5,Bengaluru,Exited
+EMP2456,Swati Kulkarni,Sales,Senior Executive,Male,04-10-2024,,59032,87.0,Hyderabad,Active
+EMP2457,Priya Deshmukh,sales,Manager,Male,21-10-2024,,73554,93.0,Nagpur,Exited
+EMP2458,Kiran Yadav,Finance,Coordinator,Male,20-01-2023,,78645,73.5,Bengaluru,Exited
+EMP2459,Nikhil Joshi,Finance,Senior Executive,Male,13-10-2022,,83136,81.7,Bengaluru,Active
+EMP2460,Swati Choudhary,Operations,Coordinator,Male,30-10-2022,,51387,77.6,Chennai,Active
+EMP2461,Manoj Mehta,IT,Senior Executive,Female,14-01-2019,,42763,83.6,Indore,Active
+EMP2462,Rohan Kulkarni,Marketing,Executive,Female,19-09-2023,,52825,88.8,Wardha,Active
+EMP2463,Siddharth Singh,Operations,Executive,Female,26-11-2023,17-05-2024,41737,92.8,Mumbai,Exited
+EMP2464,Vivaan Patel,Sales,Manager,Female,16-03-2020,,30568,76.1,Mumbai,Exited
+EMP2465,Aarav Singh,sales,Coordinator,Female,09-02-2022,02-11-2022,46893,97.8,Hyderabad,Exited
+EMP2466,Manoj Joshi,Human Resource,Analyst,Male,05-04-2019,27-10-2019,68236,98.6,Pune,Exited
+EMP2467,Rohan Bhosale,Sales,Analyst,Female,14-06-2024,,30541,76.6,Wardha,Active
+EMP2468,Siddharth Ninawe,Human Resource,Manager,Female,21-06-2021,,49296,83.1,Chennai,Exited
+EMP2469,Isha Deshmukh,Finance,Manager,Female,16-02-2020,,71547,83.3,Chennai,Active
+EMP2470,Deepak Bhosale,IT,Associate,Female,05-04-2019,,82424,79.7,Wardha,Exited
+EMP2471,Amit Bhosale,IT,Analyst,Male,17-12-2023,,66884,88.0,Chennai,Active
+EMP2472,Sai Patil,Finance,Manager,Female,11-06-2021,17-04-2022,50606,97.0,Chennai,Exited
+EMP2473,Siddharth Reddy,HR,Manager,Male,26-09-2021,,77276,81.7,Hyderabad,Active
+EMP2474,Pooja Patil,HR,Executive,Female,03-07-2024,19-02-2027,73592,77.6,Delhi,Exited
+EMP2475,Aadhya Mishra,Sales,Analyst,Male,14-05-2024,,40091,95.4,Chennai,Active
+EMP2476,Pooja Verma,Finance,Coordinator,Male,04-01-2020,,30108,77.5,Indore,Active
+EMP2477,Swati Kulkarni,Operations,Senior Executive,Male,02-09-2020,,75133,76.9,Bengaluru,Exited
+EMP2478,Sai Nair,hr,Coordinator,Male,07-08-2021,,24834,78.6,Wardha,Active
+EMP2479,Kavya Ninawe,Finance,Executive,Male,12-03-2019,,28098,78.1,Nagpur,Active
+EMP2480,Vikas Singh,Operations,Coordinator,Male,20-02-2023,,38017,77.4,Mumbai,Active
+EMP2481,Sneha Ninawe,Sales,Coordinator,Male,03-10-2024,,83655,81.8,Nagpur,Active
+EMP2482,Vivaan Reddy,Human Resource,Coordinator,Female,25-06-2020,,66128,83.9,Wardha,Active
+EMP2483,Sai Singh,Finance,Associate,Male,25-10-2020,,26791,70.0,Wardha,Active
+EMP2484,Amit Reddy,IT,Coordinator,Female,13-07-2023,03-04-2026,64391,92.5,Indore,Exited
+EMP2484,Swati Pawar,Human Resource,Analyst,Male,22-08-2024,,22773,88.0,Hyderabad,Exited
+EMP2486,Manoj Yadav,hr,Senior Executive,Female,17-08-2023,02-10-2024,21129,76.0,Mumbai,Exited
+EMP2487,Ananya Pawar,Human Resource,Associate,Male,17-01-2024,,57580,74.3,Delhi,Active
+EMP2488,Ritika Shinde,Sales,Analyst,Female,16-06-2024,04-11-2025,66702,73.9,Mumbai,Exited
+EMP2489,Diya Gupta,hr,Associate,Female,25-04-2022,,78960,72.3,Bengaluru,Exited
+EMP2490,Pooja Nair,Marketing,Executive,Female,08-05-2024,,80843,79.9,Bengaluru,Active
+EMP2491,Swati Nair,Human Resource,Manager,Female,15-02-2019,,37128,71.8,Indore,Active
+EMP2492,Ananya Nair,sales,Senior Executive,Female,09-04-2019,03-08-2021,78331,78.5,Mumbai,Exited
+EMP2493,Kiran Nair,Admin,Manager,Male,20-05-2020,05-09-2021,22739,100.0,Nagpur,Exited
+EMP2494,Swati Patil,sales,Executive,Female,07-12-2023,,43733,78.3,Delhi,Exited
+EMP2495,Vivaan Verma,Sales,Associate,Male,19-02-2019,,43492,82.5,Nagpur,Active
+EMP2496,Kavya Mehta,Admin,Executive,Male,11-11-2021,,18074,95.8,Bengaluru,Active
+EMP2497,Shreya Reddy,hr,Executive,Male,16-06-2021,01-01-2022,82681,90.1,Hyderabad,Exited
+EMP2498,Siddharth Mishra,Operations,Manager,Female,23-11-2021,22-11-2022,38394,94.2,Delhi,Exited
+EMP2499,Diya Sharma,IT,Associate,Female,02-06-2024,05-12-2025,57396,71.5,Bengaluru,Exited
+EMP2500, Kiran Kulkarni ,hr,Analyst,Female,29-08-2020,,,97.2,Pune,Active
+EMP2501,Sakshi Mehta,Marketing,Senior Executive,Male,26-01-2023,29-04-2024,61412,77.3,Wardha,Exited
+EMP2502,Swati Patel,sales,Associate,Female,22-08-2019,06-12-2020,38191,99.4,Hyderabad,Exited
+EMP2503,Pooja Singh,Sales,Coordinator,Male,23-08-2021,07-02-2023,69949,82.2,Delhi,Exited
+EMP2504,Priya Joshi,Admin,Coordinator,Female,06-11-2020,,60879,95.6,Pune,Exited
+EMP2505,Aditya Patel,HR,Executive,Male,06-09-2020,08-01-2021,37908,84.1,Mumbai,Exited
+EMP2506,Arjun Yadav,sales,Analyst,Female,03-01-2023,,23299,79.9,Mumbai,Active
+EMP2507,Rohan Patel,HR,Associate,Female,01-01-2019,,40273,73.2,Bengaluru,Active
+EMP2508,Siddharth Nair,hr,Associate,Female,11-03-2022,,26512,74.7,Indore,Active
+EMP2509,Vihaan Reddy,Admin,Manager,Male,05-07-2021,,62388,90.8,Wardha,Exited
+EMP2510,Pooja Nair,Sales,Senior Executive,Female,17-04-2022,24-12-2024,48818,76.3,Wardha,Exited
+EMP2511,Arjun Gupta,HR,Analyst,Male,22-11-2019,,33429,99.9,Nagpur,Active
+EMP2512,Arjun Patel,Sales,Associate,Female,24-09-2022,28-10-2024,81123,73.7,Indore,Exited
+EMP2513,Shreya Choudhary,Sales,Associate,Male,09-05-2021,15-06-2022,38516,80.4,Mumbai,Exited
+EMP2514,Vivaan Kulkarni,IT,Associate,Male,03-02-2021,16-04-2022,60412,94.5,Chennai,Exited
+EMP2515,Akash Jain,Admin,Senior Executive,Female,23-01-2021,,39519,72.8,Hyderabad,Active
+EMP2516,Arjun Verma,Human Resource,Manager,Male,10-09-2021,26-04-2024,44510,82.5,Mumbai,Exited
+EMP2517,Nikhil Mishra,sales,Coordinator,Male,08-03-2023,,81281,76.3,Hyderabad,Exited
+EMP2518,Akash Nair,Sales,Associate,Male,14-12-2024,09-09-2026,43776,83.6,Indore,Exited
+EMP2519,Priya Mehta,Operations,Associate,Female,02-07-2019,21-09-2020,26231,97.9,Delhi,Exited
+EMP2520,Swati Jain,Admin,Analyst,Female,01-07-2021,,23073,81.8,Mumbai,Exited
+EMP2521,Amit Joshi,HR,Associate,Male,27-06-2021,,18294,98.8,Bengaluru,Exited
+EMP2522,Vikas Mehta,IT,Associate,Male,08-03-2019,14-02-2021,24710,86.0,Indore,Exited
+EMP2523,Priya Singh,Finance,Executive,Female,13-05-2023,,44248,72.4,Delhi,Exited
+EMP2524,Rahul Sharma,hr,Manager,Female,15-06-2020,,56314,82.5,Chennai,Exited
+EMP2525,Ananya Ninawe,sales,Executive,Male,04-02-2020,11-09-2021,26990,96.2,Mumbai,Exited
+EMP2526,Diya Patel,Sales,Senior Executive,Male,03-01-2021,,77151,85.0,Indore,Active
+EMP2527,Isha Nair,hr,Senior Executive,Male,25-05-2024,23-06-2025,30062,81.6,Delhi,Exited
+EMP2528,Vikas Kulkarni,HR,Analyst,Female,20-12-2019,,39271,74.8,Indore,Active
+EMP2529,Ananya Reddy,sales,Executive,Female,03-05-2019,21-08-2021,74675,76.4,Delhi,Exited
+EMP2529,Siddharth Reddy,Admin,Coordinator,Female,02-10-2019,,82798,81.6,Hyderabad,Active
+EMP2531,Ananya Verma,HR,Coordinator,Female,30-01-2024,,18487,70.5,Hyderabad,Active
+EMP2532,Nikhil Jain,IT,Executive,Male,31-01-2019,28-05-2019,35574,87.8,Wardha,Exited
+EMP2533,Rahul Mehta,Marketing,Manager,Female,27-10-2022,,22257,77.4,Indore,Active
+EMP2534,Manoj Pawar,Sales,Senior Executive,Male,09-06-2019,,25197,90.9,Chennai,Active
+EMP2535,Arjun Kulkarni,sales,Executive,Female,15-08-2023,,65682,79.3,Bengaluru,Active
+EMP2536,Kavya Sharma,HR,Analyst,Male,13-03-2022,,30199,80.9,Pune,Exited
+EMP2537,Aadhya Jain,sales,Coordinator,Male,21-05-2020,,45827,76.9,Bengaluru,Active
+EMP2538,Priya Mehta,Marketing,Executive,Female,23-11-2019,26-10-2021,56999,92.6,Mumbai,Exited
+EMP2539,Priya Pawar,hr,Executive,Male,27-09-2022,16-03-2023,27010,73.2,Wardha,Exited
+EMP2540,Vivaan Reddy,sales,Analyst,Male,21-07-2023,,52640,72.5,Nagpur,Active
+EMP2541,Sai Choudhary,hr,Analyst,Male,10-03-2019,,34601,99.7,Mumbai,Exited
+EMP2542,Akash Nair,Sales,Analyst,Female,07-02-2021,08-05-2021,74324,75.8,Indore,Exited
+EMP2543,Priya Mishra,Human Resource,Analyst,Male,15-07-2023,03-06-2024,53305,91.2,Bengaluru,Exited
+EMP2544,Nikhil Bhosale,Operations,Coordinator,Male,06-01-2019,,71155,92.4,Nagpur,Active
+EMP2545,Rohan Ninawe,Admin,Manager,Male,06-05-2020,,35360,76.9,Delhi,Active
+EMP2546,Shreya Verma,hr,Senior Executive,Male,05-06-2023,,46591,87.2,Delhi,Active
+EMP2547,Sakshi Singh,HR,Analyst,Female,21-08-2023,,62742,74.3,Pune,Active
+EMP2548,Deepak Mishra,sales,Associate,Male,11-08-2023,06-08-2025,54053,95.7,Nagpur,Exited
+EMP2549,Ananya Patil,sales,Associate,Female,09-02-2021,,82213,83.1,Bengaluru,Active
+EMP2550,Aarav Pawar,Operations,Manager,Female,11-10-2020,,,85.7,Delhi,Active
+EMP2551,Kavya Singh,Sales,Executive,Female,30-07-2020,,73856,93.6,Indore,Exited
+EMP2552,Aditya Choudhary,Operations,Manager,Female,25-11-2022,29-03-2024,44335,95.2,Chennai,Exited
+EMP2553,Aadhya Ninawe,Operations,Manager,Female,22-06-2021,08-08-2021,48726,81.5,Indore,Exited
+EMP2554,Amit Gupta,hr,Senior Executive,Female,01-01-2022,07-01-2024,30954,92.4,Mumbai,Exited
+EMP2555,Aditya Choudhary,hr,Manager,Male,15-09-2021,,50020,88.8,Indore,Exited
+EMP2556,Aarav Gupta,HR,Analyst,Male,02-09-2022,03-10-2022,81048,73.3,Bengaluru,Exited
+EMP2557,Shreya Pawar,Sales,Manager,Female,18-01-2022,,70684,72.9,Wardha,Active
+EMP2558,Siddharth Deshmukh,Finance,Senior Executive,Female,23-08-2022,,62059,92.8,Indore,Active
+EMP2559,Sneha Reddy,Finance,Executive,Male,31-10-2023,,27996,76.9,Mumbai,Active
+EMP2560, Ananya Shinde ,IT,Manager,Female,31-12-2024,,31449,91.6,Delhi,Active
+EMP2561,Shreya Deshmukh,Finance,Senior Executive,Male,28-02-2023,,22799,97.5,Chennai,Active
+EMP2562,Vihaan Kulkarni,Admin,Senior Executive,Male,17-01-2024,,30252,88.4,Pune,Active
+EMP2563,Kiran Kulkarni,Admin,Associate,Female,08-01-2025,,23789,86.2,Mumbai,Active
+EMP2564,Swati Reddy,Finance,Coordinator,Male,14-08-2023,,84021,97.7,Bengaluru,Exited
+EMP2565,Aarav Pawar,sales,Manager,Male,01-01-2023,18-07-2023,21525,99.4,Mumbai,Exited
+EMP2566,Akash Kulkarni,Finance,Manager,Male,05-12-2020,,48699,92.0,Delhi,Active
+EMP2567,Manoj Deshmukh,Finance,Analyst,Male,27-06-2020,04-06-2022,76912,70.9,Delhi,Exited
+EMP2568,Pooja Yadav,IT,Associate,Female,22-09-2020,,38849,70.2,Hyderabad,Active
+EMP2569,Vivaan Mehta,Human Resource,Analyst,Male,18-09-2023,,29118,72.2,Chennai,Active
+EMP2570,Vihaan Pawar,Finance,Associate,Male,11-11-2020,11-12-2022,61260,94.9,Indore,Exited
+EMP2571,Akash Choudhary,Finance,Senior Executive,Female,14-01-2024,,76336,77.8,Delhi,Exited
+EMP2572,Swati Sharma,Finance,Executive,Male,21-07-2023,18-02-2025,78931,93.9,Nagpur,Exited
+EMP2573,Ritika Verma,Finance,Associate,Male,25-12-2024,,80825,71.6,Nagpur,Active
+EMP2574,Vikas Joshi,Human Resource,Coordinator,Male,12-09-2021,,84639,77.2,Indore,Active
+EMP2574,Aditya Jain,Marketing,Analyst,Male,19-01-2020,,35849,82.8,Delhi,Exited
+EMP2576,Arjun Joshi,hr,Executive,Female,22-10-2024,,75979,91.6,Indore,Active
+EMP2577,Aditya Jain,Operations,Executive,Male,05-11-2020,15-11-2021,21926,93.4,Mumbai,Exited
+EMP2578,Deepak Sharma,hr,Executive,Male,13-08-2022,,28625,84.4,Pune,Active
+EMP2579,Isha Mehta,sales,Senior Executive,Female,23-08-2019,,37631,81.4,Pune,Active
+EMP2580,Kiran Nair,Sales,Coordinator,Female,11-04-2022,,37391,78.6,Indore,Exited
+EMP2581,Swati Patel,Human Resource,Senior Executive,Female,20-12-2020,06-04-2023,23565,84.1,Indore,Exited
+EMP2582,Kavya Shinde,HR,Manager,Female,30-06-2019,,18366,96.6,Chennai,Active
+EMP2583,Pooja Jain,hr,Coordinator,Male,20-01-2023,08-04-2024,67508,77.1,Nagpur,Exited
+EMP2584,Kiran Kulkarni,Marketing,Senior Executive,Male,22-07-2021,10-10-2021,65999,93.6,Chennai,Exited
+EMP2585,Shreya Verma,Marketing,Analyst,Female,11-06-2019,,45252,88.1,Indore,Exited
+EMP2586,Isha Bhosale,sales,Executive,Male,11-03-2019,,34484,78.0,Mumbai,Active
+EMP2587,Swati Singh,IT,Senior Executive,Female,01-11-2021,,18651,98.9,Nagpur,Active
+EMP2588,Vikas Reddy,Operations,Manager,Male,16-10-2021,,67556,85.8,Pune,Active
+EMP2589,Neha Kulkarni,Finance,Manager,Female,26-09-2020,,36546,88.6,Bengaluru,Active
+EMP2590,Shreya Ninawe,Marketing,Analyst,Female,13-06-2022,,20714,92.7,Nagpur,Exited
+EMP2591,Pooja Nair,IT,Senior Executive,Male,26-05-2021,,58577,83.9,Mumbai,Active
+EMP2592,Manoj Patil,Sales,Senior Executive,Female,16-05-2023,,64488,96.0,Mumbai,Active
+EMP2593,Sai Patil,Finance,Analyst,Male,20-02-2023,29-09-2023,56513,90.1,Wardha,Exited
+EMP2594,Neha Yadav,IT,Executive,Male,20-02-2022,03-07-2024,84219,91.9,Hyderabad,Exited
+EMP2595,Diya Mehta,Marketing,Senior Executive,Male,25-10-2024,,54101,84.0,Mumbai,Active
+EMP2596,Akash Jain,HR,Analyst,Male,01-04-2022,,56191,97.5,Delhi,Active
+EMP2597,Bhavna Mishra,Finance,Associate,Male,25-11-2024,17-06-2027,34014,94.2,Pune,Exited
+EMP2598,Aditya Singh,Admin,Coordinator,Male,06-02-2024,22-05-2026,34223,88.2,Delhi,Exited
+EMP2599,Diya Choudhary,hr,Manager,Female,21-03-2021,,71083,100.0,Mumbai,Exited
+EMP2600,Ritika Pawar,HR,Associate,Female,11-11-2019,,,99.7,Pune,Active
+EMP2601,Isha Nair,IT,Analyst,Male,18-11-2024,,19398,94.6,Mumbai,Active
+EMP2602,Rohan Singh,sales,Coordinator,Male,27-08-2023,,34765,77.3,Chennai,Active
+EMP2603,Sneha Reddy,Operations,Manager,Female,16-12-2021,17-09-2023,33689,97.5,Delhi,Exited
+EMP2604,Neha Mishra,Admin,Executive,Female,17-11-2022,,25594,88.1,Pune,Active
+EMP2605,Deepak Nair,Admin,Analyst,Male,20-03-2022,,56304,81.9,Wardha,Active
+EMP2606,Sneha Sharma,Admin,Analyst,Male,24-07-2020,,38667,72.2,Wardha,Exited
+EMP2607,Aadhya Jain,sales,Senior Executive,Male,10-09-2023,,30088,90.9,Bengaluru,Active
+EMP2608,Arjun Nair,Marketing,Manager,Male,27-07-2023,,66081,93.3,Hyderabad,Active
+EMP2609,Diya Reddy,IT,Coordinator,Male,22-10-2023,21-12-2025,24076,73.5,Nagpur,Exited
+EMP2610,Kavya Sharma,HR,Senior Executive,Female,01-03-2021,,44631,81.9,Pune,Active
+EMP2611,Manoj Sharma,IT,Executive,Male,22-09-2020,,45899,93.0,Bengaluru,Exited
+EMP2612,Ritika Jain,sales,Coordinator,Male,02-08-2019,06-03-2020,75178,84.6,Wardha,Exited
+EMP2613,Kavya Mehta,Human Resource,Executive,Male,13-05-2021,,23287,79.1,Indore,Exited
+EMP2614,Aarav Nair,Operations,Manager,Male,05-03-2021,,80506,82.2,Delhi,Exited
+EMP2615,Diya Mishra,Admin,Manager,Female,23-05-2020,,31431,83.5,Mumbai,Active
+EMP2616,Siddharth Verma,Marketing,Senior Executive,Male,17-02-2023,,55925,98.0,Wardha,Active
+EMP2617,Aadhya Choudhary,Human Resource,Manager,Female,09-07-2023,16-03-2025,67265,94.9,Wardha,Exited
+EMP2618,Aditya Nair,Sales,Analyst,Female,17-08-2020,30-06-2022,50532,87.0,Bengaluru,Exited
+EMP2619,Aarav Nair,Sales,Executive,Male,07-03-2021,,42952,95.2,Delhi,Active
+EMP2619, Priya Gupta ,IT,Coordinator,Male,14-07-2023,,71453,99.7,Wardha,Active
+EMP2621,Arjun Patil,hr,Analyst,Male,16-02-2024,17-04-2024,75932,79.3,Delhi,Exited
+EMP2622,Amit Bhosale,Finance,Manager,Male,27-08-2022,03-04-2025,36156,95.1,Bengaluru,Exited
+EMP2623,Manoj Sharma,sales,Manager,Female,28-07-2023,,36672,80.2,Indore,Active
+EMP2624,Kiran Gupta,IT,Manager,Female,09-01-2023,,74904,72.8,Indore,Active
+EMP2625,Neha Choudhary,IT,Executive,Female,12-11-2022,14-07-2025,46394,94.3,Pune,Exited
+EMP2626,Akash Gupta,Finance,Senior Executive,Male,04-12-2024,06-08-2027,33753,93.3,Chennai,Exited
+EMP2627,Vikas Gupta,Finance,Analyst,Female,26-06-2022,05-09-2022,21860,92.6,Mumbai,Exited
+EMP2628,Aarav Nair,IT,Executive,Female,20-05-2023,,25228,85.1,Pune,Exited
+EMP2629,Aditya Deshmukh,Admin,Executive,Female,03-10-2022,,24280,85.8,Bengaluru,Active
+EMP2630,Aditya Yadav,Admin,Analyst,Male,27-10-2019,,71449,96.2,Wardha,Exited
+EMP2631,Nikhil Pawar,Human Resource,Senior Executive,Male,26-07-2019,,54673,96.9,Wardha,Exited
+EMP2632,Isha Bhosale,Sales,Manager,Female,20-05-2023,,25626,96.6,Chennai,Active
+EMP2633,Bhavna Pawar,Human Resource,Manager,Female,15-07-2020,,30067,91.7,Wardha,Exited
+EMP2634,Swati Patil,HR,Executive,Female,21-10-2020,,52543,98.1,Indore,Active
+EMP2635,Aadhya Patel,Finance,Analyst,Male,23-03-2021,,77489,98.1,Hyderabad,Active
+EMP2636,Pooja Ninawe,Finance,Associate,Male,13-11-2022,,28374,76.1,Nagpur,Exited
+EMP2637,Akash Singh,hr,Executive,Male,31-10-2020,,67785,92.5,Delhi,Active
+EMP2638,Manoj Nair,sales,Associate,Male,26-06-2020,05-03-2022,63215,75.7,Wardha,Exited
+EMP2639,Aditya Mehta,Sales,Coordinator,Female,11-06-2022,23-07-2024,40111,71.4,Chennai,Exited
+EMP2640,Priya Nair,HR,Analyst,Female,23-01-2020,,24933,76.1,Bengaluru,Exited
+EMP2641,Manoj Singh,IT,Associate,Female,10-04-2024,,36582,90.0,Nagpur,Active
+EMP2642,Swati Ninawe,hr,Associate,Male,27-02-2019,,30093,73.1,Delhi,Active
+EMP2643,Aadhya Nair,IT,Analyst,Female,03-12-2020,20-05-2022,75400,96.0,Delhi,Exited
+EMP2644,Deepak Mehta,Finance,Associate,Male,15-04-2020,,59738,80.2,Wardha,Active
+EMP2645,Shreya Sharma,Operations,Associate,Male,22-10-2023,21-03-2024,77450,82.1,Wardha,Exited
+EMP2646,Diya Patil,Marketing,Executive,Female,23-08-2020,,65852,86.2,Pune,Active
+EMP2647,Akash Ninawe,Human Resource,Associate,Female,06-07-2021,15-01-2022,29296,70.4,Hyderabad,Exited
+EMP2648,Vikas Shinde,hr,Coordinator,Male,21-12-2021,09-02-2024,27550,72.2,Nagpur,Exited
+EMP2649,Sneha Choudhary,IT,Analyst,Female,14-02-2024,,53195,88.7,Indore,Active
+EMP2650,Priya Mehta,HR,Senior Executive,Male,10-10-2020,,,98.5,Delhi,Active
+EMP2651,Akash Mehta,IT,Manager,Male,24-10-2021,24-09-2022,62265,89.4,Bengaluru,Exited
+EMP2652,Pooja Shinde,Marketing,Manager,Female,09-09-2024,17-11-2026,22692,72.7,Nagpur,Exited
+EMP2653,Diya Mehta,IT,Executive,Female,08-01-2024,12-08-2025,42479,78.2,Pune,Exited
+EMP2654,Siddharth Patel,Operations,Coordinator,Female,20-07-2024,19-01-2025,75208,91.6,Nagpur,Exited
+EMP2655,Manoj Gupta,sales,Manager,Male,15-10-2024,,82737,93.7,Indore,Active
+EMP2656,Sneha Nair,HR,Senior Executive,Male,21-06-2023,,49127,90.9,Mumbai,Active
+EMP2657,Akash Mishra,IT,Executive,Male,10-04-2023,12-12-2024,23022,75.0,Indore,Exited
+EMP2658,Sai Jain,sales,Associate,Female,04-01-2022,,69534,75.9,Hyderabad,Exited
+EMP2659,Manoj Bhosale,Sales,Manager,Female,30-01-2021,,35445,93.7,Delhi,Active
+EMP2660,Deepak Deshmukh,Marketing,Manager,Female,27-02-2020,19-12-2020,28434,75.6,Hyderabad,Exited
+EMP2661,Shreya Reddy,Human Resource,Associate,Male,07-11-2022,,40525,96.1,Delhi,Exited
+EMP2662,Sneha Nair,Admin,Coordinator,Male,24-02-2023,,47301,86.8,Chennai,Active
+EMP2663,Pooja Mishra,HR,Executive,Female,28-06-2024,15-12-2026,60516,92.7,Bengaluru,Exited
+EMP2664,Manoj Kulkarni,Finance,Manager,Male,01-02-2019,,58189,96.3,Indore,Active
+EMP2664,Manoj Choudhary,hr,Analyst,Female,08-04-2020,23-10-2020,24145,87.5,Bengaluru,Exited
+EMP2666,Kiran Verma,hr,Senior Executive,Male,31-01-2023,,69711,79.8,Wardha,Active
+EMP2667,Vihaan Jain,sales,Manager,Male,08-04-2021,,46389,81.0,Delhi,Active
+EMP2668,Manoj Pawar,Operations,Associate,Female,18-11-2024,,49214,95.5,Mumbai,Active
+EMP2669,Aarav Bhosale,Sales,Executive,Male,05-09-2020,,55156,93.3,Nagpur,Active
+EMP2670,Isha Patil,Admin,Coordinator,Male,07-12-2024,,79982,88.2,Nagpur,Active
+EMP2671,Bhavna Reddy,HR,Associate,Male,17-01-2022,,63654,96.7,Hyderabad,Exited
+EMP2672,Vikas Pawar,IT,Associate,Female,28-08-2019,16-05-2021,84380,86.2,Bengaluru,Exited
+EMP2673,Priya Ninawe,Human Resource,Coordinator,Female,11-07-2024,07-09-2026,54649,92.0,Chennai,Exited
+EMP2674,Pooja Jain,Admin,Analyst,Female,25-03-2022,,83802,98.7,Pune,Active
+EMP2675,Aditya Pawar,sales,Executive,Male,15-04-2019,,18820,74.7,Bengaluru,Active
+EMP2676,Pooja Joshi,Admin,Analyst,Male,08-08-2021,,48988,94.0,Hyderabad,Active
+EMP2677,Aditya Deshmukh,HR,Manager,Female,20-08-2022,06-03-2024,44750,86.7,Nagpur,Exited
+EMP2678,Akash Singh,Sales,Associate,Female,27-05-2022,15-12-2023,68209,74.3,Delhi,Exited
+EMP2679,Kavya Shinde,Operations,Analyst,Female,13-04-2022,,18834,95.4,Nagpur,Exited
+EMP2680, Swati Mishra ,Sales,Analyst,Male,06-05-2021,,46631,92.1,Delhi,Active
+EMP2681,Manoj Patel,Human Resource,Manager,Female,30-03-2021,,18928,88.7,Mumbai,Active
+EMP2682,Neha Sharma,hr,Senior Executive,Female,29-10-2024,,72443,74.8,Indore,Active
+EMP2683,Isha Mishra,HR,Associate,Male,21-12-2024,,79821,90.0,Nagpur,Active
+EMP2684,Kiran Ninawe,sales,Coordinator,Female,20-05-2024,23-07-2026,65603,84.5,Chennai,Exited
+EMP2685,Arjun Choudhary,HR,Coordinator,Female,25-08-2022,,29827,81.5,Indore,Active
+EMP2686,Diya Singh,IT,Executive,Female,06-08-2019,,75610,75.3,Wardha,Active
+EMP2687,Akash Deshmukh,Finance,Executive,Female,20-12-2023,,42398,75.5,Nagpur,Active
+EMP2688,Rohan Choudhary,Admin,Senior Executive,Male,26-05-2021,06-10-2021,73980,89.2,Delhi,Exited
+EMP2689,Vikas Mehta,Human Resource,Manager,Female,26-08-2021,,60611,91.1,Delhi,Active
+EMP2690,Kiran Choudhary,Marketing,Associate,Male,12-04-2021,23-03-2022,52967,84.7,Wardha,Exited
+EMP2691,Shreya Reddy,Finance,Coordinator,Female,23-10-2020,,20563,77.8,Bengaluru,Exited
+EMP2692,Rohan Reddy,Admin,Coordinator,Female,22-04-2020,,76566,70.1,Nagpur,Active
+EMP2693,Isha Patel,Human Resource,Coordinator,Female,16-08-2019,,79408,91.6,Delhi,Exited
+EMP2694,Rahul Jain,Human Resource,Analyst,Male,26-10-2024,,35126,94.4,Pune,Active
+EMP2695,Arjun Mishra,IT,Executive,Male,11-08-2019,,40710,78.0,Indore,Active
+EMP2696,Rahul Bhosale,Operations,Manager,Female,25-10-2024,27-06-2025,66784,75.5,Indore,Exited
+EMP2697,Neha Verma,HR,Senior Executive,Male,07-04-2021,,54455,97.7,Pune,Active
+EMP2698,Manoj Choudhary,Admin,Executive,Female,06-08-2022,,78321,95.1,Nagpur,Active
+EMP2699,Ananya Choudhary,hr,Manager,Female,04-04-2019,,39951,89.9,Pune,Active
+EMP2700,Priya Deshmukh,Operations,Coordinator,Male,09-02-2022,,,97.3,Chennai,Active
+EMP2701,Rahul Patel,Finance,Analyst,Female,09-08-2024,,33095,71.5,Nagpur,Active
+EMP2702,Shreya Gupta,hr,Manager,Female,28-04-2021,,33476,82.3,Nagpur,Active
+EMP2703,Vivaan Singh,Admin,Associate,Female,01-01-2020,,32773,73.1,Nagpur,Active
+EMP2704,Vivaan Singh,Admin,Manager,Female,11-05-2019,,62949,98.0,Delhi,Exited
+EMP2705,Swati Bhosale,Finance,Senior Executive,Male,01-06-2019,14-09-2020,67844,86.1,Nagpur,Exited
+EMP2706,Isha Yadav,Marketing,Analyst,Male,29-02-2020,,54968,72.7,Mumbai,Active
+EMP2707,Kiran Mehta,IT,Executive,Female,19-11-2024,,62191,99.5,Nagpur,Active
+EMP2708,Siddharth Yadav,IT,Manager,Female,11-06-2020,,43382,99.8,Hyderabad,Active
+EMP2709,Shreya Patil,hr,Analyst,Female,06-01-2019,,63251,94.7,Pune,Active
+EMP2709,Diya Shinde,hr,Coordinator,Female,04-08-2020,,65056,86.2,Chennai,Exited
+EMP2711,Priya Gupta,Finance,Executive,Male,21-04-2019,15-11-2021,38469,99.7,Mumbai,Exited
+EMP2712,Kavya Singh,sales,Senior Executive,Male,25-10-2020,,82861,75.0,Mumbai,Exited
+EMP2713,Isha Patel,IT,Analyst,Male,12-10-2023,,72046,73.8,Bengaluru,Active
+EMP2714,Amit Singh,sales,Analyst,Female,01-08-2022,09-02-2023,18993,71.0,Mumbai,Exited
+EMP2715,Vihaan Sharma,Admin,Senior Executive,Female,27-01-2023,25-09-2024,77175,96.8,Bengaluru,Exited
+EMP2716,Siddharth Patel,sales,Analyst,Female,19-12-2023,28-03-2025,40607,84.4,Pune,Exited
+EMP2717,Arjun Kulkarni,Operations,Executive,Male,14-11-2023,,32491,93.1,Indore,Active
+EMP2718,Vihaan Verma,Finance,Associate,Female,20-04-2019,30-08-2019,76894,92.9,Pune,Exited
+EMP2719,Rahul Ninawe,IT,Coordinator,Male,15-10-2024,,19720,94.4,Hyderabad,Active
+EMP2720,Isha Singh,Human Resource,Manager,Male,05-05-2019,,62920,83.9,Delhi,Active
+EMP2721,Amit Verma,IT,Executive,Female,30-01-2024,,50309,91.4,Hyderabad,Active
+EMP2722,Aditya Verma,Sales,Analyst,Male,19-01-2023,10-09-2023,70509,91.1,Mumbai,Exited
+EMP2723,Aarav Choudhary,IT,Associate,Female,14-01-2021,07-08-2022,64574,91.1,Bengaluru,Exited
+EMP2724,Rahul Sharma,Finance,Analyst,Male,08-05-2020,,61746,88.2,Nagpur,Active
+EMP2725,Manoj Shinde,Sales,Senior Executive,Male,27-11-2023,27-05-2024,28345,85.7,Nagpur,Exited
+EMP2726,Sakshi Reddy,HR,Associate,Female,12-05-2019,,52865,82.8,Bengaluru,Active
+EMP2727,Sneha Choudhary,HR,Associate,Female,05-10-2019,,24629,90.0,Pune,Active
+EMP2728,Swati Kulkarni,HR,Manager,Female,22-03-2019,28-10-2020,26905,87.2,Hyderabad,Exited
+EMP2729,Diya Patel,sales,Coordinator,Male,06-12-2020,,51491,94.2,Bengaluru,Active
+EMP2730,Nikhil Bhosale,Operations,Analyst,Female,06-06-2023,29-04-2025,26535,87.7,Pune,Exited
+EMP2731,Manoj Pawar,IT,Associate,Male,13-04-2022,,71855,74.5,Wardha,Active
+EMP2732,Priya Verma,Operations,Senior Executive,Female,19-05-2024,,40832,75.5,Indore,Exited
+EMP2733,Akash Choudhary,Admin,Executive,Male,30-03-2022,,76467,91.3,Bengaluru,Active
+EMP2734,Sai Pawar,Human Resource,Executive,Female,18-04-2019,,79245,94.6,Indore,Active
+EMP2735,Deepak Ninawe,hr,Manager,Male,31-12-2019,,38756,88.9,Bengaluru,Exited
+EMP2736,Vihaan Mehta,hr,Coordinator,Female,21-08-2021,28-10-2023,84120,97.0,Pune,Exited
+EMP2737,Aditya Shinde,HR,Executive,Female,24-08-2024,25-02-2026,22002,96.8,Bengaluru,Exited
+EMP2738,Vikas Gupta,Human Resource,Coordinator,Male,07-05-2020,27-11-2022,64668,87.1,Wardha,Exited
+EMP2739,Amit Mishra,Operations,Executive,Female,17-02-2019,,26089,86.2,Chennai,Active
+EMP2740, Rahul Jain ,Operations,Associate,Male,19-01-2020,,42761,79.0,Chennai,Active
+EMP2741,Aditya Patel,Human Resource,Analyst,Female,23-09-2024,19-06-2026,53443,86.8,Indore,Exited
+EMP2742,Arjun Shinde,IT,Executive,Female,08-05-2024,,53013,76.9,Pune,Active
+EMP2743,Aadhya Patel,Admin,Associate,Male,01-10-2023,,64479,84.8,Indore,Active
+EMP2744,Nikhil Joshi,Human Resource,Senior Executive,Female,19-06-2024,24-10-2026,47377,80.6,Wardha,Exited
+EMP2745,Rohan Patil,Human Resource,Manager,Female,14-04-2022,,73264,95.1,Chennai,Active
+EMP2746,Neha Mehta,Finance,Coordinator,Female,20-12-2021,,77383,74.6,Wardha,Exited
+EMP2747,Aarav Gupta,Marketing,Analyst,Male,16-10-2022,,68585,99.4,Hyderabad,Active
+EMP2748,Rohan Joshi,IT,Coordinator,Male,01-02-2022,,18044,78.0,Chennai,Active
+EMP2749,Vikas Nair,Finance,Associate,Female,18-06-2019,,51886,74.5,Indore,Exited
+EMP2750,Isha Bhosale,Admin,Executive,Female,07-10-2019,,,72.2,Pune,Exited
+EMP2751,Rohan Joshi,sales,Executive,Male,30-10-2020,,71396,76.4,Chennai,Active
+EMP2752,Ritika Sharma,sales,Senior Executive,Female,03-02-2021,,23739,86.7,Pune,Active
+EMP2753,Neha Jain,HR,Associate,Male,09-11-2020,20-09-2021,57595,77.9,Pune,Exited
+EMP2754,Kavya Jain,HR,Associate,Male,02-03-2021,,72577,84.1,Wardha,Exited
+EMP2754,Ritika Patel,Marketing,Coordinator,Male,03-06-2020,09-02-2022,23482,96.0,Wardha,Exited
+EMP2756,Manoj Mehta,Human Resource,Associate,Male,01-02-2020,,53503,93.6,Hyderabad,Exited
+EMP2757,Siddharth Ninawe,IT,Manager,Female,23-03-2023,12-01-2025,50633,90.9,Indore,Exited
+EMP2758,Isha Yadav,Marketing,Senior Executive,Female,11-04-2023,14-10-2025,29835,87.7,Hyderabad,Exited
+EMP2759,Kiran Verma,hr,Executive,Female,23-05-2020,,41669,99.8,Delhi,Active
+EMP2760,Sakshi Patil,HR,Associate,Male,09-12-2022,,27225,82.7,Mumbai,Active
+EMP2761,Diya Bhosale,Marketing,Senior Executive,Male,06-06-2023,,73213,82.3,Nagpur,Active
+EMP2762,Vihaan Nair,Admin,Associate,Male,30-11-2021,25-02-2022,67674,71.5,Bengaluru,Exited
+EMP2763,Kiran Gupta,Sales,Associate,Female,12-12-2024,,56445,90.5,Bengaluru,Exited
+EMP2764,Kiran Mehta,Admin,Associate,Female,17-11-2023,06-02-2024,60844,74.9,Bengaluru,Exited
+EMP2765,Sneha Pawar,sales,Coordinator,Female,30-06-2024,29-01-2027,21825,93.5,Bengaluru,Exited
+EMP2766,Bhavna Jain,Finance,Analyst,Male,26-02-2021,,73725,95.7,Hyderabad,Active
+EMP2767,Aadhya Patil,IT,Senior Executive,Female,19-06-2020,,72884,71.6,Chennai,Active
+EMP2768,Nikhil Jain,Admin,Executive,Female,22-11-2022,,25038,74.8,Nagpur,Active
+EMP2769,Vihaan Ninawe,Human Resource,Associate,Female,19-04-2022,,77234,90.8,Wardha,Active
+EMP2770,Priya Patil,Human Resource,Executive,Male,18-07-2022,,69136,72.4,Bengaluru,Active
+EMP2771,Sakshi Singh,hr,Executive,Male,06-03-2023,15-09-2024,68888,92.8,Indore,Exited
+EMP2772,Aarav Singh,Operations,Analyst,Male,15-10-2024,04-04-2026,34757,75.2,Hyderabad,Exited
+EMP2773,Isha Sharma,Sales,Senior Executive,Male,02-01-2024,,71549,89.2,Chennai,Active
+EMP2774,Aditya Gupta,hr,Coordinator,Female,05-11-2020,,44724,76.9,Wardha,Active
+EMP2775,Sneha Joshi,IT,Associate,Female,17-11-2022,14-06-2024,24303,99.2,Nagpur,Exited
+EMP2776,Pooja Kulkarni,Marketing,Coordinator,Female,17-12-2020,,48482,96.4,Hyderabad,Exited
+EMP2777,Kiran Kulkarni,HR,Senior Executive,Female,09-05-2019,,66159,80.2,Nagpur,Exited
+EMP2778,Deepak Deshmukh,hr,Analyst,Female,01-04-2020,,43368,78.6,Indore,Active
+EMP2779,Siddharth Reddy,Admin,Analyst,Male,14-12-2019,15-03-2022,70185,89.9,Nagpur,Exited
+EMP2780,Rahul Ninawe,HR,Associate,Female,23-02-2021,12-07-2023,27538,91.4,Indore,Exited
+EMP2781,Vivaan Patel,Admin,Senior Executive,Female,05-05-2023,,23466,91.4,Delhi,Active
+EMP2782,Vivaan Patil,Admin,Senior Executive,Male,29-07-2021,25-01-2023,36982,79.9,Delhi,Exited
+EMP2783,Ritika Yadav,HR,Manager,Female,27-05-2019,,27060,83.2,Indore,Active
+EMP2784,Priya Nair,hr,Senior Executive,Female,07-10-2023,17-08-2024,51305,77.8,Chennai,Exited
+EMP2785,Vivaan Mehta,Finance,Associate,Male,31-12-2024,31-05-2026,46500,70.5,Hyderabad,Exited
+EMP2786,Diya Bhosale,hr,Coordinator,Female,25-08-2020,02-03-2022,51483,94.1,Chennai,Exited
+EMP2787,Rohan Nair,Marketing,Senior Executive,Female,26-09-2020,,58117,87.4,Nagpur,Active
+EMP2788,Manoj Reddy,hr,Analyst,Male,28-01-2022,13-11-2022,67393,94.3,Indore,Exited
+EMP2789,Shreya Patil,Sales,Coordinator,Male,17-12-2020,,44703,87.8,Nagpur,Exited
+EMP2790,Amit Joshi,Finance,Manager,Female,27-02-2020,,32775,70.9,Nagpur,Active
+EMP2791,Ritika Choudhary,Finance,Analyst,Male,07-12-2020,,45799,73.6,Pune,Active
+EMP2792,Aarav Ninawe,Finance,Executive,Female,20-12-2020,,20133,83.8,Chennai,Active
+EMP2793,Vihaan Verma,HR,Coordinator,Male,11-09-2024,12-02-2025,19468,94.5,Delhi,Exited
+EMP2794,Pooja Patil,hr,Coordinator,Female,28-03-2022,,48832,97.9,Delhi,Active
+EMP2795,Nikhil Patel,Admin,Senior Executive,Female,21-09-2024,,81253,93.5,Indore,Active
+EMP2796,Nikhil Gupta,Finance,Manager,Male,13-07-2022,05-04-2024,59470,71.0,Delhi,Exited
+EMP2797,Shreya Sharma,Operations,Senior Executive,Female,14-07-2023,,18459,98.3,Chennai,Active
+EMP2798,Isha Patel,sales,Associate,Female,22-03-2019,,75135,82.7,Pune,Active
+EMP2799,Aditya Sharma,IT,Manager,Male,28-02-2023,24-03-2025,29835,99.6,Mumbai,Exited
+EMP2799, Kiran Shinde ,Marketing,Coordinator,Female,19-08-2022,,,93.2,Wardha,Active
+EMP2801,Vivaan Nair,Admin,Associate,Female,03-03-2019,19-05-2021,43512,86.4,Bengaluru,Exited
+EMP2802,Vikas Gupta,IT,Executive,Male,28-12-2024,,78176,86.2,Indore,Exited
+EMP2803,Vikas Nair,Admin,Coordinator,Male,29-04-2020,27-04-2022,81608,80.9,Hyderabad,Exited
+EMP2804,Kiran Choudhary,IT,Associate,Male,09-01-2021,28-04-2021,77568,90.8,Delhi,Exited
+EMP2805,Arjun Sharma,hr,Associate,Male,27-06-2020,17-09-2022,64990,81.4,Bengaluru,Exited
+EMP2806,Aditya Mehta,HR,Associate,Female,18-02-2023,,27547,80.1,Hyderabad,Active
+EMP2807,Vihaan Shinde,Operations,Associate,Female,15-02-2024,01-02-2026,36083,81.6,Nagpur,Exited
+EMP2808,Kiran Patel,hr,Analyst,Female,15-08-2020,,70797,78.0,Nagpur,Exited
+EMP2809,Arjun Bhosale,Operations,Executive,Female,01-10-2022,,76887,91.6,Hyderabad,Active
+EMP2810,Aadhya Gupta,hr,Senior Executive,Female,20-11-2022,21-04-2025,23946,93.4,Nagpur,Exited
+EMP2811,Aarav Choudhary,Human Resource,Manager,Male,01-06-2020,01-07-2020,20367,71.9,Chennai,Exited
+EMP2812,Diya Jain,IT,Analyst,Male,31-01-2022,,78208,94.8,Bengaluru,Active
+EMP2813,Deepak Reddy,Human Resource,Manager,Female,22-08-2024,,61004,70.2,Pune,Active
+EMP2814,Rahul Nair,Marketing,Manager,Female,18-01-2021,,52316,77.2,Nagpur,Active
+EMP2815,Kavya Patel,IT,Executive,Male,09-03-2023,,81107,93.6,Indore,Active
+EMP2816,Nikhil Verma,hr,Associate,Male,20-04-2020,04-02-2022,41330,99.4,Pune,Exited
+EMP2817,Sneha Ninawe,IT,Analyst,Female,28-11-2019,,65543,71.6,Nagpur,Active
+EMP2818,Ananya Verma,HR,Coordinator,Female,08-03-2024,,74385,90.4,Mumbai,Active
+EMP2819,Rahul Kulkarni,hr,Analyst,Male,27-08-2024,27-08-2025,56408,93.9,Indore,Exited
+EMP2820,Isha Pawar,Admin,Senior Executive,Female,23-05-2021,21-02-2023,51697,93.0,Chennai,Exited
+EMP2821,Manoj Patel,Admin,Analyst,Female,09-10-2024,,80145,94.3,Pune,Active
+EMP2822,Ananya Patel,HR,Coordinator,Female,22-11-2021,,64110,76.7,Nagpur,Exited
+EMP2823,Aditya Shinde,Sales,Senior Executive,Male,23-05-2021,10-12-2022,49713,82.6,Mumbai,Exited
+EMP2824,Neha Kulkarni,Marketing,Associate,Male,19-11-2023,,74264,87.6,Delhi,Active
+EMP2825,Sakshi Kulkarni,Sales,Analyst,Female,23-08-2024,,57798,94.0,Chennai,Active
+EMP2826,Swati Yadav,IT,Senior Executive,Male,18-07-2020,,61364,83.4,Wardha,Active
+EMP2827,Swati Kulkarni,HR,Executive,Female,31-05-2023,07-06-2024,64194,98.8,Nagpur,Exited
+EMP2828,Ananya Choudhary,Human Resource,Senior Executive,Male,09-02-2019,,61687,71.3,Bengaluru,Active
+EMP2829,Shreya Sharma,Admin,Executive,Male,21-02-2020,,31071,83.9,Indore,Active
+EMP2830,Neha Singh,Admin,Senior Executive,Female,20-03-2019,,61061,90.5,Mumbai,Active
+EMP2831,Akash Ninawe,Human Resource,Senior Executive,Female,08-04-2019,21-05-2020,48645,91.0,Pune,Exited
+EMP2832,Akash Ninawe,HR,Associate,Female,05-12-2019,,41886,93.5,Hyderabad,Active
+EMP2833,Deepak Verma,HR,Executive,Female,08-10-2020,24-10-2022,24655,73.3,Delhi,Exited
+EMP2834,Deepak Ninawe,sales,Executive,Female,29-11-2021,22-09-2023,62536,78.5,Wardha,Exited
+EMP2835,Vihaan Shinde,Finance,Manager,Female,12-06-2020,31-08-2020,64381,89.3,Delhi,Exited
+EMP2836,Akash Patel,HR,Senior Executive,Male,09-02-2019,,46341,76.1,Pune,Exited
+EMP2837,Aarav Kulkarni,sales,Associate,Male,31-05-2020,,46116,85.2,Bengaluru,Active
+EMP2838,Aditya Patel,Marketing,Manager,Female,13-05-2022,,47016,96.4,Nagpur,Active
+EMP2839,Vikas Mishra,sales,Executive,Female,24-09-2021,07-10-2022,37203,81.6,Mumbai,Exited
+EMP2840,Vivaan Pawar,Operations,Coordinator,Female,23-02-2019,,70138,98.3,Indore,Active
+EMP2841,Vivaan Patel,Marketing,Associate,Female,04-05-2023,18-07-2023,49671,90.8,Nagpur,Exited
+EMP2842,Sakshi Deshmukh,Finance,Executive,Male,29-03-2022,16-05-2023,47494,81.8,Wardha,Exited
+EMP2843,Neha Ninawe,sales,Analyst,Female,05-09-2022,,46569,94.9,Pune,Active
+EMP2844,Rahul Deshmukh,IT,Analyst,Female,06-07-2022,,69270,73.2,Indore,Exited
+EMP2844,Aadhya Ninawe,Admin,Analyst,Male,08-09-2019,,37588,79.2,Pune,Active
+EMP2846,Aditya Sharma,HR,Analyst,Male,13-06-2019,29-08-2019,64683,89.1,Indore,Exited
+EMP2847,Vikas Pawar,Marketing,Analyst,Male,03-11-2021,,19827,72.7,Chennai,Active
+EMP2848,Isha Joshi,Human Resource,Senior Executive,Female,27-01-2019,03-02-2020,77839,79.7,Nagpur,Exited
+EMP2849,Aditya Ninawe,Admin,Analyst,Male,01-10-2023,,24085,82.6,Nagpur,Exited
+EMP2850,Kiran Sharma,Human Resource,Senior Executive,Female,18-02-2024,26-09-2024,,99.5,Mumbai,Exited
+EMP2851,Sakshi Bhosale,Human Resource,Analyst,Male,05-01-2019,,63121,91.4,Indore,Exited
+EMP2852,Aarav Ninawe,Finance,Manager,Male,03-11-2023,,30972,72.0,Indore,Active
+EMP2853,Kiran Singh,Marketing,Coordinator,Male,25-06-2024,,65977,83.0,Pune,Active
+EMP2854,Amit Pawar,Finance,Manager,Female,02-01-2025,18-08-2026,28689,87.1,Wardha,Exited
+EMP2855,Sakshi Reddy,Human Resource,Senior Executive,Male,21-01-2020,05-04-2020,24598,84.4,Delhi,Exited
+EMP2856,Aditya Mehta,IT,Senior Executive,Female,25-09-2020,25-01-2023,84724,98.8,Bengaluru,Exited
+EMP2857,Deepak Verma,hr,Manager,Female,05-10-2024,,40036,74.9,Mumbai,Active
+EMP2858,Sai Mehta,Finance,Analyst,Male,21-04-2022,,47968,71.8,Pune,Active
+EMP2859,Aadhya Kulkarni,Operations,Manager,Male,15-02-2022,,35259,72.0,Hyderabad,Active
+EMP2860, Rohan Bhosale ,Finance,Analyst,Male,11-02-2019,,19709,89.0,Mumbai,Active
+EMP2861,Aadhya Gupta,Finance,Associate,Female,21-06-2020,,75528,95.5,Nagpur,Active
+EMP2862,Sakshi Singh,Finance,Analyst,Male,08-03-2023,,23430,82.5,Mumbai,Active
+EMP2863,Kavya Kulkarni,IT,Senior Executive,Male,18-03-2021,,25528,98.0,Wardha,Active
+EMP2864,Isha Shinde,sales,Analyst,Male,18-06-2023,,47392,90.5,Nagpur,Active
+EMP2865,Siddharth Patel,IT,Analyst,Male,31-10-2019,,23357,73.6,Mumbai,Exited
+EMP2866,Aadhya Joshi,Marketing,Associate,Male,04-02-2022,,68737,74.5,Pune,Active
+EMP2867,Kiran Deshmukh,hr,Senior Executive,Female,16-09-2023,,25323,86.7,Hyderabad,Exited
+EMP2868,Manoj Pawar,IT,Analyst,Female,01-03-2024,,68222,97.9,Pune,Active
+EMP2869,Rohan Nair,IT,Senior Executive,Female,22-01-2023,,55609,89.7,Wardha,Exited
+EMP2870,Kavya Patil,Finance,Coordinator,Female,08-06-2022,,47454,80.3,Bengaluru,Active
+EMP2871,Nikhil Bhosale,IT,Associate,Male,16-11-2020,,40143,83.0,Pune,Exited
+EMP2872,Aditya Yadav,Human Resource,Manager,Male,13-11-2021,,71862,97.6,Hyderabad,Active
+EMP2873,Nikhil Mehta,sales,Manager,Male,27-12-2021,,31292,86.0,Wardha,Active
+EMP2874,Siddharth Bhosale,hr,Manager,Female,28-07-2023,,49470,97.2,Pune,Active
+EMP2875,Akash Bhosale,Admin,Analyst,Male,07-04-2023,,62411,91.6,Bengaluru,Exited
+EMP2876,Isha Ninawe,sales,Senior Executive,Male,24-08-2019,10-05-2020,50181,98.5,Mumbai,Exited
+EMP2877,Kiran Joshi,hr,Associate,Male,19-11-2019,12-06-2021,83471,81.2,Bengaluru,Exited
+EMP2878,Pooja Shinde,IT,Coordinator,Female,05-01-2022,14-05-2023,70609,91.7,Hyderabad,Exited
+EMP2879,Ananya Mishra,Finance,Associate,Female,24-11-2023,19-05-2026,53501,97.9,Indore,Exited
+EMP2880,Neha Patel,IT,Senior Executive,Female,04-05-2021,,41210,81.1,Indore,Exited
+EMP2881,Sakshi Sharma,Admin,Analyst,Female,22-09-2022,02-02-2025,62786,87.9,Hyderabad,Exited
+EMP2882,Kiran Mishra,Admin,Executive,Male,11-04-2023,10-08-2024,41818,70.4,Bengaluru,Exited
+EMP2883,Arjun Joshi,sales,Senior Executive,Male,01-05-2020,,34061,99.9,Bengaluru,Exited
+EMP2884,Nikhil Mehta,Admin,Associate,Male,11-03-2021,,38632,79.0,Hyderabad,Active
+EMP2885,Ritika Yadav,Finance,Analyst,Male,17-08-2019,28-04-2020,78017,98.8,Mumbai,Exited
+EMP2886,Aarav Mehta,hr,Executive,Female,23-07-2024,14-01-2025,33761,91.9,Wardha,Exited
+EMP2887,Aditya Mehta,Sales,Senior Executive,Female,27-07-2022,,45409,92.2,Nagpur,Active
+EMP2888,Kavya Nair,Operations,Executive,Male,29-11-2021,26-10-2023,83281,84.9,Nagpur,Exited
+EMP2889,Deepak Sharma,Marketing,Analyst,Female,11-08-2023,28-12-2025,37344,83.9,Nagpur,Exited
+EMP2889,Rohan Pawar,IT,Executive,Male,19-08-2022,,79345,78.4,Mumbai,Exited
+EMP2891,Nikhil Verma,sales,Senior Executive,Female,16-09-2020,19-12-2020,21222,89.5,Mumbai,Exited
+EMP2892,Vivaan Sharma,Human Resource,Executive,Female,04-06-2024,,34780,75.6,Wardha,Active
+EMP2893,Akash Deshmukh,hr,Analyst,Male,09-10-2023,,57468,93.1,Delhi,Active
+EMP2894,Bhavna Patil,Marketing,Analyst,Male,22-12-2019,08-08-2022,22598,75.9,Hyderabad,Exited
+EMP2895,Pooja Gupta,Marketing,Coordinator,Male,20-05-2023,,21511,87.3,Wardha,Active
+EMP2896,Kiran Joshi,sales,Analyst,Male,07-06-2020,02-07-2021,45945,75.1,Wardha,Exited
+EMP2897,Diya Bhosale,Finance,Senior Executive,Female,08-11-2024,,18186,95.6,Delhi,Active
+EMP2898,Kiran Mishra,Finance,Associate,Male,13-06-2020,,73473,85.2,Mumbai,Active
+EMP2899,Rahul Patil,hr,Associate,Female,20-07-2019,,42567,93.6,Pune,Exited
+EMP2900,Bhavna Nair,Human Resource,Associate,Male,29-03-2021,,,74.7,Pune,Exited
+EMP2901,Pooja Mehta,Finance,Manager,Female,19-01-2021,,82617,97.7,Bengaluru,Active
+EMP2902,Vikas Kulkarni,IT,Associate,Female,13-05-2024,,60508,73.9,Delhi,Active
+EMP2903,Ananya Gupta,Human Resource,Coordinator,Female,23-10-2020,,31910,77.6,Nagpur,Active
+EMP2904,Pooja Mehta,Admin,Manager,Female,23-09-2020,,41414,82.2,Chennai,Active
+EMP2905,Sai Bhosale,sales,Analyst,Female,14-05-2021,21-12-2023,69067,95.9,Delhi,Exited
+EMP2906,Aditya Singh,Marketing,Senior Executive,Male,16-08-2019,05-12-2021,82458,94.8,Mumbai,Exited
+EMP2907,Rahul Jain,Finance,Analyst,Male,02-06-2022,,60461,96.7,Pune,Active
+EMP2908,Diya Patil,Human Resource,Senior Executive,Female,02-07-2023,,84678,76.9,Wardha,Active
+EMP2909,Akash Mishra,IT,Executive,Female,17-09-2019,03-01-2022,80409,79.6,Pune,Exited
+EMP2910,Kiran Ninawe,hr,Manager,Female,17-02-2023,,74114,72.2,Hyderabad,Active
+EMP2911,Sneha Pawar,Sales,Coordinator,Male,11-03-2019,,67279,87.7,Wardha,Active
+EMP2912,Vikas Reddy,sales,Executive,Male,27-01-2021,,80542,70.5,Nagpur,Active
+EMP2913,Kavya Ninawe,HR,Analyst,Female,19-10-2019,,29770,72.2,Delhi,Exited
+EMP2914,Rohan Joshi,IT,Associate,Male,11-07-2023,02-06-2025,77494,87.0,Indore,Exited
+EMP2915,Rahul Deshmukh,hr,Executive,Male,06-11-2020,15-04-2022,48320,74.0,Chennai,Exited
+EMP2916,Akash Sharma,Operations,Analyst,Male,21-10-2022,24-01-2024,64191,98.2,Bengaluru,Exited
+EMP2917,Ananya Singh,Admin,Coordinator,Female,11-01-2020,20-08-2020,22047,75.5,Pune,Exited
+EMP2918,Arjun Verma,Human Resource,Executive,Female,10-05-2020,,64133,84.6,Chennai,Active
+EMP2919,Aadhya Yadav,Admin,Executive,Male,12-02-2024,11-03-2026,24545,82.6,Indore,Exited
+EMP2920, Isha Patil ,Sales,Coordinator,Female,20-06-2022,20-05-2023,76697,97.7,Pune,Exited
+EMP2921,Kavya Deshmukh,IT,Senior Executive,Male,24-11-2022,27-01-2023,51676,70.7,Delhi,Exited
+EMP2922,Pooja Jain,Finance,Coordinator,Female,10-04-2024,,22932,99.3,Chennai,Active
+EMP2923,Siddharth Ninawe,Operations,Manager,Female,13-12-2023,,32406,74.1,Chennai,Active
+EMP2924,Diya Jain,Finance,Analyst,Female,22-07-2019,26-08-2021,19042,80.5,Nagpur,Exited
+EMP2925,Amit Ninawe,Operations,Senior Executive,Male,21-08-2023,,73910,99.6,Hyderabad,Active
+EMP2926,Siddharth Yadav,Marketing,Manager,Female,05-10-2022,19-08-2023,72256,77.4,Hyderabad,Exited
+EMP2927,Bhavna Kulkarni,Sales,Senior Executive,Male,25-06-2021,07-10-2023,27567,81.9,Delhi,Exited
+EMP2928,Bhavna Bhosale,Finance,Coordinator,Female,24-11-2021,11-10-2022,47676,96.3,Bengaluru,Exited
+EMP2929,Aarav Nair,Marketing,Executive,Female,02-12-2020,,47429,85.0,Nagpur,Active
+EMP2930,Siddharth Reddy,Finance,Executive,Male,23-12-2024,,38669,99.9,Wardha,Exited
+EMP2931,Arjun Verma,Human Resource,Senior Executive,Female,16-04-2020,18-09-2021,60837,75.8,Chennai,Exited
+EMP2932,Pooja Jain,Operations,Analyst,Male,24-06-2020,,22887,71.3,Bengaluru,Active
+EMP2933,Rohan Pawar,Sales,Manager,Male,12-04-2023,,37448,87.0,Mumbai,Active
+EMP2934,Arjun Mishra,hr,Manager,Female,12-07-2020,,44743,80.0,Chennai,Active
+EMP2934,Deepak Mishra,Marketing,Coordinator,Female,24-05-2023,,61354,88.8,Wardha,Active
+EMP2936,Aarav Mehta,IT,Senior Executive,Female,20-11-2019,,27015,86.6,Delhi,Active
+EMP2937,Aadhya Jain,IT,Executive,Male,08-05-2023,,29094,98.0,Indore,Active
+EMP2938,Pooja Verma,Finance,Associate,Male,29-04-2022,,42968,98.0,Nagpur,Active
+EMP2939,Vivaan Joshi,Finance,Associate,Male,23-06-2022,,52750,89.7,Mumbai,Exited
+EMP2940,Priya Joshi,Operations,Executive,Female,30-08-2023,04-04-2025,21672,91.3,Nagpur,Exited
+EMP2941,Rohan Kulkarni,IT,Manager,Female,25-07-2019,,29753,83.1,Bengaluru,Active
+EMP2942,Aditya Shinde,Sales,Analyst,Female,10-02-2021,,57596,71.8,Delhi,Active
+EMP2943,Vikas Mishra,HR,Associate,Female,31-10-2020,,54743,80.2,Wardha,Active
+EMP2944,Bhavna Jain,Human Resource,Coordinator,Male,25-03-2021,,35495,88.7,Delhi,Active
+EMP2945,Aarav Gupta,HR,Analyst,Male,04-07-2020,21-11-2020,46249,76.9,Delhi,Exited
+EMP2946,Ananya Kulkarni,IT,Manager,Female,02-04-2024,,34102,93.5,Hyderabad,Exited
+EMP2947,Swati Sharma,Operations,Coordinator,Female,15-10-2023,,80703,92.5,Hyderabad,Active
+EMP2948,Diya Verma,Human Resource,Analyst,Male,12-02-2022,,28255,92.0,Indore,Exited
+EMP2949,Bhavna Kulkarni,Operations,Analyst,Female,29-11-2020,,21806,91.5,Nagpur,Active
+EMP2950,Vivaan Gupta,Marketing,Executive,Female,27-04-2022,,,91.5,Nagpur,Exited
+EMP2951,Akash Gupta,Sales,Senior Executive,Female,02-08-2019,,72209,91.9,Pune,Exited
+EMP2952,Manoj Reddy,Operations,Senior Executive,Male,08-08-2022,05-06-2024,41970,81.6,Indore,Exited
+EMP2953,Diya Mehta,Operations,Executive,Male,23-09-2020,05-10-2021,84294,74.7,Mumbai,Exited
+EMP2954,Kiran Choudhary,sales,Coordinator,Male,28-04-2023,11-03-2024,51386,98.4,Wardha,Exited
+EMP2955,Diya Deshmukh,Operations,Analyst,Male,09-11-2019,,31071,72.6,Mumbai,Active
+EMP2956,Vihaan Nair,Operations,Manager,Female,04-10-2024,,48894,99.5,Indore,Active
+EMP2957,Kavya Bhosale,HR,Senior Executive,Male,30-10-2019,30-04-2022,81534,93.9,Delhi,Exited
+EMP2958,Siddharth Gupta,sales,Manager,Male,29-02-2020,28-09-2020,59725,84.8,Nagpur,Exited
+EMP2959,Sai Gupta,Operations,Analyst,Male,08-05-2023,,77559,70.6,Bengaluru,Exited
+EMP2960,Arjun Gupta,hr,Manager,Female,19-03-2023,,67398,90.6,Bengaluru,Active
+EMP2961,Rohan Patil,Finance,Analyst,Female,10-03-2021,,43624,78.8,Wardha,Active
+EMP2962,Ritika Sharma,Sales,Executive,Female,19-08-2024,05-05-2026,61331,83.9,Nagpur,Exited
+EMP2963,Aarav Mishra,Admin,Analyst,Female,27-03-2023,,59054,84.9,Nagpur,Exited
+EMP2964,Neha Pawar,Finance,Associate,Female,17-10-2020,17-08-2021,42246,84.2,Nagpur,Exited
+EMP2965,Sai Mishra,Admin,Executive,Female,21-09-2020,,72835,80.5,Pune,Active
+EMP2966,Arjun Bhosale,Human Resource,Analyst,Female,24-04-2019,28-12-2021,38665,73.5,Hyderabad,Exited
+EMP2967,Swati Pawar,Finance,Senior Executive,Female,22-06-2019,,59647,77.0,Delhi,Active
+EMP2968,Isha Gupta,IT,Associate,Female,06-12-2020,08-07-2021,23602,72.3,Bengaluru,Exited
+EMP2969,Siddharth Nair,HR,Analyst,Male,23-10-2022,,43497,76.7,Indore,Active
+EMP2970,Bhavna Verma,HR,Executive,Male,21-01-2022,,38582,75.3,Nagpur,Active
+EMP2971,Vihaan Ninawe,hr,Manager,Female,05-03-2023,23-10-2025,32765,86.1,Chennai,Exited
+EMP2972,Vikas Pawar,Marketing,Executive,Male,07-08-2024,,19105,85.9,Bengaluru,Exited
+EMP2973,Vikas Mehta,HR,Manager,Male,15-05-2023,21-07-2025,35506,71.3,Chennai,Exited
+EMP2974,Sai Choudhary,Marketing,Senior Executive,Female,01-08-2024,04-01-2026,50053,93.3,Chennai,Exited
+EMP2975,Nikhil Patil,Sales,Manager,Male,24-06-2023,22-11-2023,75061,76.5,Nagpur,Exited
+EMP2976,Vihaan Bhosale,Human Resource,Executive,Male,22-11-2023,,41467,75.5,Bengaluru,Active
+EMP2977,Sakshi Patel,HR,Coordinator,Male,10-03-2022,,51152,93.9,Pune,Active
+EMP2978,Priya Reddy,Marketing,Coordinator,Female,03-04-2020,,79742,74.6,Chennai,Active
+EMP2979,Rohan Bhosale,Admin,Coordinator,Male,11-02-2022,,39087,73.3,Indore,Active
+EMP2979, Aarav Verma ,Finance,Manager,Male,05-11-2023,29-12-2025,40032,71.9,Hyderabad,Exited
+EMP2981,Swati Deshmukh,Human Resource,Analyst,Male,10-10-2022,,69908,70.1,Mumbai,Active
+EMP2982,Sneha Ninawe,Sales,Senior Executive,Male,27-09-2021,,18250,97.7,Nagpur,Active
+EMP2983,Akash Choudhary,Admin,Associate,Female,13-09-2019,,77126,74.9,Wardha,Active
+EMP2984,Bhavna Pawar,Finance,Coordinator,Female,19-07-2021,,45106,90.2,Delhi,Active
+EMP2985,Ananya Reddy,IT,Analyst,Female,08-12-2019,29-06-2022,70755,83.6,Delhi,Exited
+EMP2986,Kavya Mehta,Sales,Analyst,Male,21-03-2020,,27749,89.9,Nagpur,Active
+EMP2987,Ananya Joshi,Admin,Manager,Male,16-09-2020,,84597,80.5,Nagpur,Active
+EMP2988,Isha Bhosale,hr,Associate,Female,04-12-2024,21-08-2027,20593,84.8,Pune,Exited
+EMP2989,Nikhil Verma,IT,Manager,Male,25-02-2023,,18822,95.7,Bengaluru,Active
+EMP2990,Diya Patel,Admin,Associate,Male,05-06-2020,28-08-2021,33306,80.6,Chennai,Exited
+EMP2991,Rohan Mehta,Finance,Manager,Male,09-05-2022,07-12-2022,20180,91.0,Chennai,Exited
+EMP2992,Pooja Patil,Marketing,Coordinator,Male,24-04-2023,,64386,74.2,Wardha,Active
+EMP2993,Ananya Yadav,Admin,Senior Executive,Male,08-09-2024,,63013,88.1,Chennai,Active
+EMP2994,Nikhil Sharma,Operations,Associate,Female,05-05-2022,,20945,88.8,Nagpur,Active
+EMP2995,Bhavna Bhosale,IT,Coordinator,Female,29-09-2023,,75392,84.5,Indore,Exited
+EMP2996,Aarav Mehta,Admin,Coordinator,Female,17-02-2024,09-08-2025,51411,90.6,Bengaluru,Exited
+EMP2997,Neha Kulkarni,hr,Senior Executive,Male,16-09-2024,,84069,82.3,Delhi,Active
+EMP2998,Priya Shinde,Marketing,Manager,Male,07-11-2022,,70254,99.9,Bengaluru,Active
+EMP2999,Bhavna Choudhary,Marketing,Coordinator,Male,25-04-2019,,19294,89.9,Indore,Exited
