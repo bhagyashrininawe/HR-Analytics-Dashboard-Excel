@@ -9,7 +9,7 @@ The dashboard provides insights into workforce distribution, attrition trends, s
 ---
 
 ## Dashboard Preview
-[View HR Analytics Dashboard](https://github.com/bhagyashrininawe/HR-Analytics-Dashboard-Excel/blob/main/hr%20Analytist%20dashboard.png?raw=true)
+[View HR Analytics Dashboard](https://github.com/bhagyashrininawe/HR-Analytics-Dashboard-Excel/blob/main/hr%20Analytist%20dashboard.png)
 
 ---
 
